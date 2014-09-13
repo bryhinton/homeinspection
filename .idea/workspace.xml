@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1ed6da5-adc3-4655-9553-a436736637cd" name="Default" comment="" />
+    <list default="true" id="f1ed6da5-adc3-4655-9553-a436736637cd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" afterPath="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" />
+    </list>
     <ignored path="HomeInspection.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,28 +62,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pricing.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partials/inspection/pricing.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="6" selection-start="1074" selection-end="1074" vertical-scroll-proportion="-10.461538">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Email.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WEB-INF/src/email/Email.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="91" selection-start="2408" selection-end="2408" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InspectionServlet.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="InspectionServlet.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="287" column="48" selection-start="11015" selection-end="11015" vertical-scroll-proportion="0.0">
+            <state line="243" column="56" selection-start="9333" selection-end="9333" vertical-scroll-proportion="0.20693928">
               <folding />
             </state>
           </provider>
@@ -103,10 +89,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schema.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="schema.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schema.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.062195122">
+            <state line="158" column="21" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schema.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schema.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inspection.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/inspection.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1943" column="32" selection-start="58353" selection-end="58353" vertical-scroll-proportion="-1254.52">
               <folding />
             </state>
           </provider>
@@ -254,6 +258,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -271,8 +278,8 @@
         <option value="$PROJECT_DIR$/partials/inspection/pricing.html" />
         <option value="$PROJECT_DIR$/scripts/control-center/control-center.js" />
         <option value="$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java" />
-        <option value="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" />
         <option value="$PROJECT_DIR$/WEB-INF/src/pdf/GeneratePDF.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" />
       </list>
     </option>
   </component>
@@ -289,7 +296,7 @@
     <option name="width" value="1696" />
     <option name="height" value="1026" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -615,7 +622,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.editor" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
@@ -1068,34 +1075,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/email/Email.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="91" selection-start="2408" selection-end="2408" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/inspection/directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="377" column="14" selection-start="11499" selection-end="11499" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/inspection/confirmReview.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/utils/OneDB.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="19" selection-start="1531" selection-end="1531" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="6" selection-start="1224" selection-end="1224" vertical-scroll-proportion="0.0">
@@ -1147,20 +1126,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="287" column="48" selection-start="11015" selection-end="11015" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/GeneratePDF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="141" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partials/inspection/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
@@ -1184,7 +1149,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/schema.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.062195122">
+        <state line="158" column="21" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/inspection/pricing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="6" selection-start="1074" selection-end="1074" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/email/Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="91" selection-start="2408" selection-end="2408" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/inspection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1943" column="32" selection-start="58353" selection-end="58353" vertical-scroll-proportion="-1254.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/GeneratePDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="141" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="243" column="56" selection-start="9333" selection-end="9333" vertical-scroll-proportion="0.20693928">
           <folding />
         </state>
       </provider>

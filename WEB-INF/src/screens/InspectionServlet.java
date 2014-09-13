@@ -241,6 +241,7 @@ public class InspectionServlet extends HttpServlet {
 		Thread thread = new Thread() {
 
 			public void run() {
+				System.out.println("Email thread started");
 				Company company = Companies.getCompany(companyID);
 				Technician technician = Technicians.getTechnician(techID);
 
@@ -256,6 +257,7 @@ public class InspectionServlet extends HttpServlet {
 				String fullURL = requestURL;
 				fullURL = fullURL.substring(0, fullURL.lastIndexOf("/"));
 
+				System.out.println("Trying to start PDF generation...");
 				GeneratePDF generatePDF = new GeneratePDF();
 				generatePDF.genrateCmd(fullURL + "/pdf-generator/index.html?inspectionID=" + inspectionID, "inspections", String.valueOf(company.getID()), fileName);
 
