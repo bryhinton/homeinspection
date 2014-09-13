@@ -1,0 +1,29 @@
+<div class="inspection" id="inspection">
+	<div class="area-menu">
+		<div class="customer">
+			<div class="name" id="inspection-name">{{inspection.fields.firstname}} {{inspection.fields.lastname}}</div>
+			<div class="date" id="inspection-date">{{inspection.fields.date}}</div>
+		</div>
+		<div class="inspection-areas">
+			<div ng-repeat="(id, inspectionArea) in inspection.fields.inspectionAreas" ng-class="{selected: inspectionArea.id == selectedID}" ng-click="selectInspectionArea(id)" areaid="{{inspectionArea.fields.area}}">
+				{{inspectionArea.fields.name}}
+			</div>
+		</div>
+		<div class="inspection-buttons">
+			<button class="inspection-button" ng-click="toggleAddArea()"><img src="images/icons/add29.svg"></button><button class="inspection-button choose-area" ng-class="{disabled: inspection.fields['inspectionAreas'] == null}" ng-disabled="inspection.fields['inspectionAreas'] == null" ng-click="toggleChangeArea()"><img src="images/icons/list23.svg"></button><button class="inspection-button" ng-class="{disabled: inspection.fields['inspectionAreas'] == null}" ng-disabled="inspection.fields['inspectionAreas'] == null" ng-click="toggleConfirmReview()"><img src="images/icons/clipboard6.svg"></button>
+		</div>
+	</div>
+	<div class="items">
+		<div class="blank-state" ng-show="!selectedInspectionArea">
+			<div class="text">
+				Add an area to begin.
+			</div>
+			<img src="images/icons/thin.svg">
+		</div>
+		<div class="title">{{selectedInspectionArea.fields.name}}</div>
+		<div ng-repeat="(id, section) in sections" section sectionid="section.id"></div>
+	</div>
+	<div addarea></div>
+	<div changearea></div>
+	<div confirmreview></div>
+</div>

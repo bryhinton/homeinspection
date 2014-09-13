@@ -1,0 +1,9 @@
+<p ng-show="inspections.length == 0">You have no inspections.</p>
+<ul class="inspections">
+	<li ng-repeat="(id, inspection) in inspections" ng-class="{contacted: inspection.Contacted, selected: id == selectedID}" ng-click="selectInspection(id)">
+		<span class="name">{{inspection.FirstName}} {{inspection.LastName}}</span>
+		<span class="date">{{inspection.Date | date:'mediumDate'}}</span>
+		<span class="quote tech">{{inspection.technician.FirstName}} {{inspection.technician.LastName}}</span>
+	</li>
+</ul>
+<div class="object-view" ng-include src="'partials/control-center/inspectionView.html'"></div>

@@ -1,0 +1,31 @@
+<div class="review">
+	<div class="area-menu">
+		<div class="customer">
+			<div class="name" id="inspection-name">{{inspection.fields.firstname}} {{inspection.fields.lastname}}</div>
+			<div class="date" id="inspection-date">{{inspection.fields.date}}</div>
+		</div>
+		<div class="inspection-areas">
+			<div ng-repeat="(id, inspectionArea) in inspection.fields.inspectionAreas" ng-class="{selected: inspectionArea.id == selectedID}" ng-click="selectInspectionArea(id)" areaid="{{inspectionArea.fields.area}}">
+				{{inspectionArea.fields.name}}
+			</div>
+		</div>
+		<div class="inspection-buttons">
+			<button type="button" class="inspection-button" ng-click="toggleAddArea()"><img src="images/icons/checked.svg"></button><button class="inspection-button choose-area" ng-click="toggleChangeArea()"><img src="images/icons/list23.svg"></button><button class="inspection-button" ng-class="{disabled: inspection.fields['inspectionAreas'] == null}" ng-disabled="inspection.fields['inspectionAreas'] == null" ng-click="toggleConfirmReview()"><img class="order" src="images/icons/order.svg"></button>
+		</div>
+	</div>
+	<div class="items">
+		<div class="section-title">{{selectedInspectionArea.fields.name}}</div>
+		<div ng-repeat="(id, section) in sections" class="section">
+			<div class="section-name">{{section.fields.name}}</div>
+			<div ng-repeat="(id, failedLineItem) in failedLineItems[section.id]" class="line-item">
+				<div class="name">{{failedLineItem.fields.name}}</div>
+				<button type="button" ng-click="togglePricing(failedLineItem.id)"><img src="images/icons/dollar104.svg"><span>Pricing...</span></button>
+			</div>
+			<div ng-show="!failedLineItems[section.id]" class="blank-state">
+				<span>All items passed!</span><img src="images/icons/check10green.svg">
+			</div>
+		</div>
+	</div>
+	<div changearea></div>
+	<div pricing></div>
+</div>

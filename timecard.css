@@ -1,0 +1,24 @@
+.big {
+	font-size:500%;
+	width:50%;
+	height:20%;
+	margin:3% 0%;
+}
+
+body {
+	height:100%;
+	position:relative;
+}
+
+html {
+	height:100%;
+}
+
+.main {
+	text-align:center;
+	height:100%;
+}
+
+.time-count {
+	font-size:500%;
+}

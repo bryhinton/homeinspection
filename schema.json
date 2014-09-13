@@ -1,0 +1,191 @@
+{
+	"inspection": {
+		"id": ["unique"],
+		"firstname": [],
+		"lastname": [],
+		"address": [],
+		"city": [],
+		"state": [],
+		"zip": [],
+		"date": [],
+		"phone": [],
+		"email": [],
+		"tech": [],
+		"company": [],
+		"finished": [],
+		"sendquote": [],
+		"signature": []
+	},
+	"area": {
+		"id": ["unique"],
+		"name": []
+	},
+	"inspectionarea": {
+		"id":["unique"],
+		"inspection": [],
+		"area": [],
+		"name": [],
+		"foreignkeys": [
+			{
+				"column": "inspection",
+				"reftable": "inspection",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			},
+			{
+				"column": "area",
+				"reftable": "area",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			}
+		]
+	},
+	"inspectionarealineitem": {
+		"id":["unique"],
+		"inspectionarea": [],
+		"name": [],
+		"parent": [],
+		"lineitem": [],
+		"result": [],
+		"comment": [],
+		"foreignkeys": [
+			{
+				"column": "inspectionarea",
+				"reftable": "inspectionarea",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			},
+			{
+				"column": "lineitem",
+				"reftable": "lineitem",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			}
+		]
+	},
+	"customlineitem": {
+		"id":["unique"],
+		"name": [],
+		"parent": [],
+		"inspectionarea": [],
+		"result": [],
+		"comment": [],
+		"foreignkeys": [
+			{
+				"column": "inspectionarea",
+				"reftable": "inspectionarea",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			}
+		]
+	},
+	"lineitem": {
+		"id":["unique"],
+		"name": [],
+		"parent": [],
+		"area": [],
+		"foreignkeys": [
+			{
+				"column": "area",
+				"reftable": "area",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			}
+		]
+	},
+	"category": {
+		"id":["unique"],
+		"name": [],
+		"parent": [],
+		"foreignkeys": [
+			{
+				"column": "parent",
+				"reftable": "category",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			}
+		]
+	},
+	"task": {
+		"id":["unique"],
+		"name": [],
+		"number": [],
+		"description": [],
+		"time": [],
+		"parts": [],
+		"standard": [],
+		"standardaddon": [],
+		"member": [],
+		"memberaddon": [],
+		"category": [],
+		"foreignkeys": [
+			{
+				"column": "category",
+				"reftable": "category",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			}
+		]
+	},
+	"quoteitem": {
+		"id":["unique"],
+		"inspectionarealineitem": [],
+		"task": [],
+		"inspection": [],
+		"active": [],
+		"addon": [],
+		"foreignkeys": [
+			{
+				"column": "inspection",
+				"reftable": "inspection",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			},
+			{
+				"column": "inspectionarealineitem",
+				"reftable": "inspectionarealineitem",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			},
+			{
+				"column": "task",
+				"reftable": "task",
+				"refcolumn": "id",
+				"cascade": {
+					"update": "true",
+					"delete": "true"
+				}
+			}
+		]
+	}
+}

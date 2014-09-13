@@ -1,0 +1,14 @@
+<div id="add-area" class="dialog add-area" ng-class="{show:showAddArea}">
+	<div class="title"><img class="icon" src="images/icons/add29.svg"><span>Add Area</span></div>
+	<div class="content">
+		<label>Choose Area</label>
+		<select id="new-area" ng-model="selectedNewArea" ng-options="area.fields.id as area.fields.name for (key, area) in areas" ng-change="selectArea()">
+			<option value="">Select...</option>
+		</select>
+		<br>
+		<label>Area Name</label>
+		<input type="text" id="new-area-name" ng-model="newAreaName">
+		<button type="button" ng-click="addArea()" class="dialog-button primary" ng-class="{disabled:!selectedNewArea || !newAreaName}" ng-disabled="!selectedNewArea || !newAreaName"><img src="images/icons/check10.svg"></button>
+		<button type="button" ng-click="toggleAddArea()" class="dialog-button cancel"><img src="images/icons/x.svg"></button>
+	</div>
+</div>

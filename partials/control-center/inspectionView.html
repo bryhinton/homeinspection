@@ -1,0 +1,45 @@
+<p ng-show="inspection == null" class="empty-inspection">Please choose an inspection to see its details.</p>
+<div ng-show="inspection != null" class="inspection-view">
+	<div class="side-panel">
+		<div class="name">{{inspection.FirstName}} {{inspection.LastName}}</div>
+		<div class="phone">{{inspection.Phone}}</div>
+		<div class="personal-info">
+			<div class="address">{{inspection.Address}}</div>
+			<div class="location">{{inspection.City}}, {{inspection.State}} {{inspection.ZIP}}</div>
+			<a href="mailto:{{inspection.email}}" class="email">{{inspection.Email}}</a>
+		</div>
+	</div>
+	<div class="content">
+		<div class="actions">
+			<button ng-show="inspection.Email != ''" type="button" ng-click="sendInspectionEmail()">Send Inspection Email</button>
+			<button type="button" ng-click="deleteWarn()">Delete</button>
+		</div>
+		<div class="date">{{inspection.Date | date:'MMMM dd, yyyy'}}</div>
+		<div class="tech">Technician: {{inspection.technician.FirstName}} {{inspection.technician.LastName}}</div>
+		<div class="contacted"><input type="checkbox" id="contacted" ng-model="inspection.Contacted" ng-click="contact()"><label for="contacted">Contacted</label></div>
+		<div class="line-items">
+			<div class="section-title">Failed Line Items</div>
+			<div ng-repeat="(id, failedLineItem) in inspection.failedLineItems" class="line-item" ng-show="inspection.failedLineItems.empty == null">
+				<div><span class="red-x">X</span>{{failedLineItem.path}}{{failedLineItem.lineItem.Name}}</div>
+				<div class="comment">{{failedLineItem.comment}}</div>
+			</div>
+			<div ng-show="inspection.failedLineItems.empty" class="empty"><span>&#x2713;</span>All items passed inspection.</div>
+		</div>
+		<div ng-show="inspection.quoteItems.empty == null" class="quote">
+			<div class="section-title">Quote</div>
+			<div ng-repeat="(id, quoteItem) in inspection.quoteItems" class="quote-item">
+				<div class="name">{{quoteItem.task.Name}}</div>
+				<div class="description">{{quoteItem.task.Description}}</div>
+				<div class="standard"><span class="price-label">Standard:</span>${{quoteItem.task.Standard | number:2}}</div>
+				<div class="member"><span class="price-label">Member:</span>${{quoteItem.task.Member | number:2}}</div>
+				<div class="yoursaved"><span class="price-label">Saved:</span>${{quoteItem.task.Standard - quoteItem.task.Member | number:2}}</div>
+			</div>
+			<div class="quote-total">
+				<div class="sub-title">Total</div>
+				<div class="total-standard"><span class="total-label">Standard:</span><span class="total-price">${{inspection.standardTotal | number:2}}</span></div>
+				<div class="total-member"><span class="total-label">Member:</span><span class="total-price">${{inspection.memberTotal | number:2}}</span></div>
+				<div class="total-saved"><span class="total-label">Saved:</span><span class="total-price">${{inspection.standardTotal - inspection.memberTotal | number:2}}</span></div>
+			</div>
+		</div>
+	</div>
+</div>

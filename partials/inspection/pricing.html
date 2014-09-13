@@ -1,0 +1,17 @@
+<div id="pricing" class="dialog pricing" ng-class="{show:showPricing}">
+	<div class="title"><img class="icon" src="images/icons/dollar104.svg"><span>Pricing</span></div>
+	<div class="content">
+		<div class="categories">
+			<div ng-repeat="category in categories" class="category">
+				<div class="category-name" ng-click="expandCategory(category.id)">{{category.fields.name}}</div>
+				<div ng-repeat="(id,subCategory) in categories[category.id].fields.subCategories" class="sub-category">
+					<div class="sub-category-name" ng-class="{show:expandedCategories[category.id]}" ng-click="expandSubCategory(subCategory.id)">{{subCategory.fields.name}}</div>
+					<div ng-repeat="(id,task) in categories[category.id].fields.subCategories[subCategory.id].fields.tasks" class="tasks" ng-class="{show:expandedSubCategories[subCategory.id]}">
+						<div class="task-name">{{task.fields.name}}</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<button type="button" ng-click="togglePricing()" class="dialog-button primary"><img src="images/icons/check10.svg"></button>
+	</div>
+</div>

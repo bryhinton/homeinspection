@@ -1,0 +1,16 @@
+<div class="section">
+	<div class="section-name">{{section.fields.name}}</div>
+		<div ng-repeat="lineItem in lineItems" class="line-item" >
+			<div class="name">{{lineItem.fields.name}}</div>
+			<div class="buttons">
+				<button type="button" ng-class="getResult(lineItem.id, 'pass')" ng-click="inspectItem('pass', lineItem)">Pass</button>
+				<button type="button" ng-class="getResult(lineItem.id, 'fail')" ng-click="inspectItem('fail', lineItem)">Fail</button>
+				<button type="button" ng-class="getResult(lineItem.id, 'na')" ng-click="inspectItem('na', lineItem)">N/A</button>
+			</div>
+			<div class="comment-box">
+				<label ng-click="showComment(lineItem.id)" ng-show="!visibleComments[lineItem.id]">Comment...</label>
+				<label ng-click="hideComment(lineItem.id)" class="hide-comment" ng-show="visibleComments[lineItem.id]">Hide Comment...</label>
+				<textarea ng-change="setComment(lineItem)" ng-model="comments[lineItem.id]" placeholder="Leave a comment..." ng-class="{show:visibleComments[lineItem.id]}"></textarea>
+			</div>
+		</div>
+</div>

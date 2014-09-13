@@ -1,0 +1,10 @@
+<ul class="settings">
+	<li ng-class="{selected: currentSettings == 'companyInfo'}" ng-click="currentSettings='companyInfo'"><span>Company Info</span></li>
+	<li ng-class="{selected: currentSettings == 'technicians'}" ng-click="currentSettings='technicians'">Technicians</li>
+	<li ng-class="{selected: currentSettings == 'inspection'}" ng-click="currentSettings='inspection'">Inspection App</li>
+</ul>
+<div ng-switch on="currentSettings">
+	<div class="object-view company-info" ng-switch-when="companyInfo" ng-include src="'partials/control-center/companyInfo.html'"></div>
+	<div class="object-view technicians" ng-switch-when="technicians" ng-include src="'partials/control-center/technicians.html'"></div>
+	<div class="object-view inspection-settings" ng-switch-when="inspection" ng-include src="'partials/control-center/inspectionSettings.html'"></div>
+</div>

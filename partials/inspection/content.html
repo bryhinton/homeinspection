@@ -1,0 +1,12 @@
+<div class="body-content" ng-switch on="path">
+	<div ng-switch-when="/customer">
+		<div data-customer-info callback="validateCustomerInfo()"></div>
+	</div>
+	<div ng-switch-when="/inspection">
+		<div data-inspection></div>
+	</div>
+	<div ng-switch-when="/review">
+		<div data-review></div>
+	</div>
+	<div class="list" ng-switch-when="/quote" ng-include src=""></div>
+</div>

@@ -1,0 +1,12 @@
+<div id="change-area" class="dialog change-area" ng-class="{show:showChangeArea}">
+	<div class="title"><img class="icon" src="images/icons/list23.svg"><span>Change Area</span></div>
+	<div class="content">
+		<div class="areas">
+			<div ng-repeat="inspectionArea in inspection.fields.inspectionAreas" class="area" ng-class="{selected: inspectionArea.id == selectedID}" ng-click="selectInspectionArea(inspectionArea.id)" areaid="{{inspectionArea.fields.area}}">
+				{{inspectionArea.fields.name}}
+			</div>
+		</div>
+
+		<button type="button" ng-click="toggleChangeArea()" class="dialog-button primary"><img src="images/icons/check10.svg"></button>
+	</div>
+</div>

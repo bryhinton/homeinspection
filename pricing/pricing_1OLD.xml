@@ -1,0 +1,97 @@
+<tasks>
+	<task>
+		<number>ADA005</number>
+		<name>Hand Held Shower Install</name>
+		<description>Install New Premium Hand Held Personal Shower</description>
+		<time>60</time>
+		<parts>190.31</parts>
+		<col1>
+			<primary>65.85</primary>
+			<addon>53.8</addon>
+		</col1>
+		<col2>
+			<primary>439</primary>
+			<addon>358.66</addon>
+		</col2>
+		<col3>
+			<primary>504.85</primary>
+			<addon>412.46</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA015</number>
+		<name>Wide Spread Lav Faucet w/Wrist and Pop</name>
+		<description>Install Wide Spread Lavatory Faucet With Wrist Blade Handles Including Pop-up Drain</description>
+		<time>75</time>
+		<parts>198.1</parts>
+		<col1>
+			<primary>74.71</primary>
+			<addon>61.04</addon>
+		</col1>
+		<col2>
+			<primary>498.07</primary>
+			<addon>406.92</addon>
+		</col2>
+		<col3>
+			<primary>572.78</primary>
+			<addon>467.96</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA020</number>
+		<name>Hi-Rise Lav Faucet w/4" Handle Wrist Blade</name>
+		<description>Remove Existing Install New 4" Centerset Wrist Blade Handle Lavatory Faucet</description>
+		<time>90</time>
+		<parts>118.78</parts>
+		<col1>
+			<primary>66.93</primary>
+			<addon>54.69</addon>
+		</col1>
+		<col2>
+			<primary>446.24</primary>
+			<addon>364.57</addon>
+		</col2>
+		<col3>
+			<primary>513.17</primary>
+			<addon>419.26</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA025</number>
+		<name>Elongated Open-Front White Plastic Toilet Seat</name>
+		<description>Remove Existing, Install New Open Front Elongated Toilet Seat</description>
+		<time>30</time>
+		<parts>17.39</parts>
+		<col1>
+			<primary>18.07</primary>
+			<addon>14.77</addon>
+		</col1>
+		<col2>
+			<primary>120.47</primary>
+			<addon>98.42</addon>
+		</col2>
+		<col3>
+			<primary>138.54</primary>
+			<addon>113.19</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA030</number>
+		<name>Kit Faucet Wrist Blade Handle w/Spray-8"</name>
+		<description>Remove Existing, Install New Kitchen Faucet With Spray</description>
+		<time>90</time>
+		<parts>96.86</parts>
+		<col1>
+			<primary>62.75</primary>
+			<addon>51.26</addon>
+		</col1>
+		<col2>
+			<primary>418.32</primary>
+			<addon>341.77</addon>
+		</col2>
+		<col3>
+			<primary>481.07</primary>
+			<addon>393.03</addon>
+		</col3>
+	</task>
+</tasks>

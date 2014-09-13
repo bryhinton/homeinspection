@@ -1,0 +1,32 @@
+<div class="top-nav">
+	<div class="title">Control Center</div>
+	<div class="user-info" ng-show="user.ID != null">
+		<div class="user-logged-in">ou are logged in as <b>{{user.name}}</b>.</div>
+		<div class="logout" ng-click="logout()">Logout</div>
+	</div>
+</div>
+<div class="side-nav">
+	<div class="menu-item" ng-class="{selected: path == '/inspections'}">
+		<a href="#/inspections" class="short-name">In</a>
+		<a href="#/inspections" class="full-name">Inspections</a>
+	</div>
+	<!--<div class="menu-item">-->
+		<!--<a href="#/timeCards" class="short-name">Tc</a>-->
+		<!--<a href="#/timeCards" class="full-name">Time Cards</a>-->
+	<!--</div>-->
+	<!--<div class="menu-item">-->
+		<!--<a href="#/customers" class="short-name">Cu</a>-->
+		<!--<a href="#/customers" class="full-name">Customers</a>-->
+	<!--</div>-->
+	<div class="menu-item" ng-class="{selected: path == '/settings'}">
+		<a href="#/settings" class="short-name">Se</a>
+		<a href="#/settings" class="full-name">Settings</a>
+	</div>
+</div>
+<div class="message" ng-show="message" id="message">{{message}}</div>
+<div class="actions" ng-show="path != '/login'"></div>
+<div ng-switch on="path">
+	<div class="login" ng-switch-when="/login" ng-include src="'partials/control-center/login.html'"></div>
+	<div class="list" ng-switch-when="/inspections" ng-include src="'partials/control-center/inspectionsList.html'"></div>
+	<div class="list" ng-switch-when="/settings" ng-include src="'partials/control-center/settings.html'"></div>
+</div>

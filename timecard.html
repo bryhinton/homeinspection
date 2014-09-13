@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Timecard</title>
+	<script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="scripts/handlebars.js"></script>
+	<script type="text/javascript" src="timecard.js"></script>
+	<link rel="stylesheet" type="text/css" href="timecard.css">
+</head>
+<body>
+	<script id="date-field" type="text/x-handlebars-template">
+		<label>{{name}}</label>
+
+	</script>
+	<div class="main">
+		<button type="button" id="clock-in" class="big clock-in">Clock In</button><br>
+		<button type="button" id="clock-out" class="big clock-in">Clock Out</button><br>
+		<button type="button" id="break" class="big break">On Break</button>
+		<button type="button" id="break-back" class="big break">Back from Break</button>
+		<div class="time-count" id="time-count"></div>
+		<div class="parameters"></div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,7070 @@
+<tasks>
+	<task>
+		<number>ADA005</number>
+		<name>Hand Held Shower Install</name>
+		<description>Install New Premium Hand Held Personal Shower</description>
+		<time>60</time>
+		<parts>190.31</parts>
+		<col1>
+			<primary>65.85</primary>
+			<addon>53.8</addon>
+		</col1>
+		<col2>
+			<primary>439</primary>
+			<addon>358.66</addon>
+		</col2>
+		<col3>
+			<primary>504.85</primary>
+			<addon>412.46</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA015</number>
+		<name>Wide Spread Lav Faucet w/Wrist &amp; Pop</name>
+		<description>Install Wide Spread Lavatory Faucet With Wrist Blade Handles Including Pop-up Drain</description>
+		<time>75</time>
+		<parts>198.1</parts>
+		<col1>
+			<primary>74.71</primary>
+			<addon>61.04</addon>
+		</col1>
+		<col2>
+			<primary>498.07</primary>
+			<addon>406.92</addon>
+		</col2>
+		<col3>
+			<primary>572.78</primary>
+			<addon>467.96</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA020</number>
+		<name>Hi-Rise Lav Faucet w/4" Handle Wrist Blade</name>
+		<description>Remove Existing Install New 4" Centerset Wrist Blade Handle Lavatory Faucet</description>
+		<time>90</time>
+		<parts>118.78</parts>
+		<col1>
+			<primary>66.93</primary>
+			<addon>54.69</addon>
+		</col1>
+		<col2>
+			<primary>446.24</primary>
+			<addon>364.57</addon>
+		</col2>
+		<col3>
+			<primary>513.17</primary>
+			<addon>419.26</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA025</number>
+		<name>Elongated Open-Front White Plastic Toilet Seat</name>
+		<description>Remove Existing, Install New Open Front Elongated Toilet Seat</description>
+		<time>30</time>
+		<parts>17.39</parts>
+		<col1>
+			<primary>18.07</primary>
+			<addon>14.77</addon>
+		</col1>
+		<col2>
+			<primary>120.47</primary>
+			<addon>98.42</addon>
+		</col2>
+		<col3>
+			<primary>138.54</primary>
+			<addon>113.19</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA030</number>
+		<name>Kit Faucet Wrist Blade Handle w/Spray-8"</name>
+		<description>Remove Existing, Install New Kitchen Faucet With Spray</description>
+		<time>90</time>
+		<parts>96.86</parts>
+		<col1>
+			<primary>62.75</primary>
+			<addon>51.26</addon>
+		</col1>
+		<col2>
+			<primary>418.32</primary>
+			<addon>341.77</addon>
+		</col2>
+		<col3>
+			<primary>481.07</primary>
+			<addon>393.03</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA035</number>
+		<name>4" Handle Wrist Blade Lav Faucet</name>
+		<description>Remove Existing, Install New Centerset Lavatory Faucet With Wrist Blade Handle</description>
+		<time>75</time>
+		<parts>89.04</parts>
+		<col1>
+			<primary>53.88</primary>
+			<addon>44.02</addon>
+		</col1>
+		<col2>
+			<primary>359.19</primary>
+			<addon>293.46</addon>
+		</col2>
+		<col3>
+			<primary>413.07</primary>
+			<addon>337.48</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA040</number>
+		<name>Hi-Rise Wrist Blade Kit Faucet w/Spray</name>
+		<description>Remove Existing, Install New Hi-Rise Wrist Blade Kit Faucet w/Spray</description>
+		<time>90</time>
+		<parts>120.65</parts>
+		<col1>
+			<primary>67.29</primary>
+			<addon>54.97</addon>
+		</col1>
+		<col2>
+			<primary>448.61</primary>
+			<addon>366.52</addon>
+		</col2>
+		<col3>
+			<primary>515.9</primary>
+			<addon>421.49</addon>
+		</col3>
+	</task>
+	<task>
+		<number>ADA075</number>
+		<name>ADA Trap &amp; Supply Wraps</name>
+		<description>Install Cover Wraps On Trap, Stop Valves &amp; Riser Tubes</description>
+		<time>45</time>
+		<parts>23.02</parts>
+		<col1>
+			<primary>26.52</primary>
+			<addon>21.66</addon>
+		</col1>
+		<col2>
+			<primary>176.8</primary>
+			<addon>144.45</addon>
+		</col2>
+		<col3>
+			<primary>203.32</primary>
+			<addon>166.11</addon>
+		</col3>
+	</task>
+	<task>
+		<number>BD115</number>
+		<name>Hose Vacuum Breaker</name>
+		<description>Install Code Required Screw On Vacuum Breaker</description>
+		<time>30</time>
+		<parts>7.24</parts>
+		<col1>
+			<primary>16.14</primary>
+			<addon>13.18</addon>
+		</col1>
+		<col2>
+			<primary>107.55</primary>
+			<addon>87.87</addon>
+		</col2>
+		<col3>
+			<primary>123.69</primary>
+			<addon>101.05</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CS200</number>
+		<name>Minor T&amp;S Commercial Faucet Repair 3 Handle</name>
+		<description>Includes New T&amp;S Barrells.</description>
+		<time>45</time>
+		<parts>45.9</parts>
+		<col1>
+			<primary>30.89</primary>
+			<addon>25.24</addon>
+		</col1>
+		<col2>
+			<primary>205.94</primary>
+			<addon>168.25</addon>
+		</col2>
+		<col3>
+			<primary>236.83</primary>
+			<addon>193.49</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CS201</number>
+		<name>Minor T&amp;S Commercial Faucet Repair 2 Handle</name>
+		<description>Includes New T&amp;S Barrells.</description>
+		<time>45</time>
+		<parts>30.6</parts>
+		<col1>
+			<primary>27.96</primary>
+			<addon>22.85</addon>
+		</col1>
+		<col2>
+			<primary>186.45</primary>
+			<addon>152.33</addon>
+		</col2>
+		<col3>
+			<primary>214.41</primary>
+			<addon>175.18</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CS202</number>
+		<name>Complete Chicago Commercial Faucet Repair</name>
+		<description>Includes New Chicago Quaturn Stems Seats O-rings</description>
+		<time>60</time>
+		<parts>21.56</parts>
+		<col1>
+			<primary>33.62</primary>
+			<addon>27.47</addon>
+		</col1>
+		<col2>
+			<primary>224.09</primary>
+			<addon>183.08</addon>
+		</col2>
+		<col3>
+			<primary>257.71</primary>
+			<addon>210.55</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CS203</number>
+		<name>Minor Chicago Commercial Faucet Repair</name>
+		<description>Rebuild Stems Replace Washers And Seats</description>
+		<time>45</time>
+		<parts>17.72</parts>
+		<col1>
+			<primary>25.5</primary>
+			<addon>20.84</addon>
+		</col1>
+		<col2>
+			<primary>170.05</primary>
+			<addon>138.93</addon>
+		</col2>
+		<col3>
+			<primary>195.55</primary>
+			<addon>159.77</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CS205</number>
+		<name>Complete Self Close Metering Faucet Repair</name>
+		<description>Rebuild Self Close Metering Faucet Chicago</description>
+		<time>60</time>
+		<parts>38.12</parts>
+		<col1>
+			<primary>36.77</primary>
+			<addon>30.05</addon>
+		</col1>
+		<col2>
+			<primary>245.18</primary>
+			<addon>200.31</addon>
+		</col2>
+		<col3>
+			<primary>281.95</primary>
+			<addon>230.36</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSD020</number>
+		<name>Hot Water Dispenser New Install (Owner/Supplied)</name>
+		<description>Install New Hot Water Dispenser (Supplied By Others)</description>
+		<time>75</time>
+		<parts>6.1</parts>
+		<col1>
+			<primary>38.04</primary>
+			<addon>31.08</addon>
+		</col1>
+		<col2>
+			<primary>253.55</primary>
+			<addon>207.15</addon>
+		</col2>
+		<col3>
+			<primary>291.59</primary>
+			<addon>238.23</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSD021</number>
+		<name>Hot Water Dispenser Replacement (Owner/Supplied)</name>
+		<description>Remove Old Install New Hot Water Dispenser (Supplied By Other)</description>
+		<time>60</time>
+		<parts>6.1</parts>
+		<col1>
+			<primary>30.66</primary>
+			<addon>25.05</addon>
+		</col1>
+		<col2>
+			<primary>204.4</primary>
+			<addon>166.99</addon>
+		</col2>
+		<col3>
+			<primary>235.06</primary>
+			<addon>192.04</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSD050</number>
+		<name>Food Waste Disposer New Install Customer Supplied</name>
+		<description>Install Customer Supplied Food Waste Disposer New Install Electrical Not Included</description>
+		<time>60</time>
+		<parts>24.28</parts>
+		<col1>
+			<primary>34.14</primary>
+			<addon>27.89</addon>
+		</col1>
+		<col2>
+			<primary>227.55</primary>
+			<addon>185.91</addon>
+		</col2>
+		<col3>
+			<primary>261.69</primary>
+			<addon>213.8</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSD051</number>
+		<name>Food Waste Disposer Customer Supplied Replacement</name>
+		<description>Install Customer Supplied Food Waste Disposer New Install Electrical Not Included</description>
+		<time>60</time>
+		<parts>24.28</parts>
+		<col1>
+			<primary>34.14</primary>
+			<addon>27.89</addon>
+		</col1>
+		<col2>
+			<primary>227.55</primary>
+			<addon>185.91</addon>
+		</col2>
+		<col3>
+			<primary>261.69</primary>
+			<addon>213.8</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSF080</number>
+		<name>Customer supplied Lav Faucet WIDESET 2 handle</name>
+		<description>Install customer supplied faucet WIDESET 2 handle. Faucet Warrantee by others.</description>
+		<time>75</time>
+		<parts>14.33</parts>
+		<col1>
+			<primary>39.6</primary>
+			<addon>32.35</addon>
+		</col1>
+		<col2>
+			<primary>264.04</primary>
+			<addon>215.72</addon>
+		</col2>
+		<col3>
+			<primary>303.64</primary>
+			<addon>248.07</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSF085</number>
+		<name>Customer supplied Lav Faucet 2/Single Hdl Install</name>
+		<description>Install customer supplied faucet 2 handle CENTERSET or SINGLE handle. Faucet Warrantee by others.</description>
+		<time>60</time>
+		<parts>14.33</parts>
+		<col1>
+			<primary>32.23</primary>
+			<addon>26.33</addon>
+		</col1>
+		<col2>
+			<primary>214.88</primary>
+			<addon>175.56</addon>
+		</col2>
+		<col3>
+			<primary>247.11</primary>
+			<addon>201.89</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSF120</number>
+		<name>Tub/Shower Valve Install Customer Supplied</name>
+		<description>Install Customer Supplied Tub/Shower Valve (TILE REPAIR NOT INCLUDED)</description>
+		<time>120</time>
+		<parts>24.45</parts>
+		<col1>
+			<primary>63.66</primary>
+			<addon>52.02</addon>
+		</col1>
+		<col2>
+			<primary>424.41</primary>
+			<addon>346.74</addon>
+		</col2>
+		<col3>
+			<primary>488.07</primary>
+			<addon>398.76</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSH200</number>
+		<name>Install Owners Water Heater (40-50 Gallon)</name>
+		<description>Install Owner Supplied Water Heater To Replace The Same</description>
+		<time>120</time>
+		<parts>51</parts>
+		<col1>
+			<primary>68.74</primary>
+			<addon>56.15</addon>
+		</col1>
+		<col2>
+			<primary>458.22</primary>
+			<addon>374.37</addon>
+		</col2>
+		<col3>
+			<primary>526.96</primary>
+			<addon>430.52</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSH275</number>
+		<name>Install Owners Water Heater (75 Gallon)</name>
+		<description>Install 75 Gallon Hot Water Heater To Replace Same</description>
+		<time>180</time>
+		<parts>55.42</parts>
+		<col1>
+			<primary>99.07</primary>
+			<addon>80.95</addon>
+		</col1>
+		<col2>
+			<primary>660.48</primary>
+			<addon>539.61</addon>
+		</col2>
+		<col3>
+			<primary>759.55</primary>
+			<addon>620.56</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSH480</number>
+		<name>Owner Supplied Electric Water Heater Install</name>
+		<description>Install Owner Supplied Water Heater</description>
+		<time>120</time>
+		<parts>51.2</parts>
+		<col1>
+			<primary>68.77</primary>
+			<addon>56.19</addon>
+		</col1>
+		<col2>
+			<primary>458.47</primary>
+			<addon>374.57</addon>
+		</col2>
+		<col3>
+			<primary>527.24</primary>
+			<addon>430.76</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSK100</number>
+		<name>Standard Kit Faucet Install (Supplied By Owner)</name>
+		<description>Remove Existing, Install Standard Kitchen Faucet Complete With Hot &amp; Cold Supplies</description>
+		<time>60</time>
+		<parts>21</parts>
+		<col1>
+			<primary>33.5</primary>
+			<addon>27.37</addon>
+		</col1>
+		<col2>
+			<primary>223.38</primary>
+			<addon>182.5</addon>
+		</col2>
+		<col3>
+			<primary>256.88</primary>
+			<addon>209.87</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSK105</number>
+		<name>Designer Kit Faucet Install (Supplied By Owner)</name>
+		<description>Remove Existing, Install Designer/Widespread Kitchen Faucet With New Hot &amp; Cold Supplies</description>
+		<time>75</time>
+		<parts>21</parts>
+		<col1>
+			<primary>40.88</primary>
+			<addon>33.4</addon>
+		</col1>
+		<col2>
+			<primary>272.53</primary>
+			<addon>222.66</addon>
+		</col2>
+		<col3>
+			<primary>313.41</primary>
+			<addon>256.06</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSP190</number>
+		<name>Replace Sump Pump Customer Supplied</name>
+		<description>Remove Existing, Install Customer Supplied Sump Pump</description>
+		<time>60</time>
+		<parts>10.36</parts>
+		<col1>
+			<primary>31.48</primary>
+			<addon>25.71</addon>
+		</col1>
+		<col2>
+			<primary>209.82</primary>
+			<addon>171.43</addon>
+		</col2>
+		<col3>
+			<primary>241.3</primary>
+			<addon>197.14</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSS140</number>
+		<name>Owner Supplied Bar Sink Install</name>
+		<description>Install Owner Supplied Bar Sink</description>
+		<time>90</time>
+		<parts>27.63</parts>
+		<col1>
+			<primary>49.53</primary>
+			<addon>40.47</addon>
+		</col1>
+		<col2>
+			<primary>330.15</primary>
+			<addon>269.73</addon>
+		</col2>
+		<col3>
+			<primary>379.68</primary>
+			<addon>310.2</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSS200</number>
+		<name>Owner Supplied Self Rim Lav Sink Install</name>
+		<description>Remove Existing Lavatory sink install Owner Supplied Self Rim Lavatory Sink</description>
+		<time>90</time>
+		<parts>25.75</parts>
+		<col1>
+			<primary>49.17</primary>
+			<addon>40.17</addon>
+		</col1>
+		<col2>
+			<primary>327.75</primary>
+			<addon>267.77</addon>
+		</col2>
+		<col3>
+			<primary>376.92</primary>
+			<addon>307.94</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSS205</number>
+		<name>Owner Supplied Wall Hung Lav Sink Install</name>
+		<description>Remove Existing Lavatory sink install Owner Supplied Wall Hung Lavatory Sink</description>
+		<time>90</time>
+		<parts>25.75</parts>
+		<col1>
+			<primary>49.17</primary>
+			<addon>40.17</addon>
+		</col1>
+		<col2>
+			<primary>327.75</primary>
+			<addon>267.77</addon>
+		</col2>
+		<col3>
+			<primary>376.92</primary>
+			<addon>307.94</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSS215</number>
+		<name>Owner Supplied Pedestal Lav Sink Install</name>
+		<description>Remove Existing Lavatory sink install Owner Supplied Pedestal Lavatory Sink</description>
+		<time>105</time>
+		<parts>25.75</parts>
+		<col1>
+			<primary>56.53</primary>
+			<addon>46.19</addon>
+		</col1>
+		<col2>
+			<primary>376.91</primary>
+			<addon>307.93</addon>
+		</col2>
+		<col3>
+			<primary>433.44</primary>
+			<addon>354.12</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSS800</number>
+		<name>Install Standard 2522 Sink (Supplied by Others)</name>
+		<description>Install Standard Self Rim 2522 Kitchen Sink and Faucet Supplied By Other</description>
+		<time>75</time>
+		<parts>35.98</parts>
+		<col1>
+			<primary>43.74</primary>
+			<addon>35.73</addon>
+		</col1>
+		<col2>
+			<primary>291.61</primary>
+			<addon>238.25</addon>
+		</col2>
+		<col3>
+			<primary>335.35</primary>
+			<addon>273.98</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CSS802</number>
+		<name>Install Standard 3322 Sink (Supplied by Others)</name>
+		<description>Install Standard Self Rim Double Compartment 3322 Kitchen Sink and Faucet Supplied By Other</description>
+		<time>90</time>
+		<parts>39.49</parts>
+		<col1>
+			<primary>51.79</primary>
+			<addon>42.31</addon>
+		</col1>
+		<col2>
+			<primary>345.26</primary>
+			<addon>282.08</addon>
+		</col2>
+		<col3>
+			<primary>397.05</primary>
+			<addon>324.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CST100</number>
+		<name>Standard Toilet Install 2-PC Customer Supplied</name>
+		<description>Remove Existing, Install Customer Supplied Toilet</description>
+		<time>60</time>
+		<parts>9.26</parts>
+		<col1>
+			<primary>31.27</primary>
+			<addon>25.54</addon>
+		</col1>
+		<col2>
+			<primary>208.42</primary>
+			<addon>170.28</addon>
+		</col2>
+		<col3>
+			<primary>239.69</primary>
+			<addon>195.82</addon>
+		</col3>
+	</task>
+	<task>
+		<number>CST101</number>
+		<name>Low Profile Toilet Install 1-PC Customer Supplied</name>
+		<description>Remove Existing, Install Customer Supplied Toilet</description>
+		<time>75</time>
+		<parts>9.26</parts>
+		<col1>
+			<primary>38.63</primary>
+			<addon>31.57</addon>
+		</col1>
+		<col2>
+			<primary>257.58</primary>
+			<addon>210.44</addon>
+		</col2>
+		<col3>
+			<primary>296.21</primary>
+			<addon>242.01</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC002</number>
+		<name>Kitchen/Lav Stoppage -Remove Trap</name>
+		<description>Power Clean Kitchen Sink Drain Up-To 50-FT</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>26.39</primary>
+			<addon>21.56</addon>
+		</col1>
+		<col2>
+			<primary>175.94</primary>
+			<addon>143.74</addon>
+		</col2>
+		<col3>
+			<primary>202.33</primary>
+			<addon>165.3</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC003</number>
+		<name>Kitchen/Lav Stoppage-Remove Trap Extreme Blockage</name>
+		<description>Power Clean Kitchen Sink Drain Up-To 50-FT Larger Cable</description>
+		<time>75</time>
+		<parts>0</parts>
+		<col1>
+			<primary>36.87</primary>
+			<addon>30.12</addon>
+		</col1>
+		<col2>
+			<primary>245.79</primary>
+			<addon>200.81</addon>
+		</col2>
+		<col3>
+			<primary>282.66</primary>
+			<addon>230.93</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC004</number>
+		<name>Kitchen/Lav Stoppage-Through Roof Vent 1-Story</name>
+		<description>Power Clean Kitchen Sink Drain Up-To 50-FT Larger Cable</description>
+		<time>90</time>
+		<parts>0</parts>
+		<col1>
+			<primary>44.25</primary>
+			<addon>36.14</addon>
+		</col1>
+		<col2>
+			<primary>294.96</primary>
+			<addon>240.99</addon>
+		</col2>
+		<col3>
+			<primary>339.21</primary>
+			<addon>277.13</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC008</number>
+		<name>Tub/Shower Stoppage-Through Trip Waste</name>
+		<description>Power Clean Drain Lav Up To 25-FT</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC009</number>
+		<name>Tub/Shower Stoppage-Trip Waste Extreme Blockage</name>
+		<description>Power Clean Drain Lav Up To 25-FT</description>
+		<time>75</time>
+		<parts>0</parts>
+		<col1>
+			<primary>36.87</primary>
+			<addon>30.12</addon>
+		</col1>
+		<col2>
+			<primary>245.79</primary>
+			<addon>200.81</addon>
+		</col2>
+		<col3>
+			<primary>282.66</primary>
+			<addon>230.93</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC011</number>
+		<name>Toilet Stoppage-Clear With Auger</name>
+		<description>Auger Toilet With Toilet Auger</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC012</number>
+		<name>Toilet Stoppage-Pull- Clear &amp; Reset</name>
+		<description>Auger Toilet With Toilet Auger</description>
+		<time>75</time>
+		<parts>9.09</parts>
+		<col1>
+			<primary>38.61</primary>
+			<addon>31.54</addon>
+		</col1>
+		<col2>
+			<primary>257.36</primary>
+			<addon>210.27</addon>
+		</col2>
+		<col3>
+			<primary>295.97</primary>
+			<addon>241.81</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC013</number>
+		<name>Urinal Stoppage-Through Urinal</name>
+		<description>Power Clean Urinal</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>29.49</primary>
+			<addon>24.1</addon>
+		</col1>
+		<col2>
+			<primary>196.64</primary>
+			<addon>160.65</addon>
+		</col2>
+		<col3>
+			<primary>226.13</primary>
+			<addon>184.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC014</number>
+		<name>Urinal Stoppage-Remove Clear &amp; Re-Hang</name>
+		<description>Power Clean Urinal</description>
+		<time>90</time>
+		<parts>0</parts>
+		<col1>
+			<primary>44.25</primary>
+			<addon>36.14</addon>
+		</col1>
+		<col2>
+			<primary>294.96</primary>
+			<addon>240.99</addon>
+		</col2>
+		<col3>
+			<primary>339.21</primary>
+			<addon>277.13</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC015</number>
+		<name>Drinking Fountain Stoppage</name>
+		<description>Null</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC019</number>
+		<name>Condensate Drain Stoppage</name>
+		<description>Blow Out Drain Line With Air</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC021</number>
+		<name>Replace Brass Clean Out Cap (Cut-Off)</name>
+		<description>Cut Off Brass Clean Out Cap/plug and replace at time of main line stoppage</description>
+		<time>10.2000001072884</time>
+		<parts>13.71</parts>
+		<col1>
+			<primary>6.83</primary>
+			<addon>5.58</addon>
+		</col1>
+		<col2>
+			<primary>45.54</primary>
+			<addon>37.2</addon>
+		</col2>
+		<col3>
+			<primary>52.37</primary>
+			<addon>42.78</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC029</number>
+		<name>Main Line Stoppage-Through Outside Clean Out 75-FT</name>
+		<description>Clear Stoppage Through Outside Clean Out Up To 75 Feet</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>27.26</primary>
+			<addon>22.26</addon>
+		</col1>
+		<col2>
+			<primary>181.67</primary>
+			<addon>148.43</addon>
+		</col2>
+		<col3>
+			<primary>208.93</primary>
+			<addon>170.69</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC030</number>
+		<name>Main Line Stoppage-Through Inside Clean Out 75-FT</name>
+		<description>Clear Stoppage Through inside Clean Out Up To 75 Feet</description>
+		<time>75</time>
+		<parts>0</parts>
+		<col1>
+			<primary>34.06</primary>
+			<addon>27.83</addon>
+		</col1>
+		<col2>
+			<primary>227.09</primary>
+			<addon>185.53</addon>
+		</col2>
+		<col3>
+			<primary>261.15</primary>
+			<addon>213.36</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC031</number>
+		<name>Excessive Roots In Main Up To 75 Feet</name>
+		<description>Add-On To Main Line Stoppage Tasks Up To 75-Feet Due To Excessive Tree Roots, Requires Several Passes With Cutter Blades.</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>29.49</primary>
+			<addon>24.1</addon>
+		</col1>
+		<col2>
+			<primary>196.64</primary>
+			<addon>160.65</addon>
+		</col2>
+		<col3>
+			<primary>226.13</primary>
+			<addon>184.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC033</number>
+		<name>Excessive Roots In Main Up To 150 Feet</name>
+		<description>Add-On To Main Line Stoppage Tasks Up To 150-Feet Due To Excessive Tree Roots, Requires Several Passes With Cutter Blades.</description>
+		<time>105</time>
+		<parts>0</parts>
+		<col1>
+			<primary>51.62</primary>
+			<addon>42.18</addon>
+		</col1>
+		<col2>
+			<primary>344.12</primary>
+			<addon>281.14</addon>
+		</col2>
+		<col3>
+			<primary>395.74</primary>
+			<addon>323.32</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC034</number>
+		<name>Main Line -Through Outside Clean Out 76-150-FT</name>
+		<description>Clear Stoppage Through Outside Clean Out Over 75 Feet</description>
+		<time>120</time>
+		<parts>0</parts>
+		<col1>
+			<primary>58.99</primary>
+			<addon>48.2</addon>
+		</col1>
+		<col2>
+			<primary>393.27</primary>
+			<addon>321.3</addon>
+		</col2>
+		<col3>
+			<primary>452.26</primary>
+			<addon>369.5</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC035</number>
+		<name>Main Line -Through Inside Clean Out 76-150-FT</name>
+		<description>Clear Stoppage Through inside Clean Out Over 75 Feet</description>
+		<time>135</time>
+		<parts>0</parts>
+		<col1>
+			<primary>66.37</primary>
+			<addon>54.22</addon>
+		</col1>
+		<col2>
+			<primary>442.42</primary>
+			<addon>361.46</addon>
+		</col2>
+		<col3>
+			<primary>508.79</primary>
+			<addon>415.68</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC036</number>
+		<name>Main Line Stoppage-Through Toilet 75-150-FT</name>
+		<description>Clear Main Stoppage Through Toilet 75-1 50 Feet</description>
+		<time>180</time>
+		<parts>8.07</parts>
+		<col1>
+			<primary>90.03</primary>
+			<addon>73.56</addon>
+		</col1>
+		<col2>
+			<primary>600.19</primary>
+			<addon>490.35</addon>
+		</col2>
+		<col3>
+			<primary>690.22</primary>
+			<addon>563.91</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC038</number>
+		<name>Main Line Stoppage Through Toilet 75'</name>
+		<description>Main Line Stoppage Through Toilet 75'</description>
+		<time>120</time>
+		<parts>7.09</parts>
+		<col1>
+			<primary>57</primary>
+			<addon>46.57</addon>
+		</col1>
+		<col2>
+			<primary>379.94</primary>
+			<addon>310.41</addon>
+		</col2>
+		<col3>
+			<primary>436.94</primary>
+			<addon>356.98</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC045</number>
+		<name>Pro Bio Drain Maintenance Product</name>
+		<description>Pro Bio Drain Product</description>
+		<time>0</time>
+		<parts>49.95</parts>
+		<col1>
+			<primary>8.11</primary>
+			<addon>6.62</addon>
+		</col1>
+		<col2>
+			<primary>54.07</primary>
+			<addon>44.18</addon>
+		</col2>
+		<col3>
+			<primary>62.18</primary>
+			<addon>50.8</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC050</number>
+		<name>Camera and Locate Sewer Line</name>
+		<description>Camera and Locate Sewer Line</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>38.32</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>255.46</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>293.78</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC055</number>
+		<name>Hydro Jet minium Charge</name>
+		<description>Hydro Jet minium Charge</description>
+		<time>90</time>
+		<parts>0</parts>
+		<col1>
+			<primary>49.84</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>332.23</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>382.07</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>DC060</number>
+		<name>Hydro Jetter per Hour after Task DC055</name>
+		<description>Hydro Jetter per Hour after Task DC055</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>29.15</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>194.35</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>223.5</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR100</number>
+		<name>Drain Re-Pipe 1-1/2-2-IN 1 Fixt Exposed Wall 5-FT</name>
+		<description>Remove Existing piping, Install New PVC Waste piping &amp; Fittings</description>
+		<time>60</time>
+		<parts>34.74</parts>
+		<col1>
+			<primary>36.13</primary>
+			<addon>29.52</addon>
+		</col1>
+		<col2>
+			<primary>240.88</primary>
+			<addon>196.8</addon>
+		</col2>
+		<col3>
+			<primary>277.01</primary>
+			<addon>226.32</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR101</number>
+		<name>Drain Re-Pipe 1-1/2-2-IN 1 Fixt Open Ceiling 5-FT</name>
+		<description>Remove Existing piping, Install New PVC Waste piping &amp; Fittings</description>
+		<time>75</time>
+		<parts>33.76</parts>
+		<col1>
+			<primary>43.32</primary>
+			<addon>35.39</addon>
+		</col1>
+		<col2>
+			<primary>288.79</primary>
+			<addon>235.94</addon>
+		</col2>
+		<col3>
+			<primary>332.11</primary>
+			<addon>271.33</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR102</number>
+		<name>Drain Re-Pipe 1-1/2-2-IN 1 Fixt Crawl Space 5-FT</name>
+		<description>Remove Existing piping, Install New PVC Waste piping &amp; Fittings</description>
+		<time>90</time>
+		<parts>33.76</parts>
+		<col1>
+			<primary>50.7</primary>
+			<addon>41.41</addon>
+		</col1>
+		<col2>
+			<primary>337.96</primary>
+			<addon>276.12</addon>
+		</col2>
+		<col3>
+			<primary>388.66</primary>
+			<addon>317.53</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR105</number>
+		<name>Drain Re-Pipe 1-1/2-2-IN Open Wall  Add-Per/Ft</name>
+		<description>Additional Per Foot 1-1/2-IN PVC/ABS Drain Repipe</description>
+		<time>15</time>
+		<parts>8.79</parts>
+		<col1>
+			<primary>9.06</primary>
+			<addon>7.39</addon>
+		</col1>
+		<col2>
+			<primary>60.35</primary>
+			<addon>49.31</addon>
+		</col2>
+		<col3>
+			<primary>69.41</primary>
+			<addon>56.7</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR106</number>
+		<name>Drain Re-Pipe 1-1/2-2-IN Exp Ceiling Add-Per/Ft</name>
+		<description>Additional Per Foot 1-1/2-IN PVC/ABS Drain Repipe</description>
+		<time>19.8</time>
+		<parts>7.83</parts>
+		<col1>
+			<primary>11.23</primary>
+			<addon>9.17</addon>
+		</col1>
+		<col2>
+			<primary>74.87</primary>
+			<addon>61.17</addon>
+		</col2>
+		<col3>
+			<primary>86.1</primary>
+			<addon>70.34</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR107</number>
+		<name>Drain Re-Pipe 1-1/2-2-IN Crawlspace Add-Per/Ft</name>
+		<description>Additional Per Foot 1-1/2-IN PVC/ABS Drain Repipe</description>
+		<time>30</time>
+		<parts>7.83</parts>
+		<col1>
+			<primary>16.24</primary>
+			<addon>13.27</addon>
+		</col1>
+		<col2>
+			<primary>108.31</primary>
+			<addon>88.49</addon>
+		</col2>
+		<col3>
+			<primary>124.55</primary>
+			<addon>101.76</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR132</number>
+		<name>Drain Re-Pipe 3-IN 1 Fixture Exposed Wall 5-FT</name>
+		<description>Remove Existing, Install New 3-IN PVC Waste Piping Up To 5 -FT</description>
+		<time>60</time>
+		<parts>64.27</parts>
+		<col1>
+			<primary>41.77</primary>
+			<addon>34.13</addon>
+		</col1>
+		<col2>
+			<primary>278.48</primary>
+			<addon>227.52</addon>
+		</col2>
+		<col3>
+			<primary>320.25</primary>
+			<addon>261.65</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR133</number>
+		<name>Drain Re-Pipe 3-IN 1 Fixture Exposed Ceiling 5-FT</name>
+		<description>Remove Existing, Install New 3-IN PVC Waste Piping Up To 5 -FT</description>
+		<time>75</time>
+		<parts>70.68</parts>
+		<col1>
+			<primary>50.37</primary>
+			<addon>41.15</addon>
+		</col1>
+		<col2>
+			<primary>335.8</primary>
+			<addon>274.35</addon>
+		</col2>
+		<col3>
+			<primary>386.17</primary>
+			<addon>315.5</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR134</number>
+		<name>Drain Re-Pipe 3-IN 1 Fixture Crawlspace 5-FT</name>
+		<description>Remove Existing, Install New 3-IN PVC Waste Piping Up To 5 -FT</description>
+		<time>90</time>
+		<parts>70.68</parts>
+		<col1>
+			<primary>57.74</primary>
+			<addon>47.17</addon>
+		</col1>
+		<col2>
+			<primary>384.98</primary>
+			<addon>314.53</addon>
+		</col2>
+		<col3>
+			<primary>442.72</primary>
+			<addon>361.7</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR135</number>
+		<name>Drain Re-Pipe 3-IN Exposed Wall 1 Fix Add-Per/Ft</name>
+		<description>Additional Per Foot 3-IN PVC/ABS Drain Repipe</description>
+		<time>19.8000007867813</time>
+		<parts>32.17</parts>
+		<col1>
+			<primary>15.88</primary>
+			<addon>12.97</addon>
+		</col1>
+		<col2>
+			<primary>105.86</primary>
+			<addon>86.49</addon>
+		</col2>
+		<col3>
+			<primary>121.74</primary>
+			<addon>99.46</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR136</number>
+		<name>Drain Re-Pipe 3IN Exposed Ceiling 1 Fix Add-Per/Ft</name>
+		<description>Additional Per Foot 3-IN PVC/ABS Drain Repipe</description>
+		<time>25.1999992132187</time>
+		<parts>32.17</parts>
+		<col1>
+			<primary>18.54</primary>
+			<addon>15.14</addon>
+		</col1>
+		<col2>
+			<primary>123.55</primary>
+			<addon>100.94</addon>
+		</col2>
+		<col3>
+			<primary>142.09</primary>
+			<addon>116.08</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR137</number>
+		<name>Drain Re-Pipe 3-IN Crawlspace 1 Fix Add-Per/Ft</name>
+		<description>Additional Per Foot 3-IN PVC/ABS Drain Repipe</description>
+		<time>34.799998998642</time>
+		<parts>32.17</parts>
+		<col1>
+			<primary>23.25</primary>
+			<addon>19</addon>
+		</col1>
+		<col2>
+			<primary>155.01</primary>
+			<addon>126.64</addon>
+		</col2>
+		<col3>
+			<primary>178.26</primary>
+			<addon>145.64</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR140</number>
+		<name>Drain Re-Pipe 4-IN 1 Fixture Exposed Wall 5-FT</name>
+		<description>Remove Existing, Install New 4-IN PVC Waste Piping Up To 5 -FT</description>
+		<time>75</time>
+		<parts>100.18</parts>
+		<col1>
+			<primary>56.01</primary>
+			<addon>45.75</addon>
+		</col1>
+		<col2>
+			<primary>373.36</primary>
+			<addon>305.04</addon>
+		</col2>
+		<col3>
+			<primary>429.37</primary>
+			<addon>350.79</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR141</number>
+		<name>Drain Re-Pipe 4-IN 1 Fixture Exposed Ceiling 5-FT</name>
+		<description>Remove Existing, Install New 4-IN PVC Waste Piping Up To 5 -FT</description>
+		<time>90</time>
+		<parts>104.73</parts>
+		<col1>
+			<primary>64.25</primary>
+			<addon>52.5</addon>
+		</col1>
+		<col2>
+			<primary>428.34</primary>
+			<addon>349.95</addon>
+		</col2>
+		<col3>
+			<primary>492.59</primary>
+			<addon>402.45</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR142</number>
+		<name>Drain Re-Pipe 4-IN 1 Fixture Crawl Space 5-FT</name>
+		<description>Remove Existing, Install New 4-IN PVC Waste Piping Up To 5 -FT</description>
+		<time>120</time>
+		<parts>105.55</parts>
+		<col1>
+			<primary>79.16</primary>
+			<addon>64.67</addon>
+		</col1>
+		<col2>
+			<primary>527.69</primary>
+			<addon>431.13</addon>
+		</col2>
+		<col3>
+			<primary>606.85</primary>
+			<addon>495.8</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR145</number>
+		<name>Drain Re-Pipe 4-IN Exposed Wall 1 Fix Add-Per/Ft</name>
+		<description>Additional Per Foot 4-IN PVC/ABS Drain Repipe</description>
+		<time>19.8000007867813</time>
+		<parts>56.52</parts>
+		<col1>
+			<primary>20.53</primary>
+			<addon>16.78</addon>
+		</col1>
+		<col2>
+			<primary>136.87</primary>
+			<addon>111.82</addon>
+		</col2>
+		<col3>
+			<primary>157.4</primary>
+			<addon>128.6</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR146</number>
+		<name>Drain Re-Pipe 4IN Exposed Ceiling 1 Fix Add-Per/Ft</name>
+		<description>Additional Per Foot 4-IN PVC/ABS Drain Repipe</description>
+		<time>25.1999992132187</time>
+		<parts>63.98</parts>
+		<col1>
+			<primary>24.61</primary>
+			<addon>20.1</addon>
+		</col1>
+		<col2>
+			<primary>164.07</primary>
+			<addon>134.05</addon>
+		</col2>
+		<col3>
+			<primary>188.68</primary>
+			<addon>154.15</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR147</number>
+		<name>Drain Re-Pipe 4-IN Crawlspace 1 Fix Add-Per/Ft</name>
+		<description>Additional Per Foot 4-IN PVC/ABS Drain Repipe</description>
+		<time>34.799998998642</time>
+		<parts>63.98</parts>
+		<col1>
+			<primary>29.33</primary>
+			<addon>23.96</addon>
+		</col1>
+		<col2>
+			<primary>195.53</primary>
+			<addon>159.75</addon>
+		</col2>
+		<col3>
+			<primary>224.86</primary>
+			<addon>183.71</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR150</number>
+		<name>Install 4-IN Clean-Out Plastic (No Excavation)</name>
+		<description>Install 4 -IN PVC/ABS Clean Out</description>
+		<time>90</time>
+		<parts>78.41</parts>
+		<col1>
+			<primary>59.23</primary>
+			<addon>48.39</addon>
+		</col1>
+		<col2>
+			<primary>394.82</primary>
+			<addon>322.57</addon>
+		</col2>
+		<col3>
+			<primary>454.05</primary>
+			<addon>370.96</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DR151</number>
+		<name>Install 4-IN Clean-Out Cast Iron  (No Excavation)</name>
+		<description>Install 4 -IN Cast Iron Clean Out</description>
+		<time>120</time>
+		<parts>95.13</parts>
+		<col1>
+			<primary>77.17</primary>
+			<addon>63.05</addon>
+		</col1>
+		<col2>
+			<primary>514.42</primary>
+			<addon>420.28</addon>
+		</col2>
+		<col3>
+			<primary>591.59</primary>
+			<addon>483.33</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DWI005</number>
+		<name>Remove Dishwasher &amp; Cap Lines</name>
+		<description>Remove Existing, Install New Dishwasher Cap Lines</description>
+		<time>75</time>
+		<parts>4.62</parts>
+		<col1>
+			<primary>37.75</primary>
+			<addon>30.85</addon>
+		</col1>
+		<col2>
+			<primary>251.67</primary>
+			<addon>205.61</addon>
+		</col2>
+		<col3>
+			<primary>289.42</primary>
+			<addon>236.46</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DWI010</number>
+		<name>Dishwasher Install New Piping (Supplied By Owner)</name>
+		<description>Remove Existing, Install New Dishwasher Complete, Water, Waste, Electrical</description>
+		<time>75</time>
+		<parts>32.92</parts>
+		<col1>
+			<primary>43.16</primary>
+			<addon>35.26</addon>
+		</col1>
+		<col2>
+			<primary>287.72</primary>
+			<addon>235.07</addon>
+		</col2>
+		<col3>
+			<primary>330.88</primary>
+			<addon>270.33</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DWI018</number>
+		<name>Dishwasher Hot Water Feed Pipe Replacement 8-FT</name>
+		<description>Install New 1/2-IN OD Copper Water Supply Piping</description>
+		<time>60</time>
+		<parts>32.58</parts>
+		<col1>
+			<primary>35.72</primary>
+			<addon>29.18</addon>
+		</col1>
+		<col2>
+			<primary>238.13</primary>
+			<addon>194.55</addon>
+		</col2>
+		<col3>
+			<primary>273.85</primary>
+			<addon>223.73</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DWI019</number>
+		<name>Dishwasher Emergency Stop Valve Replacement</name>
+		<description>Install New Dishwasher Stop Valve</description>
+		<time>45</time>
+		<parts>9.27</parts>
+		<col1>
+			<primary>23.89</primary>
+			<addon>19.52</addon>
+		</col1>
+		<col2>
+			<primary>159.28</primary>
+			<addon>130.13</addon>
+		</col2>
+		<col3>
+			<primary>183.17</primary>
+			<addon>149.65</addon>
+		</col3>
+	</task>
+	<task>
+		<number>DWI020</number>
+		<name>Dishwasher Drain Tailpiece Replacement</name>
+		<description>Install New Dishwasher Drain Tailpiece Brass</description>
+		<time>45</time>
+		<parts>4.81</parts>
+		<col1>
+			<primary>23.04</primary>
+			<addon>18.83</addon>
+		</col1>
+		<col2>
+			<primary>153.61</primary>
+			<addon>125.5</addon>
+		</col2>
+		<col3>
+			<primary>176.65</primary>
+			<addon>144.33</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FK010</number>
+		<name>Quality Kitchen Faucet PULL-OUT Spray CHROME</name>
+		<description>(GOOD QUALITY) Remove Existing, Install Quality SINGLE LEVER Kitchen Faucet Chrome</description>
+		<time>60</time>
+		<parts>116.89</parts>
+		<col1>
+			<primary>51.83</primary>
+			<addon>42.34</addon>
+		</col1>
+		<col2>
+			<primary>345.49</primary>
+			<addon>282.27</addon>
+		</col2>
+		<col3>
+			<primary>397.32</primary>
+			<addon>324.61</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FK011</number>
+		<name>Quality Kitchen Faucet 2 HANDLE  W/Spray CHROME</name>
+		<description>(GOOD QUALITY) Remove Existing, Install Quality 2 HANDLE Kitchen Faucet Chrome</description>
+		<time>60</time>
+		<parts>77.61</parts>
+		<col1>
+			<primary>44.32</primary>
+			<addon>36.21</addon>
+		</col1>
+		<col2>
+			<primary>295.47</primary>
+			<addon>241.4</addon>
+		</col2>
+		<col3>
+			<primary>339.79</primary>
+			<addon>277.61</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FK012</number>
+		<name>Quality Kitchen Faucet SINGLE HANDLE less/Spray CR</name>
+		<description>(GOOD QUALITY) Remove Existing, Install Quality SINGLE HANDLE Kitchen Faucet Chrome</description>
+		<time>60</time>
+		<parts>81.89</parts>
+		<col1>
+			<primary>45.14</primary>
+			<addon>36.88</addon>
+		</col1>
+		<col2>
+			<primary>300.93</primary>
+			<addon>245.86</addon>
+		</col2>
+		<col3>
+			<primary>346.07</primary>
+			<addon>282.74</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FK014</number>
+		<name>Add for Brushed Nickel Finish</name>
+		<description>Add for Brushed Nickel Finish</description>
+		<time>0</time>
+		<parts>0</parts>
+		<col1>
+			<primary>6.65</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>44.32</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>50.97</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>FL020</number>
+		<name>Quality Lav Faucet SINGLE handle chrome</name>
+		<description>(GOOD QUALITY) Remove old faucet &amp; drain. Install quality lav faucet with drain</description>
+		<time>60</time>
+		<parts>91.69</parts>
+		<col1>
+			<primary>47.01</primary>
+			<addon>38.41</addon>
+		</col1>
+		<col2>
+			<primary>313.4</primary>
+			<addon>256.05</addon>
+		</col2>
+		<col3>
+			<primary>360.41</primary>
+			<addon>294.46</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FL025</number>
+		<name>Quality Lav Faucet WIDESET 2 Handle chrome</name>
+		<description>(GOOD QUALITY) Remove old faucet &amp; drain. Install better quality Wideset lav faucet with drain</description>
+		<time>66</time>
+		<parts>104.26</parts>
+		<col1>
+			<primary>52.36</primary>
+			<addon>42.78</addon>
+		</col1>
+		<col2>
+			<primary>349.08</primary>
+			<addon>285.2</addon>
+		</col2>
+		<col3>
+			<primary>401.44</primary>
+			<addon>327.98</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FL030</number>
+		<name>Quality Lav Faucet 2 CENTERSET Chrome</name>
+		<description>(GOOD QUALITY) Remove old faucet &amp; drain. Install quality lav faucet with drain</description>
+		<time>60</time>
+		<parts>75.61</parts>
+		<col1>
+			<primary>43.94</primary>
+			<addon>35.9</addon>
+		</col1>
+		<col2>
+			<primary>292.93</primary>
+			<addon>239.32</addon>
+		</col2>
+		<col3>
+			<primary>336.87</primary>
+			<addon>275.22</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FL032</number>
+		<name>Add for Bruched Nickle Finish</name>
+		<description>Add for Bruched Nickle Finish</description>
+		<time>0</time>
+		<parts>0</parts>
+		<col1>
+			<primary>6.7</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>44.68</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>51.38</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>FL304</number>
+		<name>Standard Laundry Tray Faucet Chrome</name>
+		<description>(Standard Quality) 6-IN Spout</description>
+		<time>60</time>
+		<parts>48.58</parts>
+		<col1>
+			<primary>38.77</primary>
+			<addon>31.68</addon>
+		</col1>
+		<col2>
+			<primary>258.51</primary>
+			<addon>211.2</addon>
+		</col2>
+		<col3>
+			<primary>297.28</primary>
+			<addon>242.88</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FL440</number>
+		<name>Lavatory Pop Up Drain</name>
+		<description>Remove Existing, Install New Chrome Pop Up Drain</description>
+		<time>45</time>
+		<parts>24.54</parts>
+		<col1>
+			<primary>26.81</primary>
+			<addon>21.91</addon>
+		</col1>
+		<col2>
+			<primary>178.73</primary>
+			<addon>146.02</addon>
+		</col2>
+		<col3>
+			<primary>205.54</primary>
+			<addon>167.93</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR003</number>
+		<name>Expose Frozen Pipe Leak In Wall</name>
+		<description>Cut Open Wall To Expose Leak For Repair Access</description>
+		<time>30</time>
+		<parts>0</parts>
+		<col1>
+			<primary>14.75</primary>
+			<addon>12.05</addon>
+		</col1>
+		<col2>
+			<primary>98.33</primary>
+			<addon>80.34</addon>
+		</col2>
+		<col3>
+			<primary>113.08</primary>
+			<addon>92.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR004</number>
+		<name>Expose Frozen Pipe Leak In Ceiling</name>
+		<description>Cut Open Ceiling To Expose Leak For Repair Access</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR005</number>
+		<name>Access Panel-Cover Repair Hole</name>
+		<description>Install Access Panel In Hole Cut 14-INx14-IN</description>
+		<time>30</time>
+		<parts>22</parts>
+		<col1>
+			<primary>18.96</primary>
+			<addon>15.48</addon>
+		</col1>
+		<col2>
+			<primary>126.35</primary>
+			<addon>103.23</addon>
+		</col2>
+		<col3>
+			<primary>145.31</primary>
+			<addon>118.71</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR008</number>
+		<name>Repair Leak Exposed 1/2 To 3/4-IN Copper Pipe</name>
+		<description>Remove Leaking Pipe/Fitting, Install New Copper Pipe/Fitting</description>
+		<time>60</time>
+		<parts>17.31</parts>
+		<col1>
+			<primary>32.8</primary>
+			<addon>26.8</addon>
+		</col1>
+		<col2>
+			<primary>218.68</primary>
+			<addon>178.66</addon>
+		</col2>
+		<col3>
+			<primary>251.48</primary>
+			<addon>205.46</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR013</number>
+		<name>Repair Burst Pipe In Attic</name>
+		<description>Remove Leaking Pipe/Fitting, Install New Copper Pipe/Fitting</description>
+		<time>90</time>
+		<parts>10.24</parts>
+		<col1>
+			<primary>46.2</primary>
+			<addon>37.74</addon>
+		</col1>
+		<col2>
+			<primary>308</primary>
+			<addon>251.64</addon>
+		</col2>
+		<col3>
+			<primary>354.2</primary>
+			<addon>289.38</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR014</number>
+		<name>Repair Burst  Pipe-Crawl Space</name>
+		<description>Remove Leaking Pipe/Fitting, Install New Copper Pipe/Fitting</description>
+		<time>120</time>
+		<parts>10.24</parts>
+		<col1>
+			<primary>60.94</primary>
+			<addon>49.79</addon>
+		</col1>
+		<col2>
+			<primary>406.31</primary>
+			<addon>331.95</addon>
+		</col2>
+		<col3>
+			<primary>467.25</primary>
+			<addon>381.74</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR016</number>
+		<name>Thaw Frozen Water Pipe-With Heat Gun</name>
+		<description>Thaw Frozen Pipe With Hand Heat Gun</description>
+		<time>30</time>
+		<parts>0</parts>
+		<col1>
+			<primary>14.75</primary>
+			<addon>12.05</addon>
+		</col1>
+		<col2>
+			<primary>98.33</primary>
+			<addon>80.34</addon>
+		</col2>
+		<col3>
+			<primary>113.08</primary>
+			<addon>92.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR020</number>
+		<name>Hose Bib Replacement (FROST-FREE)Open Access</name>
+		<description>Install New Frost Free Wall Hydrant 10-12-IN Open Access</description>
+		<time>60</time>
+		<parts>30.68</parts>
+		<col1>
+			<primary>35.35</primary>
+			<addon>28.89</addon>
+		</col1>
+		<col2>
+			<primary>235.71</primary>
+			<addon>192.57</addon>
+		</col2>
+		<col3>
+			<primary>271.06</primary>
+			<addon>221.46</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR021</number>
+		<name>Wall Hydrant Replacement (FROST-FREE)Limited Acces</name>
+		<description>Install new Frost Free Hose Bib with Limited Access</description>
+		<time>75</time>
+		<parts>30.68</parts>
+		<col1>
+			<primary>42.73</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>284.86</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>327.59</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR022</number>
+		<name>Burst Outside Hose Faucet Replacement (STANDARD)</name>
+		<description>(GOOD) Install New  Wall Hydrant</description>
+		<time>45</time>
+		<parts>8.4</parts>
+		<col1>
+			<primary>23.72</primary>
+			<addon>19.38</addon>
+		</col1>
+		<col2>
+			<primary>158.18</primary>
+			<addon>129.23</addon>
+		</col2>
+		<col3>
+			<primary>181.9</primary>
+			<addon>148.61</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FPR056</number>
+		<name>Repair Burst Plastic Water Pipe 1/2-3/4-IN Exposed</name>
+		<description>Remove Leaking Pipe/Fitting, Repair With CPVC Pipe/Fitting</description>
+		<time>60</time>
+		<parts>15.14</parts>
+		<col1>
+			<primary>32.39</primary>
+			<addon>26.47</addon>
+		</col1>
+		<col2>
+			<primary>215.92</primary>
+			<addon>176.4</addon>
+		</col2>
+		<col3>
+			<primary>248.31</primary>
+			<addon>202.87</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FR001</number>
+		<name>1 Handle Kitchen/Lav/Bar Faucet Repair Premium</name>
+		<description>Complete Repair of Premium Faucet (Grohe, Kohler, Franke, KWC)  Install New Cartridge &amp; Grease Lav, Kit, Shower Premium Cartridge</description>
+		<time>60</time>
+		<parts>70.05</parts>
+		<col1>
+			<primary>42.87</primary>
+			<addon>35.03</addon>
+		</col1>
+		<col2>
+			<primary>285.85</primary>
+			<addon>233.54</addon>
+		</col2>
+		<col3>
+			<primary>328.72</primary>
+			<addon>268.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FR002</number>
+		<name>2 Handle Kitchen/Lav/Bar Faucet Repair Premium</name>
+		<description>All Ceramic Type"  Install New Ceramic-Stems, Grease Kitchen &amp; Lav (2YR Warranty)</description>
+		<time>60</time>
+		<parts>34.46</parts>
+		<col1>
+			<primary>36.08</primary>
+			<addon>29.48</addon>
+		</col1>
+		<col2>
+			<primary>240.52</primary>
+			<addon>196.5</addon>
+		</col2>
+		<col3>
+			<primary>276.6</primary>
+			<addon>225.98</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FR030</number>
+		<name>1 Handle Kitchen/Lav/Bar Faucet Repair Standard</name>
+		<description>Complete Repair: New Spout O-rings, Hose Diverter, Aerator, Cartridge &amp; Grease</description>
+		<time>60</time>
+		<parts>28.58</parts>
+		<col1>
+			<primary>34.95</primary>
+			<addon>28.56</addon>
+		</col1>
+		<col2>
+			<primary>233.04</primary>
+			<addon>190.39</addon>
+		</col2>
+		<col3>
+			<primary>267.99</primary>
+			<addon>218.95</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FR032</number>
+		<name>2 Handle Kit/Lav/Bar Faucet Repair Standard</name>
+		<description>Remove Existing, Install New Stems, Seats &amp; Grease Kit, Lav</description>
+		<time>60</time>
+		<parts>19.73</parts>
+		<col1>
+			<primary>33.27</primary>
+			<addon>27.18</addon>
+		</col1>
+		<col2>
+			<primary>221.76</primary>
+			<addon>181.18</addon>
+		</col2>
+		<col3>
+			<primary>255.03</primary>
+			<addon>208.36</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FR034</number>
+		<name>Non Standard 2 Handle Kit/ Lav/Bar Faucet Repair</name>
+		<description>Remove Existing, Install Non Standard  style  hot &amp; cold stems and seats</description>
+		<time>60</time>
+		<parts>66.61</parts>
+		<col1>
+			<primary>42.22</primary>
+			<addon>34.49</addon>
+		</col1>
+		<col2>
+			<primary>281.46</primary>
+			<addon>229.95</addon>
+		</col2>
+		<col3>
+			<primary>323.68</primary>
+			<addon>264.44</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FR045</number>
+		<name>Outside Hose Faucet Replacement FROST-FREE Premium</name>
+		<description>(OPEN ACCESS) Install New Frost Free Wall Hydrant 10-12-IN</description>
+		<time>60</time>
+		<parts>30.68</parts>
+		<col1>
+			<primary>35.35</primary>
+			<addon>28.89</addon>
+		</col1>
+		<col2>
+			<primary>235.71</primary>
+			<addon>192.57</addon>
+		</col2>
+		<col3>
+			<primary>271.06</primary>
+			<addon>221.46</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FR047</number>
+		<name>Outside Hose Bib Replacement Frost Free Limited</name>
+		<description>LIMITED/DIFFICULT ACCESS install new frost free wall hydrant 10-12"</description>
+		<time>75</time>
+		<parts>30.68</parts>
+		<col1>
+			<primary>42.73</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>284.86</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>327.59</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>FR048</number>
+		<name>Outside Hose Faucet Replacement Standard</name>
+		<description>(GOOD) Install New  Wall Hydrant</description>
+		<time>45</time>
+		<parts>8.4</parts>
+		<col1>
+			<primary>23.72</primary>
+			<addon>19.38</addon>
+		</col1>
+		<col2>
+			<primary>158.18</primary>
+			<addon>129.23</addon>
+		</col2>
+		<col3>
+			<primary>181.9</primary>
+			<addon>148.61</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FT005</number>
+		<name>Quality Tub/Shower Valve Chrome 1 Handle</name>
+		<description>(BEST QUALITY) Install single Handle Tub/Shower Valve (TILE REPAIR NOT INCLUDED)</description>
+		<time>90</time>
+		<parts>123.42</parts>
+		<col1>
+			<primary>67.82</primary>
+			<addon>55.41</addon>
+		</col1>
+		<col2>
+			<primary>452.14</primary>
+			<addon>369.4</addon>
+		</col2>
+		<col3>
+			<primary>519.96</primary>
+			<addon>424.81</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FT006</number>
+		<name>Install Moen Repair Plate at Time of Valve Install</name>
+		<description>Install Remodel plate at time of tub/shower valve install</description>
+		<time>45</time>
+		<parts>38.42</parts>
+		<col1>
+			<primary>29.46</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>196.41</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>225.87</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>FT020</number>
+		<name>Quality 3 Handle Tub &amp; Shower Valve Chrome</name>
+		<description>(BEST QUALITY) Ceramic Stems</description>
+		<time>90</time>
+		<parts>137.07</parts>
+		<col1>
+			<primary>70.43</primary>
+			<addon>57.54</addon>
+		</col1>
+		<col2>
+			<primary>469.53</primary>
+			<addon>383.61</addon>
+		</col2>
+		<col3>
+			<primary>539.96</primary>
+			<addon>441.15</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FT037</number>
+		<name>Add for Brushed Nickle finish</name>
+		<description>Add for Brushed Nickle finish</description>
+		<time>0</time>
+		<parts>0</parts>
+		<col1>
+			<primary>8.25</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>54.99</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>63.24</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>FT096</number>
+		<name>Standard Shower Head Chrome</name>
+		<description>(GOOD QUALITY)</description>
+		<time>30</time>
+		<parts>26.38</parts>
+		<col1>
+			<primary>19.79</primary>
+			<addon>16.16</addon>
+		</col1>
+		<col2>
+			<primary>131.93</primary>
+			<addon>107.79</addon>
+		</col2>
+		<col3>
+			<primary>151.72</primary>
+			<addon>123.95</addon>
+		</col3>
+	</task>
+	<task>
+		<number>FXI075</number>
+		<name>Disconnect &amp; Re-Install Slop Sink</name>
+		<description>With faucet &amp; trap drain</description>
+		<time>90</time>
+		<parts>6.8</parts>
+		<col1>
+			<primary>45.55</primary>
+			<addon>37.21</addon>
+		</col1>
+		<col2>
+			<primary>303.62</primary>
+			<addon>248.06</addon>
+		</col2>
+		<col3>
+			<primary>349.17</primary>
+			<addon>285.27</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GDI100</number>
+		<name>Hookup Gas Dryer up to 4-FT (Owner Supplied)</name>
+		<description>Connect Owner Supplied Gas Dryer To Existing Gas And Vent Connections</description>
+		<time>60</time>
+		<parts>34.52</parts>
+		<col1>
+			<primary>36.09</primary>
+			<addon>29.49</addon>
+		</col1>
+		<col2>
+			<primary>240.6</primary>
+			<addon>196.57</addon>
+		</col2>
+		<col3>
+			<primary>276.69</primary>
+			<addon>226.06</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GDI105</number>
+		<name>Dryer Vent Kit Replacement</name>
+		<description>Replace Existing Dryer Vent Kit, Vent Hose And Vent Hood</description>
+		<time>60</time>
+		<parts>14.73</parts>
+		<col1>
+			<primary>32.31</primary>
+			<addon>26.4</addon>
+		</col1>
+		<col2>
+			<primary>215.39</primary>
+			<addon>175.97</addon>
+		</col2>
+		<col3>
+			<primary>247.7</primary>
+			<addon>202.37</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GDI110</number>
+		<name>Disconnect/ Re-Install Wash/Dryer (Owner Supplied)</name>
+		<description>Disconnect Existing Washer &amp; Dryer And Reconnect The Same</description>
+		<time>75</time>
+		<parts>0</parts>
+		<col1>
+			<primary>36.87</primary>
+			<addon>30.12</addon>
+		</col1>
+		<col2>
+			<primary>245.79</primary>
+			<addon>200.81</addon>
+		</col2>
+		<col3>
+			<primary>282.66</primary>
+			<addon>230.93</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GGI005</number>
+		<name>Disconnect &amp; Connect New Gas Grill (Assembled)</name>
+		<description>Disconnect Old &amp; Connect Owner Supplied Grill To Existing Piping</description>
+		<time>60</time>
+		<parts>4.05</parts>
+		<col1>
+			<primary>30.27</primary>
+			<addon>24.73</addon>
+		</col1>
+		<col2>
+			<primary>201.79</primary>
+			<addon>164.86</addon>
+		</col2>
+		<col3>
+			<primary>232.06</primary>
+			<addon>189.59</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR005</number>
+		<name>Minor Gas Leak Detection</name>
+		<description>Locate Natural/Propane Gas Leak, Provide Cost For Repair</description>
+		<time>60</time>
+		<parts>8.04</parts>
+		<col1>
+			<primary>31.03</primary>
+			<addon>25.36</addon>
+		</col1>
+		<col2>
+			<primary>206.87</primary>
+			<addon>169.01</addon>
+		</col2>
+		<col3>
+			<primary>237.9</primary>
+			<addon>194.37</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR006</number>
+		<name>Major Gas Leak Detection (Crawl-Space-Attic)</name>
+		<description>Locate Natural/Propane Gas Leak, Provide Cost For Repair</description>
+		<time>75</time>
+		<parts>8.04</parts>
+		<col1>
+			<primary>38.41</primary>
+			<addon>31.38</addon>
+		</col1>
+		<col2>
+			<primary>256.02</primary>
+			<addon>209.17</addon>
+		</col2>
+		<col3>
+			<primary>294.43</primary>
+			<addon>240.55</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR008</number>
+		<name>Whole House Gas Piping Air Test (Exposed Piping)</name>
+		<description>Null</description>
+		<time>90</time>
+		<parts>8.04</parts>
+		<col1>
+			<primary>45.78</primary>
+			<addon>37.4</addon>
+		</col1>
+		<col2>
+			<primary>305.2</primary>
+			<addon>249.35</addon>
+		</col2>
+		<col3>
+			<primary>350.98</primary>
+			<addon>286.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR009</number>
+		<name>Whole House Gas Piping Air Test (Concealed Piping)</name>
+		<description>Null</description>
+		<time>135</time>
+		<parts>8.04</parts>
+		<col1>
+			<primary>67.9</primary>
+			<addon>55.48</addon>
+		</col1>
+		<col2>
+			<primary>452.66</primary>
+			<addon>369.82</addon>
+		</col2>
+		<col3>
+			<primary>520.56</primary>
+			<addon>425.3</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR011</number>
+		<name>Manometer Test Gas Line (Pressure Test)</name>
+		<description>Whole House Gas Pressure Test</description>
+		<time>90</time>
+		<parts>0</parts>
+		<col1>
+			<primary>44.25</primary>
+			<addon>36.14</addon>
+		</col1>
+		<col2>
+			<primary>294.96</primary>
+			<addon>240.99</addon>
+		</col2>
+		<col3>
+			<primary>339.21</primary>
+			<addon>277.13</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR017</number>
+		<name>1/2 To 3/4-IN Gas Service Stop Valve Replacement</name>
+		<description>Close Main Gas Remove Old Valve-Install New 3/4-IN Ball Valve Type Service Stop</description>
+		<time>45</time>
+		<parts>7.53</parts>
+		<col1>
+			<primary>23.56</primary>
+			<addon>19.25</addon>
+		</col1>
+		<col2>
+			<primary>157.07</primary>
+			<addon>128.33</addon>
+		</col2>
+		<col3>
+			<primary>180.63</primary>
+			<addon>147.58</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR019</number>
+		<name>1-IN Gas Service Stop Valve Replacement</name>
+		<description>Close Main Gas Remove Old Valve-Install New 1-IN Ball Valve Type Service Stop</description>
+		<time>60</time>
+		<parts>10.79</parts>
+		<col1>
+			<primary>31.55</primary>
+			<addon>25.78</addon>
+		</col1>
+		<col2>
+			<primary>210.38</primary>
+			<addon>171.88</addon>
+		</col2>
+		<col3>
+			<primary>241.93</primary>
+			<addon>197.66</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR021</number>
+		<name>1-1/4-IN Gas Service Stop Valve Replacement</name>
+		<description>Close Main Gas Remove Old Valve-Install New 1-1/4-IN Ball Valve Type Service Stop</description>
+		<time>75</time>
+		<parts>17.79</parts>
+		<col1>
+			<primary>40.26</primary>
+			<addon>32.9</addon>
+		</col1>
+		<col2>
+			<primary>268.45</primary>
+			<addon>219.32</addon>
+		</col2>
+		<col3>
+			<primary>308.71</primary>
+			<addon>252.22</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR030</number>
+		<name>1/2 To 3/4-IN Gas Pipe Leak Repair (Minor)</name>
+		<description>Close Main Gas Remove Leaking 3/4-IN Gas Fitting- Install New 1/2-IN Gas Fitting</description>
+		<time>90</time>
+		<parts>3.59</parts>
+		<col1>
+			<primary>44.93</primary>
+			<addon>36.7</addon>
+		</col1>
+		<col2>
+			<primary>299.54</primary>
+			<addon>244.73</addon>
+		</col2>
+		<col3>
+			<primary>344.47</primary>
+			<addon>281.43</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR031</number>
+		<name>1/2 To 3/4-IN Gas Pipe Leak Repair (Major)</name>
+		<description>Close Main Gas Remove Leaking 3/4-IN Gas Fitting And Piping- Install New 1/2-IN Gas Fitting and Pipe</description>
+		<time>150</time>
+		<parts>8.78</parts>
+		<col1>
+			<primary>75.41</primary>
+			<addon>61.61</addon>
+		</col1>
+		<col2>
+			<primary>502.78</primary>
+			<addon>410.77</addon>
+		</col2>
+		<col3>
+			<primary>578.19</primary>
+			<addon>472.38</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR032</number>
+		<name>1/2 To 3/4-IN Exposed Gas Pipe Per Foot</name>
+		<description>Gas Pipe Installation Per Foot</description>
+		<time>60</time>
+		<parts>4.45</parts>
+		<col1>
+			<primary>30.34</primary>
+			<addon>24.8</addon>
+		</col1>
+		<col2>
+			<primary>202.31</primary>
+			<addon>165.28</addon>
+		</col2>
+		<col3>
+			<primary>232.65</primary>
+			<addon>190.08</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR035</number>
+		<name>1-IN Gas Pipe Leak Repair (Minor)</name>
+		<description>Close Main Gas Remove Leaking 1-IN Gas Fitting- Install New 1/2-IN Gas Fitting</description>
+		<time>90</time>
+		<parts>4.37</parts>
+		<col1>
+			<primary>45.08</primary>
+			<addon>36.83</addon>
+		</col1>
+		<col2>
+			<primary>300.53</primary>
+			<addon>245.53</addon>
+		</col2>
+		<col3>
+			<primary>345.61</primary>
+			<addon>282.36</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR036</number>
+		<name>1-IN Gas Pipe Leak Repair (Major)</name>
+		<description>Close Main Gas Remove Leaking 1-IN Gas Fitting And Piping- Install New 1/2-IN Gas Fitting and Pipe</description>
+		<time>150</time>
+		<parts>11.45</parts>
+		<col1>
+			<primary>75.92</primary>
+			<addon>62.03</addon>
+		</col1>
+		<col2>
+			<primary>506.18</primary>
+			<addon>413.55</addon>
+		</col2>
+		<col3>
+			<primary>582.1</primary>
+			<addon>475.58</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR037</number>
+		<name>1-IN Exposed Gas Pipe Per Foot</name>
+		<description>Gas Pipe Installation Per Foot</description>
+		<time>75</time>
+		<parts>5.31</parts>
+		<col1>
+			<primary>37.89</primary>
+			<addon>30.95</addon>
+		</col1>
+		<col2>
+			<primary>252.55</primary>
+			<addon>206.34</addon>
+		</col2>
+		<col3>
+			<primary>290.44</primary>
+			<addon>237.29</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR039</number>
+		<name>1-1/4-IN Gas Pipe Leak Repair (Major)</name>
+		<description>Close Main Gas Remove Leaking 1-1/4-IN Gas Fitting And Piping- Install New 1/2-IN Gas Fitting and Pipe</description>
+		<time>180</time>
+		<parts>15.54</parts>
+		<col1>
+			<primary>91.46</primary>
+			<addon>74.72</addon>
+		</col1>
+		<col2>
+			<primary>609.69</primary>
+			<addon>498.12</addon>
+		</col2>
+		<col3>
+			<primary>701.15</primary>
+			<addon>572.84</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR040</number>
+		<name>1-1/4-IN Gas Pipe Leak Repair (Minor)</name>
+		<description>Close Main Gas Remove Leaking 1-1/4-IN Gas Fitting- Install New 1/2-IN Gas Fitting</description>
+		<time>120</time>
+		<parts>5.73</parts>
+		<col1>
+			<primary>60.09</primary>
+			<addon>49.09</addon>
+		</col1>
+		<col2>
+			<primary>400.56</primary>
+			<addon>327.26</addon>
+		</col2>
+		<col3>
+			<primary>460.65</primary>
+			<addon>376.35</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR041</number>
+		<name>1-1/4-IN Exposed Gas Pipe Per Foot</name>
+		<description>Gas Pipe Installation Per Foot</description>
+		<time>90</time>
+		<parts>7.31</parts>
+		<col1>
+			<primary>45.64</primary>
+			<addon>37.29</addon>
+		</col1>
+		<col2>
+			<primary>304.27</primary>
+			<addon>248.59</addon>
+		</col2>
+		<col3>
+			<primary>349.91</primary>
+			<addon>285.88</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR047</number>
+		<name>New Flexible Gas Connector 18 To 36-IN</name>
+		<description>Install New Premium Stainless Steel Flexible Gas Connector</description>
+		<time>45</time>
+		<parts>16.99</parts>
+		<col1>
+			<primary>25.37</primary>
+			<addon>20.72</addon>
+		</col1>
+		<col2>
+			<primary>169.12</primary>
+			<addon>138.17</addon>
+		</col2>
+		<col3>
+			<primary>194.49</primary>
+			<addon>158.89</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GPR050</number>
+		<name>New Flexible Gas Connector 48 To 72-IN</name>
+		<description>Install New Premium Stainless Steel Flexible Gas Connector</description>
+		<time>45</time>
+		<parts>30.19</parts>
+		<col1>
+			<primary>27.89</primary>
+			<addon>22.79</addon>
+		</col1>
+		<col2>
+			<primary>185.93</primary>
+			<addon>151.9</addon>
+		</col2>
+		<col3>
+			<primary>213.82</primary>
+			<addon>174.69</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GRI101</number>
+		<name>Disconnect Gas Range &amp; Cap</name>
+		<description>Disconnect Gas Range/Cook-Top And Cap Line</description>
+		<time>45</time>
+		<parts>1.25</parts>
+		<col1>
+			<primary>22.36</primary>
+			<addon>18.27</addon>
+		</col1>
+		<col2>
+			<primary>149.07</primary>
+			<addon>121.79</addon>
+		</col2>
+		<col3>
+			<primary>171.43</primary>
+			<addon>140.06</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GRI102</number>
+		<name>Remove &amp; Re-Install Gas Range</name>
+		<description>Install Existing Gas Range/Cook-Top</description>
+		<time>45</time>
+		<parts>21.99</parts>
+		<col1>
+			<primary>26.32</primary>
+			<addon>21.5</addon>
+		</col1>
+		<col2>
+			<primary>175.48</primary>
+			<addon>143.37</addon>
+		</col2>
+		<col3>
+			<primary>201.8</primary>
+			<addon>164.87</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GRI103</number>
+		<name>Hook-UP Gas Range (Owner Supplied)</name>
+		<description>Connect Gas Range/Cook-Top And Cap Line</description>
+		<time>45</time>
+		<parts>30.19</parts>
+		<col1>
+			<primary>27.89</primary>
+			<addon>22.79</addon>
+		</col1>
+		<col2>
+			<primary>185.93</primary>
+			<addon>151.9</addon>
+		</col2>
+		<col3>
+			<primary>213.82</primary>
+			<addon>174.69</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GRI104</number>
+		<name>New Flexible Gas Connector</name>
+		<description>Install New Code Approved Stainless Steel Flexible Gas Connector</description>
+		<time>45</time>
+		<parts>30.19</parts>
+		<col1>
+			<primary>27.89</primary>
+			<addon>22.79</addon>
+		</col1>
+		<col2>
+			<primary>185.93</primary>
+			<addon>151.9</addon>
+		</col2>
+		<col3>
+			<primary>213.82</primary>
+			<addon>174.69</addon>
+		</col3>
+	</task>
+	<task>
+		<number>GRI107</number>
+		<name>New Gas Shut-Off Valve 1/2-3/4-IN</name>
+		<description>Install New Code Approved Brass Ball Valve Type Shut-Off</description>
+		<time>45</time>
+		<parts>7.53</parts>
+		<col1>
+			<primary>23.56</primary>
+			<addon>19.25</addon>
+		</col1>
+		<col2>
+			<primary>157.07</primary>
+			<addon>128.33</addon>
+		</col2>
+		<col3>
+			<primary>180.63</primary>
+			<addon>147.58</addon>
+		</col3>
+	</task>
+	<task>
+		<number>Helper050</number>
+		<name>Helper Labor per Billable 1/2 Hour</name>
+		<description>Helper Labor per Billable 1/2 Hour</description>
+		<time>0</time>
+		<parts>0</parts>
+		<col1>
+			<primary>3.85</primary>
+			<addon>3.14</addon>
+		</col1>
+		<col2>
+			<primary>25.62</primary>
+			<addon>20.93</addon>
+		</col2>
+		<col3>
+			<primary>29.47</primary>
+			<addon>24.07</addon>
+		</col3>
+	</task>
+	<task>
+		<number>Helper100</number>
+		<name>Helper Labor per Billable Hour</name>
+		<description>Helper Labor per Billable Hour</description>
+		<time>0</time>
+		<parts>0</parts>
+		<col1>
+			<primary>7.68</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>51.24</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>58.92</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>Journeyman050</number>
+		<name>Journeyman per Billable1/2 hour</name>
+		<description>Journeyman per Billable 1/2 hour</description>
+		<time>30</time>
+		<parts>0</parts>
+		<col1>
+			<primary>12.54</primary>
+			<addon>10.25</addon>
+		</col1>
+		<col2>
+			<primary>83.58</primary>
+			<addon>68.28</addon>
+		</col2>
+		<col3>
+			<primary>96.12</primary>
+			<addon>78.53</addon>
+		</col3>
+	</task>
+	<task>
+		<number>Journeyman100</number>
+		<name>Journeyman per Billable hour</name>
+		<description>Journeyman per Billable hour</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>25.07</primary>
+			<addon>20.49</addon>
+		</col1>
+		<col2>
+			<primary>167.14</primary>
+			<addon>136.55</addon>
+		</col2>
+		<col3>
+			<primary>192.21</primary>
+			<addon>157.04</addon>
+		</col3>
+	</task>
+	<task>
+		<number>KSI010</number>
+		<name>Disconnect Kitchen Sink and Cap Lines</name>
+		<description>Disconnect Kitchen &amp; Island Sink Cap and Ready For new</description>
+		<time>60</time>
+		<parts>8.48</parts>
+		<col1>
+			<primary>31.11</primary>
+			<addon>25.43</addon>
+		</col1>
+		<col2>
+			<primary>207.44</primary>
+			<addon>169.47</addon>
+		</col2>
+		<col3>
+			<primary>238.55</primary>
+			<addon>194.9</addon>
+		</col3>
+	</task>
+	<task>
+		<number>KSI015</number>
+		<name>Disconnect Sink, Dishwasher, Range &amp; Cap Lines</name>
+		<description>Disconnect Kitchen Sink, Dishwasher, Range And Cap Lines Ready For New</description>
+		<time>75</time>
+		<parts>7.21</parts>
+		<col1>
+			<primary>38.25</primary>
+			<addon>31.24</addon>
+		</col1>
+		<col2>
+			<primary>254.96</primary>
+			<addon>208.31</addon>
+		</col2>
+		<col3>
+			<primary>293.21</primary>
+			<addon>239.55</addon>
+		</col3>
+	</task>
+	<task>
+		<number>LSI-055</number>
+		<name>Remove And Re-Install Wall Hung Lav Sink</name>
+		<description>Null</description>
+		<time>90</time>
+		<parts>12.94</parts>
+		<col1>
+			<primary>46.71</primary>
+			<addon>38.17</addon>
+		</col1>
+		<col2>
+			<primary>311.45</primary>
+			<addon>254.45</addon>
+		</col2>
+		<col3>
+			<primary>358.16</primary>
+			<addon>292.62</addon>
+		</col3>
+	</task>
+	<task>
+		<number>LSI-070</number>
+		<name>Clean And Re-Caulk Self-Rim Lav Sink</name>
+		<description>Null</description>
+		<time>45</time>
+		<parts>8.51</parts>
+		<col1>
+			<primary>23.75</primary>
+			<addon>19.4</addon>
+		</col1>
+		<col2>
+			<primary>158.32</primary>
+			<addon>129.35</addon>
+		</col2>
+		<col3>
+			<primary>182.07</primary>
+			<addon>148.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>LTI300</number>
+		<name>Laundry Tray Faucet Chrome</name>
+		<description>(Highest Quality) Ceramic Stems With 8-IN Spout</description>
+		<time>60</time>
+		<parts>73.41</parts>
+		<col1>
+			<primary>43.52</primary>
+			<addon>35.55</addon>
+		</col1>
+		<col2>
+			<primary>290.13</primary>
+			<addon>237.04</addon>
+		</col2>
+		<col3>
+			<primary>333.65</primary>
+			<addon>272.59</addon>
+		</col3>
+	</task>
+	<task>
+		<number>LTI302</number>
+		<name>Quality Laundry Tray Faucet Chrome</name>
+		<description>(Good Quality) Ceramic Stems with 6-IN Spout</description>
+		<time>60</time>
+		<parts>70.72</parts>
+		<col1>
+			<primary>43.01</primary>
+			<addon>35.13</addon>
+		</col1>
+		<col2>
+			<primary>286.69</primary>
+			<addon>234.23</addon>
+		</col2>
+		<col3>
+			<primary>329.7</primary>
+			<addon>269.36</addon>
+		</col3>
+	</task>
+	<task>
+		<number>LTI304</number>
+		<name>Standard Laundry Tray Faucet Chrome</name>
+		<description>(Standard Quality) 6-IN Spout</description>
+		<time>60</time>
+		<parts>61.85</parts>
+		<col1>
+			<primary>41.31</primary>
+			<addon>33.75</addon>
+		</col1>
+		<col2>
+			<primary>275.4</primary>
+			<addon>225</addon>
+		</col2>
+		<col3>
+			<primary>316.71</primary>
+			<addon>258.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV016</number>
+		<name>Pressure Test Whole House</name>
+		<description>Test Pressure In Whole House Diagnose Problem</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV152</number>
+		<name>New Pressure Reducing Valve 3/4-IN (Standard)</name>
+		<description>Install Whole House Pressure Reducing Valve (No Expansion Tank)</description>
+		<time>75</time>
+		<parts>120.82</parts>
+		<col1>
+			<primary>59.95</primary>
+			<addon>48.98</addon>
+		</col1>
+		<col2>
+			<primary>399.66</primary>
+			<addon>326.52</addon>
+		</col2>
+		<col3>
+			<primary>459.61</primary>
+			<addon>375.5</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV153</number>
+		<name>Replace Pressure Reducing Valve 3/4-IN (Standard)</name>
+		<description>Remove Existing Install New Reducing Valve (No Expansion Tank) Direct Replacement</description>
+		<time>45</time>
+		<parts>94.8</parts>
+		<col1>
+			<primary>40.23</primary>
+			<addon>32.87</addon>
+		</col1>
+		<col2>
+			<primary>268.21</primary>
+			<addon>219.13</addon>
+		</col2>
+		<col3>
+			<primary>308.44</primary>
+			<addon>252</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV156</number>
+		<name>New Pressure Reducing Valve 1-IN (Standard)</name>
+		<description>Install Whole House Pressure Reducing Valve (No Expansion Tank)</description>
+		<time>75</time>
+		<parts>139.39</parts>
+		<col1>
+			<primary>63.49</primary>
+			<addon>51.88</addon>
+		</col1>
+		<col2>
+			<primary>423.31</primary>
+			<addon>345.84</addon>
+		</col2>
+		<col3>
+			<primary>486.8</primary>
+			<addon>397.72</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV157</number>
+		<name>Replace Pressure Reducing Valve 1-IN (Standard)</name>
+		<description>Install Whole House Pressure Reducing Valve (No Expansion Tank) Direct Replacement</description>
+		<time>45</time>
+		<parts>139.39</parts>
+		<col1>
+			<primary>48.75</primary>
+			<addon>39.82</addon>
+		</col1>
+		<col2>
+			<primary>325</primary>
+			<addon>265.53</addon>
+		</col2>
+		<col3>
+			<primary>373.75</primary>
+			<addon>305.35</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV160</number>
+		<name>New Pressure Reducing Valve 1-1/4-IN (Standard)</name>
+		<description>Install Whole House Pressure Reducing Valve (No Expansion Tank)</description>
+		<time>105</time>
+		<parts>229.55</parts>
+		<col1>
+			<primary>95.47</primary>
+			<addon>77.99</addon>
+		</col1>
+		<col2>
+			<primary>636.46</primary>
+			<addon>519.99</addon>
+		</col2>
+		<col3>
+			<primary>731.93</primary>
+			<addon>597.98</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV161</number>
+		<name>Replace Pressure Reducing Valve 1-1/4 (Standard)</name>
+		<description>Remove Existing, Install New Pressure Reducing Valve (No Expansion Tank) Direct Replacement</description>
+		<time>60</time>
+		<parts>229.55</parts>
+		<col1>
+			<primary>73.34</primary>
+			<addon>59.93</addon>
+		</col1>
+		<col2>
+			<primary>488.98</primary>
+			<addon>399.49</addon>
+		</col2>
+		<col3>
+			<primary>562.32</primary>
+			<addon>459.42</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV295</number>
+		<name>New Expansion Tank Install (30-40 Gal)</name>
+		<description>Install Water Heater Expansion Tank 30-40 Gallon Tanks</description>
+		<time>60</time>
+		<parts>37.59</parts>
+		<col1>
+			<primary>36.67</primary>
+			<addon>29.97</addon>
+		</col1>
+		<col2>
+			<primary>244.51</primary>
+			<addon>199.76</addon>
+		</col2>
+		<col3>
+			<primary>281.18</primary>
+			<addon>229.73</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV296</number>
+		<name>New Expansion Tank Install (50 Gallon)</name>
+		<description>Install Water Heater Expansion Tank 50-75 Gallon Tanks</description>
+		<time>60</time>
+		<parts>55.09</parts>
+		<col1>
+			<primary>40.02</primary>
+			<addon>32.69</addon>
+		</col1>
+		<col2>
+			<primary>266.79</primary>
+			<addon>217.97</addon>
+		</col2>
+		<col3>
+			<primary>306.81</primary>
+			<addon>250.66</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV297</number>
+		<name>Replace Expansion Tank Install (30-40 Gal)</name>
+		<description>Install Water Heater Expansion Tank 30-40 Gallon Tanks</description>
+		<time>45</time>
+		<parts>26.5</parts>
+		<col1>
+			<primary>27.18</primary>
+			<addon>22.21</addon>
+		</col1>
+		<col2>
+			<primary>181.24</primary>
+			<addon>148.07</addon>
+		</col2>
+		<col3>
+			<primary>208.42</primary>
+			<addon>170.28</addon>
+		</col3>
+	</task>
+	<task>
+		<number>PRV298</number>
+		<name>Replace Expansion Tank Install (50 Gallon)</name>
+		<description>Install Water Heater Expansion Tank 50-75 Gallon Tanks</description>
+		<time>45</time>
+		<parts>44</parts>
+		<col1>
+			<primary>30.53</primary>
+			<addon>24.95</addon>
+		</col1>
+		<col2>
+			<primary>203.52</primary>
+			<addon>166.27</addon>
+		</col2>
+		<col3>
+			<primary>234.05</primary>
+			<addon>191.22</addon>
+		</col3>
+	</task>
+	<task>
+		<number>RIM100</number>
+		<name>Water line &amp; Valve For Ice Maker 15-FT</name>
+		<description>Connect Icemaker Install New Copper Water Pipe And Valve</description>
+		<time>60</time>
+		<parts>30.55</parts>
+		<col1>
+			<primary>35.33</primary>
+			<addon>28.86</addon>
+		</col1>
+		<col2>
+			<primary>235.54</primary>
+			<addon>192.44</addon>
+		</col2>
+		<col3>
+			<primary>270.87</primary>
+			<addon>221.3</addon>
+		</col3>
+	</task>
+	<task>
+		<number>RIM105</number>
+		<name>Replace Water Line For Ice Maker Copper 15-FT</name>
+		<description>Remove Existing, Install New 1/4-IN Copper Tubing Only (No Valve)</description>
+		<time>45</time>
+		<parts>14.25</parts>
+		<col1>
+			<primary>24.84</primary>
+			<addon>20.3</addon>
+		</col1>
+		<col2>
+			<primary>165.64</primary>
+			<addon>135.32</addon>
+		</col2>
+		<col3>
+			<primary>190.48</primary>
+			<addon>155.62</addon>
+		</col3>
+	</task>
+	<task>
+		<number>RIM106</number>
+		<name>Replace Water Line For Ice Maker Plastic 15-FT</name>
+		<description>Remove Existing, Install New 1/4-IN Plastic Tubing Only (No Valve)</description>
+		<time>45</time>
+		<parts>10.5</parts>
+		<col1>
+			<primary>24.13</primary>
+			<addon>19.71</addon>
+		</col1>
+		<col2>
+			<primary>160.86</primary>
+			<addon>131.42</addon>
+		</col2>
+		<col3>
+			<primary>184.99</primary>
+			<addon>151.13</addon>
+		</col3>
+	</task>
+	<task>
+		<number>RIM107</number>
+		<name>Ice Maker Stop Valve</name>
+		<description>Close Water, Install New Valve</description>
+		<time>45</time>
+		<parts>10.7</parts>
+		<col1>
+			<primary>24.16</primary>
+			<addon>19.75</addon>
+		</col1>
+		<col2>
+			<primary>161.11</primary>
+			<addon>131.62</addon>
+		</col2>
+		<col3>
+			<primary>185.27</primary>
+			<addon>151.37</addon>
+		</col3>
+	</task>
+	<task>
+		<number>RIM110</number>
+		<name>Ice Maker Filter (In-Line)</name>
+		<description>Enjoy Great Tasting Ice &amp; Water, Install Gac Carbon Filter</description>
+		<time>30</time>
+		<parts>34.33</parts>
+		<col1>
+			<primary>21.3</primary>
+			<addon>17.41</addon>
+		</col1>
+		<col2>
+			<primary>142.05</primary>
+			<addon>116.05</addon>
+		</col2>
+		<col3>
+			<primary>163.35</primary>
+			<addon>133.46</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SD010</number>
+		<name>Plumbing Diagnostic Minor</name>
+		<description>Test House Water Pressure, Water Pressure Problem,</description>
+		<time>30</time>
+		<parts>0</parts>
+		<col1>
+			<primary>14.75</primary>
+			<addon>12.05</addon>
+		</col1>
+		<col2>
+			<primary>98.33</primary>
+			<addon>80.34</addon>
+		</col2>
+		<col3>
+			<primary>113.08</primary>
+			<addon>92.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SD015</number>
+		<name>Plumbing Diagnostic, Major</name>
+		<description>Diagnosis, Plumbing Problem, Usually un-exposed and un-seen.</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>29.49</primary>
+			<addon>24.1</addon>
+		</col1>
+		<col2>
+			<primary>196.64</primary>
+			<addon>160.65</addon>
+		</col2>
+		<col3>
+			<primary>226.13</primary>
+			<addon>184.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SD019</number>
+		<name>Open Ceiling, Expose Leak</name>
+		<description>Layout Drop Cloth, Cut Open Ceiling, Expose Leak Remove Debris</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SD020</number>
+		<name>Minor Water Leak Search</name>
+		<description>Visual Inspect Plumbing Fixtures, Valves &amp; Piping Locate Leak (Leak Exposed)</description>
+		<time>30</time>
+		<parts>0</parts>
+		<col1>
+			<primary>14.75</primary>
+			<addon>12.05</addon>
+		</col1>
+		<col2>
+			<primary>98.33</primary>
+			<addon>80.34</addon>
+		</col2>
+		<col3>
+			<primary>113.08</primary>
+			<addon>92.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SD025</number>
+		<name>Major Water Leak Search</name>
+		<description>Perform Leak Search, Cap Shower Head &amp; Pressure Test</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>29.49</primary>
+			<addon>24.1</addon>
+		</col1>
+		<col2>
+			<primary>196.64</primary>
+			<addon>160.65</addon>
+		</col2>
+		<col3>
+			<primary>226.13</primary>
+			<addon>184.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SD026</number>
+		<name>Shower Pan Leak Test</name>
+		<description>Perform Leak Search, Cap Shower Drain Test For Leak</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>29.49</primary>
+			<addon>24.1</addon>
+		</col1>
+		<col2>
+			<primary>196.64</primary>
+			<addon>160.65</addon>
+		</col2>
+		<col3>
+			<primary>226.13</primary>
+			<addon>184.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SD040</number>
+		<name>Natural Gas Leak Detection</name>
+		<description>Locate Natural Gas Leak, Provide Cost For Repair</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SD075</number>
+		<name>Complete Plumbing System Inspection</name>
+		<description>Inspect Complete Systems, Provide Complete Report</description>
+		<time>30</time>
+		<parts>0</parts>
+		<col1>
+			<primary>14.75</primary>
+			<addon>12.05</addon>
+		</col1>
+		<col2>
+			<primary>98.33</primary>
+			<addon>80.34</addon>
+		</col2>
+		<col3>
+			<primary>113.08</primary>
+			<addon>92.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SEP002</number>
+		<name>Sewer Ejector Inspection (Diagnosis Problem)</name>
+		<description>Technician Will Remove Cover, Inspect Pump &amp; Switch</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>SEP025</number>
+		<name>Install New Sewer Ejector Pump (Submersable)</name>
+		<description>Remove Existing, Install 1/2HP Zoeller 2-IN Sewer Ejector Pump In Exisisting Tank</description>
+		<time>120</time>
+		<parts>392.48</parts>
+		<col1>
+			<primary>133.96</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>893.11</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>1027.07</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>SEP030</number>
+		<name>Remove Ejector Pump Cleanout, Unjam &amp; Check Switch</name>
+		<description>Remove Existing Pump, UnJam &amp; Clean Out &amp; Check Switch</description>
+		<time>90</time>
+		<parts>0</parts>
+		<col1>
+			<primary>44.25</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>294.96</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>339.21</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>SEP036</number>
+		<name>Remove And Install New 2-IN Check Vlv Ejector Pump</name>
+		<description>Remove Existing, Install New 2-IN Check Valve Ejector Pump</description>
+		<time>45</time>
+		<parts>48.55</parts>
+		<col1>
+			<primary>31.4</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>209.32</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>240.72</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>SGD001</number>
+		<name>Un-jam Food Waste Disposer</name>
+		<description>Un-Jam Food Waste Disposer, Check For Proper Operation</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SGD026</number>
+		<name>Premium Food Waste Disposer Replacement</name>
+		<description>Remove Existing, Install New Premium Food Waste Disposer 1HP Cont Feed Connect To Existing Piping</description>
+		<time>60</time>
+		<parts>333.15</parts>
+		<col1>
+			<primary>93.13</primary>
+			<addon>76.09</addon>
+		</col1>
+		<col2>
+			<primary>620.91</primary>
+			<addon>507.28</addon>
+		</col2>
+		<col3>
+			<primary>714.04</primary>
+			<addon>583.37</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SGD028</number>
+		<name>Quality Food Waste Disposer Replacement</name>
+		<description>Remove Exist, Install New Cont Feed 3/4HP Food Waste Disposer, Connect To Existing Pipeline</description>
+		<time>60</time>
+		<parts>191.67</parts>
+		<col1>
+			<primary>66.11</primary>
+			<addon>54.01</addon>
+		</col1>
+		<col2>
+			<primary>440.73</primary>
+			<addon>360.08</addon>
+		</col2>
+		<col3>
+			<primary>506.84</primary>
+			<addon>414.09</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SGD030</number>
+		<name>Budget Food Waste Disposer Replacement</name>
+		<description>Remove Existing, Install New Budget 1/2HP Cont Feed Food Waste Disposer Connect To Existing Piping</description>
+		<time>60</time>
+		<parts>101.3</parts>
+		<col1>
+			<primary>48.84</primary>
+			<addon>39.91</addon>
+		</col1>
+		<col2>
+			<primary>325.65</primary>
+			<addon>266.05</addon>
+		</col2>
+		<col3>
+			<primary>374.49</primary>
+			<addon>305.96</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SGD032</number>
+		<name>Remove Sink Waste Disposer- Install Sink Strainer</name>
+		<description>Remove Existing Disposer, Install New Sink Strainer, Tailpiece &amp; Piping Cap Electric</description>
+		<time>60</time>
+		<parts>37.94</parts>
+		<col1>
+			<primary>36.75</primary>
+			<addon>30.02</addon>
+		</col1>
+		<col2>
+			<primary>244.95</primary>
+			<addon>200.13</addon>
+		</col2>
+		<col3>
+			<primary>281.7</primary>
+			<addon>230.15</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SGD036</number>
+		<name>Disposal Continuous Waste Plastic Replacement</name>
+		<description>Replace Continuous Waste For Food Waste Disposer</description>
+		<time>60</time>
+		<parts>8.93</parts>
+		<col1>
+			<primary>31.2</primary>
+			<addon>25.49</addon>
+		</col1>
+		<col2>
+			<primary>208.01</primary>
+			<addon>169.95</addon>
+		</col2>
+		<col3>
+			<primary>239.21</primary>
+			<addon>195.44</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SRR012</number>
+		<name>Replace 3-FT of 2-IN Cast Iron with PVC Exposed</name>
+		<description>Remove Failed Cast Iron Pipe Install New PVC Pipe 3-FT Exposed</description>
+		<time>75</time>
+		<parts>14.24</parts>
+		<col1>
+			<primary>39.59</primary>
+			<addon>32.34</addon>
+		</col1>
+		<col2>
+			<primary>263.93</primary>
+			<addon>215.63</addon>
+		</col2>
+		<col3>
+			<primary>303.52</primary>
+			<addon>247.97</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SRR013</number>
+		<name>Replace 3-FT of 3-IN Cast Iron With PVC Exposed</name>
+		<description>Remove Failed Cast Iron Pipe Install New PVC Pipe 3-FT Exposed</description>
+		<time>120</time>
+		<parts>22.66</parts>
+		<col1>
+			<primary>63.32</primary>
+			<addon>51.73</addon>
+		</col1>
+		<col2>
+			<primary>422.13</primary>
+			<addon>344.88</addon>
+		</col2>
+		<col3>
+			<primary>485.45</primary>
+			<addon>396.61</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SRR014</number>
+		<name>Replace 3-FT of 4-IN Cast Iron With PVC Exposed</name>
+		<description>Remove Failed Cast Iron Pipe Install New PVC Pipe 3-FT Exposed</description>
+		<time>135</time>
+		<parts>31.07</parts>
+		<col1>
+			<primary>72.3</primary>
+			<addon>59.07</addon>
+		</col1>
+		<col2>
+			<primary>481.99</primary>
+			<addon>393.78</addon>
+		</col2>
+		<col3>
+			<primary>554.29</primary>
+			<addon>452.85</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SRR150</number>
+		<name>Install 4-IN Clean-Out Plastic (No Excavation)</name>
+		<description>Install 4 -IN PVC/ABS Clean Out</description>
+		<time>75</time>
+		<parts>78.41</parts>
+		<col1>
+			<primary>51.84</primary>
+			<addon>42.36</addon>
+		</col1>
+		<col2>
+			<primary>345.65</primary>
+			<addon>282.39</addon>
+		</col2>
+		<col3>
+			<primary>397.49</primary>
+			<addon>324.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>SRR151</number>
+		<name>Install 4-IN Clean-Out Cast Iron  (No Excavation)</name>
+		<description>Install 4 -IN Cast Iron Clean Out</description>
+		<time>75</time>
+		<parts>86.14</parts>
+		<col1>
+			<primary>53.33</primary>
+			<addon>43.56</addon>
+		</col1>
+		<col2>
+			<primary>355.49</primary>
+			<addon>290.44</addon>
+		</col2>
+		<col3>
+			<primary>408.82</primary>
+			<addon>334</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TN090</number>
+		<name>Budget Round Front Toilet Install w/ Seat</name>
+		<description>Budget Round Front Toilet Install w/ Seat</description>
+		<time>60</time>
+		<parts>91.09</parts>
+		<col1>
+			<primary>46.89</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>312.64</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>359.53</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>TN095</number>
+		<name>Budget Elongated Toilet installed w/Seat</name>
+		<description>Budget Elongated Toilet installed w/Seat</description>
+		<time>60</time>
+		<parts>100.09</parts>
+		<col1>
+			<primary>48.61</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>324.11</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>372.72</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>TN100</number>
+		<name>Quality 2 Pc Toilet Round Front</name>
+		<description>Remove Existing, Install New Water Saver 1.6 Gallon Round Front Toilet (White) 12-INRI</description>
+		<time>75</time>
+		<parts>151.28</parts>
+		<col1>
+			<primary>65.76</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>438.45</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>504.21</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>TN103</number>
+		<name>Quality 2 Pc Toilet Elongated Bowl</name>
+		<description>Remove Existing Toilet, Install New Water Saver 1.6 Gallon Elongated Toilet Color 12-INRI</description>
+		<time>75</time>
+		<parts>165.09</parts>
+		<col1>
+			<primary>68.4</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>456.04</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>524.44</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>TN120</number>
+		<name>Premium 2Pc Toilet Round Front</name>
+		<description>Remove Existing Toilet, Install New 1Pc Non-Overflow Low Profile Toilet 12-INRI</description>
+		<time>75</time>
+		<parts>214.09</parts>
+		<col1>
+			<primary>77.76</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>518.44</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>596.2</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>TN130</number>
+		<name>Premium 2Pc Toilet Elongated Bowl</name>
+		<description>Remove Existing Toilet, Install New Non-Overflow Low Profile Elongated Toilet (Color) 12-IN RI</description>
+		<time>75</time>
+		<parts>228.09</parts>
+		<col1>
+			<primary>80.44</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>536.27</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>616.71</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>TN135</number>
+		<name>Quality H/C Toilet Elongated Bowl</name>
+		<description>Remove Existing, Install New Standard Gravity Elongated Bowl Toilet</description>
+		<time>75</time>
+		<parts>257.26</parts>
+		<col1>
+			<primary>86.01</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>573.41</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>659.42</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>TN140</number>
+		<name>Premium H/C Toilet Elongated Bowl</name>
+		<description>Remove Existing, Install New Premium Gravity Toilet Elongated Bowl</description>
+		<time>75</time>
+		<parts>257.26</parts>
+		<col1>
+			<primary>86.01</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>573.41</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>659.42</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR001</number>
+		<name>Major Toilet Tank Rebuild</name>
+		<description>Complete Rebuild Highest Quality Flush Valve, tank handle</description>
+		<time>75</time>
+		<parts>90.58</parts>
+		<col1>
+			<primary>54.17</primary>
+			<addon>44.26</addon>
+		</col1>
+		<col2>
+			<primary>361.14</primary>
+			<addon>295.05</addon>
+		</col2>
+		<col3>
+			<primary>415.31</primary>
+			<addon>339.31</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR004</number>
+		<name>Minor Toilet Tank Rebuild</name>
+		<description>Highest Quality Water Metering Valve, Flapper, and Supply</description>
+		<time>45</time>
+		<parts>17.94</parts>
+		<col1>
+			<primary>25.55</primary>
+			<addon>20.87</addon>
+		</col1>
+		<col2>
+			<primary>170.33</primary>
+			<addon>139.16</addon>
+		</col2>
+		<col3>
+			<primary>195.88</primary>
+			<addon>160.03</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR006</number>
+		<name>Toilet Water Fill Control Valve</name>
+		<description>Highest Quality Water Metering Device</description>
+		<time>45</time>
+		<parts>29.84</parts>
+		<col1>
+			<primary>27.82</primary>
+			<addon>22.73</addon>
+		</col1>
+		<col2>
+			<primary>185.48</primary>
+			<addon>151.54</addon>
+		</col2>
+		<col3>
+			<primary>213.3</primary>
+			<addon>174.27</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR010</number>
+		<name>Toilet Flapper/Ball Replacement</name>
+		<description>Install New Seal</description>
+		<time>30</time>
+		<parts>5.36</parts>
+		<col1>
+			<primary>15.78</primary>
+			<addon>12.89</addon>
+		</col1>
+		<col2>
+			<primary>105.15</primary>
+			<addon>85.91</addon>
+		</col2>
+		<col3>
+			<primary>120.93</primary>
+			<addon>98.8</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR012</number>
+		<name>Emergency Stop Valve &amp; Riser Tube</name>
+		<description>Close Water, Remove Existing, Install New Toilet Supply &amp; Valve In Chrome</description>
+		<time>45</time>
+		<parts>9.01</parts>
+		<col1>
+			<primary>23.85</primary>
+			<addon>19.48</addon>
+		</col1>
+		<col2>
+			<primary>158.95</primary>
+			<addon>129.86</addon>
+		</col2>
+		<col3>
+			<primary>182.8</primary>
+			<addon>149.34</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR014</number>
+		<name>Toilet Riser Tube</name>
+		<description>Close Water, Remove Existing, Install New Toilet Supply Tube In Chrome</description>
+		<time>30</time>
+		<parts>3.09</parts>
+		<col1>
+			<primary>15.34</primary>
+			<addon>12.53</addon>
+		</col1>
+		<col2>
+			<primary>102.26</primary>
+			<addon>83.55</addon>
+		</col2>
+		<col3>
+			<primary>117.6</primary>
+			<addon>96.08</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR016</number>
+		<name>Tank Handle Replacement</name>
+		<description>Install New Highest Quality Chrome Tank Handle (Universal)</description>
+		<time>30</time>
+		<parts>8.18</parts>
+		<col1>
+			<primary>16.31</primary>
+			<addon>13.33</addon>
+		</col1>
+		<col2>
+			<primary>108.74</primary>
+			<addon>88.84</addon>
+		</col2>
+		<col3>
+			<primary>125.05</primary>
+			<addon>102.17</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR021</number>
+		<name>Difficult Removal of Tank Bolts (DRILL/SAW OFF)</name>
+		<description>Carefully removal out tank, cut rusted and frozen bolts off tank</description>
+		<time>30</time>
+		<parts>0</parts>
+		<col1>
+			<primary>14.75</primary>
+			<addon>12.05</addon>
+		</col1>
+		<col2>
+			<primary>98.33</primary>
+			<addon>80.34</addon>
+		</col2>
+		<col3>
+			<primary>113.08</primary>
+			<addon>92.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR022</number>
+		<name>Tank To Bowl Seal &amp; Bolt Replacement</name>
+		<description>Remove Tank, Install New Tank Bolts &amp; Close Couple Gasket</description>
+		<time>60</time>
+		<parts>8.13</parts>
+		<col1>
+			<primary>31.05</primary>
+			<addon>25.37</addon>
+		</col1>
+		<col2>
+			<primary>206.99</primary>
+			<addon>169.11</addon>
+		</col2>
+		<col3>
+			<primary>238.04</primary>
+			<addon>194.48</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR023</number>
+		<name>Flush Valve &amp; Seal Replacement</name>
+		<description>Remove Tank &amp; Flush Valve, Install New Brass Flush Valve, Seal, Bolts</description>
+		<time>60</time>
+		<parts>10.62</parts>
+		<col1>
+			<primary>31.53</primary>
+			<addon>25.76</addon>
+		</col1>
+		<col2>
+			<primary>210.16</primary>
+			<addon>171.7</addon>
+		</col2>
+		<col3>
+			<primary>241.69</primary>
+			<addon>197.46</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR050</number>
+		<name>Pull And Reset Toilet</name>
+		<description>Remove New Seal, Bolts, Flange, Supply Tube &amp; Reset Toilet</description>
+		<time>60</time>
+		<parts>14.6</parts>
+		<col1>
+			<primary>32.29</primary>
+			<addon>26.37</addon>
+		</col1>
+		<col2>
+			<primary>215.22</primary>
+			<addon>175.84</addon>
+		</col2>
+		<col3>
+			<primary>247.51</primary>
+			<addon>202.21</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR052</number>
+		<name>Toilet Flange Replacement (BRASS)</name>
+		<description>Install New Brass Toilet Flange And Lead Color Repair.</description>
+		<time>60</time>
+		<parts>15.08</parts>
+		<col1>
+			<primary>32.37</primary>
+			<addon>26.45</addon>
+		</col1>
+		<col2>
+			<primary>215.84</primary>
+			<addon>176.34</addon>
+		</col2>
+		<col3>
+			<primary>248.21</primary>
+			<addon>202.79</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR053</number>
+		<name>Toilet Flange Replacement (PVC/ABS)</name>
+		<description>Install New Plastic Toilet Flange</description>
+		<time>60</time>
+		<parts>14.02</parts>
+		<col1>
+			<primary>32.18</primary>
+			<addon>26.29</addon>
+		</col1>
+		<col2>
+			<primary>214.49</primary>
+			<addon>175.24</addon>
+		</col2>
+		<col3>
+			<primary>246.67</primary>
+			<addon>201.53</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR102</number>
+		<name>Low Profile Toilet Minor Rebuild</name>
+		<description>Water Measuring Control Valve And Flapper</description>
+		<time>75</time>
+		<parts>59.01</parts>
+		<col1>
+			<primary>48.14</primary>
+			<addon>39.33</addon>
+		</col1>
+		<col2>
+			<primary>320.94</primary>
+			<addon>262.21</addon>
+		</col2>
+		<col3>
+			<primary>369.08</primary>
+			<addon>301.54</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR106</number>
+		<name>Major Rebuild Pressure Clean</name>
+		<description>Repair Pressure Flush Toilet, Includes New Pressure Regulator &amp; Cartridge Assembly</description>
+		<time>75</time>
+		<parts>83.64</parts>
+		<col1>
+			<primary>52.84</primary>
+			<addon>43.18</addon>
+		</col1>
+		<col2>
+			<primary>352.31</primary>
+			<addon>287.83</addon>
+		</col2>
+		<col3>
+			<primary>405.15</primary>
+			<addon>331.01</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR114</number>
+		<name>American Std Float Actuator Replacement</name>
+		<description>Install New American Standard Float Actuator Complete</description>
+		<time>45</time>
+		<parts>18.25</parts>
+		<col1>
+			<primary>25.61</primary>
+			<addon>20.92</addon>
+		</col1>
+		<col2>
+			<primary>170.73</primary>
+			<addon>139.49</addon>
+		</col2>
+		<col3>
+			<primary>196.34</primary>
+			<addon>160.41</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR115</number>
+		<name>American Std Flush Valve Replacement (LOW PROFILE)</name>
+		<description>Install New American Standard Flush Valve &amp; Actuator #3 &amp; #4 Valve</description>
+		<time>60</time>
+		<parts>72.28</parts>
+		<col1>
+			<primary>43.3</primary>
+			<addon>35.38</addon>
+		</col1>
+		<col2>
+			<primary>288.68</primary>
+			<addon>235.85</addon>
+		</col2>
+		<col3>
+			<primary>331.98</primary>
+			<addon>271.23</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR125</number>
+		<name>Toilet Seat Elongated White</name>
+		<description>Install New Premium Quality Elongated Plastic Toilet Seat White</description>
+		<time>30</time>
+		<parts>18</parts>
+		<col1>
+			<primary>18.19</primary>
+			<addon>14.86</addon>
+		</col1>
+		<col2>
+			<primary>121.26</primary>
+			<addon>99.07</addon>
+		</col2>
+		<col3>
+			<primary>139.45</primary>
+			<addon>113.93</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR126</number>
+		<name>Toilet Seat Elongated Slow Close</name>
+		<description>Install New Premium Quality Elongated Toilet Seat Slow Closing</description>
+		<time>30</time>
+		<parts>36.78</parts>
+		<col1>
+			<primary>21.78</primary>
+			<addon>17.79</addon>
+		</col1>
+		<col2>
+			<primary>145.16</primary>
+			<addon>118.6</addon>
+		</col2>
+		<col3>
+			<primary>166.94</primary>
+			<addon>136.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR127</number>
+		<name>Toilet Seat White</name>
+		<description>Install Round Front Premium Quality Plastic Toilet Seat White</description>
+		<time>30</time>
+		<parts>18</parts>
+		<col1>
+			<primary>18.19</primary>
+			<addon>14.86</addon>
+		</col1>
+		<col2>
+			<primary>121.26</primary>
+			<addon>99.07</addon>
+		</col2>
+		<col3>
+			<primary>139.45</primary>
+			<addon>113.93</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR132</number>
+		<name>Toilet Seat Color</name>
+		<description>Install New Color Plastic Toilet Seat Round Front</description>
+		<time>30</time>
+		<parts>18</parts>
+		<col1>
+			<primary>18.19</primary>
+			<addon>14.86</addon>
+		</col1>
+		<col2>
+			<primary>121.26</primary>
+			<addon>99.07</addon>
+		</col2>
+		<col3>
+			<primary>139.45</primary>
+			<addon>113.93</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TR136</number>
+		<name>Toilet Seat White Open Front EB (Commercial)</name>
+		<description>Install New Elongated Open Front White (Highest Quality)</description>
+		<time>30</time>
+		<parts>39.42</parts>
+		<col1>
+			<primary>22.28</primary>
+			<addon>18.2</addon>
+		</col1>
+		<col2>
+			<primary>148.53</primary>
+			<addon>121.35</addon>
+		</col2>
+		<col3>
+			<primary>170.81</primary>
+			<addon>139.55</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR010</number>
+		<name>Single Control Tub/Shower Valve Repair STANDARD</name>
+		<description>Close Water, Remove Existing, Install New Premium Cartridge &amp; Grease (Moen, Delta, WB)</description>
+		<time>60</time>
+		<parts>20.74</parts>
+		<col1>
+			<primary>33.45</primary>
+			<addon>27.33</addon>
+		</col1>
+		<col2>
+			<primary>223.05</primary>
+			<addon>182.23</addon>
+		</col2>
+		<col3>
+			<primary>256.5</primary>
+			<addon>209.56</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR020</number>
+		<name>Push Button Diverter Replacement</name>
+		<description>Install New (Moen, Delta) Push Button Diverter</description>
+		<time>45</time>
+		<parts>28.2</parts>
+		<col1>
+			<primary>27.51</primary>
+			<addon>22.47</addon>
+		</col1>
+		<col2>
+			<primary>183.4</primary>
+			<addon>149.84</addon>
+		</col2>
+		<col3>
+			<primary>210.91</primary>
+			<addon>172.31</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR082</number>
+		<name>Moen Positemp cartritge Replacement</name>
+		<description>Install New (Moen, Delta, WB) Cartridge</description>
+		<time>45</time>
+		<parts>64.9</parts>
+		<col1>
+			<primary>34.52</primary>
+			<addon>28.2</addon>
+		</col1>
+		<col2>
+			<primary>230.13</primary>
+			<addon>188.02</addon>
+		</col2>
+		<col3>
+			<primary>264.65</primary>
+			<addon>216.22</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR083</number>
+		<name>Handle Replacement Single Tub/Shower STANDARD</name>
+		<description>Install New Standard Handle Kit (Moen, Delta, WB)</description>
+		<time>45</time>
+		<parts>59.33</parts>
+		<col1>
+			<primary>33.45</primary>
+			<addon>27.33</addon>
+		</col1>
+		<col2>
+			<primary>223.04</primary>
+			<addon>182.22</addon>
+		</col2>
+		<col3>
+			<primary>256.49</primary>
+			<addon>209.55</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR110</number>
+		<name>3 Handle Tub/Shower Rebuild Complete</name>
+		<description>Complete Rebuild, All New Chrome Trim, Handles, Cover Tubes, Ceramic Cartridge Stems and Diverter Stem</description>
+		<time>60</time>
+		<parts>32.65</parts>
+		<col1>
+			<primary>35.73</primary>
+			<addon>29.19</addon>
+		</col1>
+		<col2>
+			<primary>238.21</primary>
+			<addon>194.62</addon>
+		</col2>
+		<col3>
+			<primary>273.94</primary>
+			<addon>223.81</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR120</number>
+		<name>2 Handle Tub/Shower Repair STANDARD</name>
+		<description>Repair Valve, Replace Seats, Washers, Grease And Repack Stems. (Moen, Delta, Amstd)</description>
+		<time>60</time>
+		<parts>35.51</parts>
+		<col1>
+			<primary>36.28</primary>
+			<addon>29.64</addon>
+		</col1>
+		<col2>
+			<primary>241.86</primary>
+			<addon>197.6</addon>
+		</col2>
+		<col3>
+			<primary>278.14</primary>
+			<addon>227.24</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR125</number>
+		<name>Diverter Stem Replacement</name>
+		<description>Replace Diverter Stem</description>
+		<time>45</time>
+		<parts>15.04</parts>
+		<col1>
+			<primary>24.99</primary>
+			<addon>20.42</addon>
+		</col1>
+		<col2>
+			<primary>166.64</primary>
+			<addon>136.14</addon>
+		</col2>
+		<col3>
+			<primary>191.63</primary>
+			<addon>156.56</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR132</number>
+		<name>Trim Replacement 2 Valve Complete Trim (CHROME)</name>
+		<description>Install Complete Handle Trim Kit Including Spout &amp; Shower Hear</description>
+		<time>60</time>
+		<parts>32.65</parts>
+		<col1>
+			<primary>35.73</primary>
+			<addon>29.19</addon>
+		</col1>
+		<col2>
+			<primary>238.21</primary>
+			<addon>194.62</addon>
+		</col2>
+		<col3>
+			<primary>273.94</primary>
+			<addon>223.81</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR176</number>
+		<name>Off Brand Tub &amp; Shw Faucet Repair MINOR REPAIR</name>
+		<description>NON-STANDARD BRAND- Remove Existing, Install New Hot &amp; Cold Seats, Washers, Bib Screws &amp; Grease</description>
+		<time>60</time>
+		<parts>41.95</parts>
+		<col1>
+			<primary>37.51</primary>
+			<addon>30.64</addon>
+		</col1>
+		<col2>
+			<primary>250.06</primary>
+			<addon>204.3</addon>
+		</col2>
+		<col3>
+			<primary>287.57</primary>
+			<addon>234.94</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR177</number>
+		<name>Off Brand Tub &amp; Shw Faucet Repair MAJOR REPAIR</name>
+		<description>NON-STANDARD BRAND- Remove Existing, Locate &amp; Install New Hot &amp; Cold Stems, Seats &amp; Grease</description>
+		<time>90</time>
+		<parts>42.95</parts>
+		<col1>
+			<primary>52.45</primary>
+			<addon>42.85</addon>
+		</col1>
+		<col2>
+			<primary>349.66</primary>
+			<addon>285.67</addon>
+		</col2>
+		<col3>
+			<primary>402.11</primary>
+			<addon>328.52</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR178</number>
+		<name>Universal Fit Tub/Shower Handle Set</name>
+		<description>New Universal Fit Tub/Shower Handle Set</description>
+		<time>45</time>
+		<parts>43.4</parts>
+		<col1>
+			<primary>30.42</primary>
+			<addon>24.85</addon>
+		</col1>
+		<col2>
+			<primary>202.75</primary>
+			<addon>165.65</addon>
+		</col2>
+		<col3>
+			<primary>233.17</primary>
+			<addon>190.5</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR184</number>
+		<name>Shower Arm &amp; Head Replacement Chrome STANDARD</name>
+		<description>New Chrome Shower Arm &amp; Head (STANDARD QUALITY)</description>
+		<time>30</time>
+		<parts>26.38</parts>
+		<col1>
+			<primary>19.79</primary>
+			<addon>16.16</addon>
+		</col1>
+		<col2>
+			<primary>131.93</primary>
+			<addon>107.79</addon>
+		</col2>
+		<col3>
+			<primary>151.72</primary>
+			<addon>123.95</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR186</number>
+		<name>Tub Spout Replacement Chrome</name>
+		<description>New Chrome Tub Spout</description>
+		<time>45</time>
+		<parts>2.49</parts>
+		<col1>
+			<primary>22.6</primary>
+			<addon>18.46</addon>
+		</col1>
+		<col2>
+			<primary>150.66</primary>
+			<addon>123.09</addon>
+		</col2>
+		<col3>
+			<primary>173.26</primary>
+			<addon>141.55</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR187</number>
+		<name>Diverter Tub Spout Replacement Chrome</name>
+		<description>New Chrome Diverter Tub Spout</description>
+		<time>45</time>
+		<parts>8.59</parts>
+		<col1>
+			<primary>23.77</primary>
+			<addon>19.42</addon>
+		</col1>
+		<col2>
+			<primary>158.42</primary>
+			<addon>129.43</addon>
+		</col2>
+		<col3>
+			<primary>182.19</primary>
+			<addon>148.85</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR191</number>
+		<name>Personal Handshower/Hose System Chrome STANDARD</name>
+		<description>(GOOD QUALITY) Chrome</description>
+		<time>60</time>
+		<parts>138.1</parts>
+		<col1>
+			<primary>55.87</primary>
+			<addon>45.65</addon>
+		</col1>
+		<col2>
+			<primary>372.51</primary>
+			<addon>304.34</addon>
+		</col2>
+		<col3>
+			<primary>428.38</primary>
+			<addon>349.99</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR200</number>
+		<name>Tub Drain Repair MAJOR</name>
+		<description>New Tub Drain Linkage, Face Plate &amp; Screws</description>
+		<time>45</time>
+		<parts>17.71</parts>
+		<col1>
+			<primary>25.5</primary>
+			<addon>20.84</addon>
+		</col1>
+		<col2>
+			<primary>170.04</primary>
+			<addon>138.92</addon>
+		</col2>
+		<col3>
+			<primary>195.54</primary>
+			<addon>159.76</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR202</number>
+		<name>Tub Face Plate Replacement</name>
+		<description>Remove Existing, Install New Chrome Tub Face Plate</description>
+		<time>30</time>
+		<parts>8.88</parts>
+		<col1>
+			<primary>16.44</primary>
+			<addon>13.44</addon>
+		</col1>
+		<col2>
+			<primary>109.64</primary>
+			<addon>89.57</addon>
+		</col2>
+		<col3>
+			<primary>126.08</primary>
+			<addon>103.01</addon>
+		</col3>
+	</task>
+	<task>
+		<number>TSR205</number>
+		<name>Tub Waste and Overflow Trim Replacement (Exposed)</name>
+		<description>Remove Existing trim, Install New Tip-Toe Chrome Waste Assembly</description>
+		<time>51</time>
+		<parts>28.23</parts>
+		<col1>
+			<primary>30.47</primary>
+			<addon>24.89</addon>
+		</col1>
+		<col2>
+			<primary>203.09</primary>
+			<addon>165.93</addon>
+		</col2>
+		<col3>
+			<primary>233.56</primary>
+			<addon>190.82</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV105</number>
+		<name>Closet Flush Valve Replacement</name>
+		<description>New Closet Flush 1.6 Gallon Flush</description>
+		<time>75</time>
+		<parts>111.69</parts>
+		<col1>
+			<primary>58.21</primary>
+			<addon>47.55</addon>
+		</col1>
+		<col2>
+			<primary>388.02</primary>
+			<addon>317.02</addon>
+		</col2>
+		<col3>
+			<primary>446.23</primary>
+			<addon>364.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV110</number>
+		<name>Urinal Flush Valve Replacement</name>
+		<description>Install New Urinal Flush 1.6 Gallon Flush</description>
+		<time>75</time>
+		<parts>111.69</parts>
+		<col1>
+			<primary>58.21</primary>
+			<addon>47.55</addon>
+		</col1>
+		<col2>
+			<primary>388.02</primary>
+			<addon>317.02</addon>
+		</col2>
+		<col3>
+			<primary>446.23</primary>
+			<addon>364.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV115</number>
+		<name>Repair Closet Flush Valve (MINOR)</name>
+		<description>MINOR Closet Flush Valve Repair</description>
+		<time>60</time>
+		<parts>14.85</parts>
+		<col1>
+			<primary>32.34</primary>
+			<addon>26.41</addon>
+		</col1>
+		<col2>
+			<primary>215.55</primary>
+			<addon>176.11</addon>
+		</col2>
+		<col3>
+			<primary>247.89</primary>
+			<addon>202.52</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV116</number>
+		<name>Repair Urinal Flush Valve (MINOR)</name>
+		<description>MINOR Urinal Flush Valve Repair</description>
+		<time>60</time>
+		<parts>14.85</parts>
+		<col1>
+			<primary>32.34</primary>
+			<addon>26.41</addon>
+		</col1>
+		<col2>
+			<primary>215.55</primary>
+			<addon>176.11</addon>
+		</col2>
+		<col3>
+			<primary>247.89</primary>
+			<addon>202.52</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV117</number>
+		<name>Repair Closet Flush Valve (MAJOR)</name>
+		<description>MAJOR Rebuild Closet Flush Valve</description>
+		<time>75</time>
+		<parts>33.91</parts>
+		<col1>
+			<primary>43.34</primary>
+			<addon>35.42</addon>
+		</col1>
+		<col2>
+			<primary>288.98</primary>
+			<addon>236.09</addon>
+		</col2>
+		<col3>
+			<primary>332.32</primary>
+			<addon>271.51</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV118</number>
+		<name>Repair Urinal Flush Valve (MAJOR)</name>
+		<description>MAJOR Rebuild Urinal Flush Valve</description>
+		<time>75</time>
+		<parts>35.31</parts>
+		<col1>
+			<primary>43.62</primary>
+			<addon>35.63</addon>
+		</col1>
+		<col2>
+			<primary>290.75</primary>
+			<addon>237.55</addon>
+		</col2>
+		<col3>
+			<primary>334.37</primary>
+			<addon>273.18</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV120</number>
+		<name>Handle Replacement Closet/Urinal</name>
+		<description>New Flush Valve Handle For Closet &amp; Urinal</description>
+		<time>45</time>
+		<parts>2.75</parts>
+		<col1>
+			<primary>22.65</primary>
+			<addon>18.5</addon>
+		</col1>
+		<col2>
+			<primary>150.99</primary>
+			<addon>123.36</addon>
+		</col2>
+		<col3>
+			<primary>173.64</primary>
+			<addon>141.86</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV125</number>
+		<name>Closet Flush Vacuum Breaker Replacement</name>
+		<description>Replace Vacuum Breaker For Closet Flush Valve</description>
+		<time>45</time>
+		<parts>17.71</parts>
+		<col1>
+			<primary>25.5</primary>
+			<addon>20.84</addon>
+		</col1>
+		<col2>
+			<primary>170.04</primary>
+			<addon>138.92</addon>
+		</col2>
+		<col3>
+			<primary>195.54</primary>
+			<addon>159.76</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV127</number>
+		<name>Urinal Flush Vacuum Breaker Replacement</name>
+		<description>Replace Vacuum Breaker For Urinal Flush Valve</description>
+		<time>45</time>
+		<parts>17.71</parts>
+		<col1>
+			<primary>25.5</primary>
+			<addon>20.84</addon>
+		</col1>
+		<col2>
+			<primary>170.04</primary>
+			<addon>138.92</addon>
+		</col2>
+		<col3>
+			<primary>195.54</primary>
+			<addon>159.76</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV130</number>
+		<name>Control Stop Replacement 3/4-IN Flush Valve</name>
+		<description>Install New 3/4-IN Control Stop Valve (Does not Include Building Shut Down)</description>
+		<time>60</time>
+		<parts>39.6</parts>
+		<col1>
+			<primary>37.06</primary>
+			<addon>30.28</addon>
+		</col1>
+		<col2>
+			<primary>247.07</primary>
+			<addon>201.86</addon>
+		</col2>
+		<col3>
+			<primary>284.13</primary>
+			<addon>232.14</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV131</number>
+		<name>Control Stop Replacement 1-IN Flush Valve</name>
+		<description>Install New 1-IN Control Stop Valve (Does not Include Building Shut Down)</description>
+		<time>60</time>
+		<parts>39.6</parts>
+		<col1>
+			<primary>37.06</primary>
+			<addon>30.28</addon>
+		</col1>
+		<col2>
+			<primary>247.07</primary>
+			<addon>201.86</addon>
+		</col2>
+		<col3>
+			<primary>284.13</primary>
+			<addon>232.14</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV140</number>
+		<name>Spud Assembly Replacement Closet Flush</name>
+		<description>Remove old, Install New Spud Assembly Closet</description>
+		<time>60</time>
+		<parts>13.87</parts>
+		<col1>
+			<primary>32.15</primary>
+			<addon>26.26</addon>
+		</col1>
+		<col2>
+			<primary>214.29</primary>
+			<addon>175.08</addon>
+		</col2>
+		<col3>
+			<primary>246.44</primary>
+			<addon>201.34</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV141</number>
+		<name>Spud Assembly Replacement Urinal Flush</name>
+		<description>Remove old, Install New Spud Assembly Urinal</description>
+		<time>60</time>
+		<parts>13.87</parts>
+		<col1>
+			<primary>32.15</primary>
+			<addon>26.26</addon>
+		</col1>
+		<col2>
+			<primary>214.29</primary>
+			<addon>175.08</addon>
+		</col2>
+		<col3>
+			<primary>246.44</primary>
+			<addon>201.34</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV150</number>
+		<name>Building Shut Down Flush Vlv Replacement (Minor)</name>
+		<description>MINOR Shut Main Water, Replace Valves, Refill Building Main.</description>
+		<time>90</time>
+		<parts>0</parts>
+		<col1>
+			<primary>44.25</primary>
+			<addon>36.14</addon>
+		</col1>
+		<col2>
+			<primary>294.96</primary>
+			<addon>240.99</addon>
+		</col2>
+		<col3>
+			<primary>339.21</primary>
+			<addon>277.13</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV152</number>
+		<name>Building Shut Down Flush Vlv Replacement (Major)</name>
+		<description>Major Shut Main Water, Replace Valves, Refill Building Main.</description>
+		<time>240</time>
+		<parts>0</parts>
+		<col1>
+			<primary>117.98</primary>
+			<addon>96.39</addon>
+		</col1>
+		<col2>
+			<primary>786.54</primary>
+			<addon>642.6</addon>
+		</col2>
+		<col3>
+			<primary>904.52</primary>
+			<addon>738.99</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV200</number>
+		<name>Automatic Retro Flush Closet Valve</name>
+		<description>Automatic Sensor Battery Closet Flush Valve Retro Kit</description>
+		<time>90</time>
+		<parts>315</parts>
+		<col1>
+			<primary>104.42</primary>
+			<addon>85.31</addon>
+		</col1>
+		<col2>
+			<primary>696.13</primary>
+			<addon>568.74</addon>
+		</col2>
+		<col3>
+			<primary>800.55</primary>
+			<addon>654.05</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV202</number>
+		<name>Automatic Retro Flush Urinal Valve</name>
+		<description>Automatic Sensor Battery Urinal Flush Valve Retro Kit</description>
+		<time>90</time>
+		<parts>399</parts>
+		<col1>
+			<primary>120.46</primary>
+			<addon>98.42</addon>
+		</col1>
+		<col2>
+			<primary>803.11</primary>
+			<addon>656.14</addon>
+		</col2>
+		<col3>
+			<primary>923.57</primary>
+			<addon>754.56</addon>
+		</col3>
+	</task>
+	<task>
+		<number>UFV300</number>
+		<name>Remove And Re-Install Wall Hung Urinal</name>
+		<description>Remove Urinal Replace Seal And Re-Install</description>
+		<time>90</time>
+		<parts>1.5</parts>
+		<col1>
+			<primary>44.53</primary>
+			<addon>36.38</addon>
+		</col1>
+		<col2>
+			<primary>296.87</primary>
+			<addon>242.54</addon>
+		</col2>
+		<col3>
+			<primary>341.4</primary>
+			<addon>278.92</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR001</number>
+		<name>Kitchen Sink Waste Repair (MINOR) 1Bowl</name>
+		<description>Minor Repair Kitchen Sink Waste Leak. Tailpiece, P-trap</description>
+		<time>45</time>
+		<parts>9.87</parts>
+		<col1>
+			<primary>24</primary>
+			<addon>19.61</addon>
+		</col1>
+		<col2>
+			<primary>160.05</primary>
+			<addon>130.76</addon>
+		</col2>
+		<col3>
+			<primary>184.05</primary>
+			<addon>150.37</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR002</number>
+		<name>Kitchen Sink Waste Repair (MAJOR) 1Bowl</name>
+		<description>MAJOR Repair Kitchen Sink Waste New Trap, Tailpiece &amp; Strainer Replacement</description>
+		<time>60</time>
+		<parts>29.46</parts>
+		<col1>
+			<primary>35.13</primary>
+			<addon>28.7</addon>
+		</col1>
+		<col2>
+			<primary>234.15</primary>
+			<addon>191.3</addon>
+		</col2>
+		<col3>
+			<primary>269.28</primary>
+			<addon>220</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR003</number>
+		<name>Kitchen Sink Waste Repair (MINOR) 2Bowl</name>
+		<description>Repair Kitchen Sink Waste, P-trap &amp; Tailpiece Replacement</description>
+		<time>45</time>
+		<parts>15.93</parts>
+		<col1>
+			<primary>25.17</primary>
+			<addon>20.56</addon>
+		</col1>
+		<col2>
+			<primary>167.76</primary>
+			<addon>137.06</addon>
+		</col2>
+		<col3>
+			<primary>192.93</primary>
+			<addon>157.62</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR004</number>
+		<name>Kitchen Sink Waste Repair (MAJOR) 2Bowl</name>
+		<description>Repair Kitchen Sink Waste Leak Trap &amp; Tailpiece Replacement, inicludes 1-Strainers</description>
+		<time>60</time>
+		<parts>42.91</parts>
+		<col1>
+			<primary>37.69</primary>
+			<addon>30.79</addon>
+		</col1>
+		<col2>
+			<primary>251.28</primary>
+			<addon>205.3</addon>
+		</col2>
+		<col3>
+			<primary>288.97</primary>
+			<addon>236.09</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR006</number>
+		<name>Trap Replacement Kit/Lav Brass Tubular</name>
+		<description>Install New 17 Gauge Tube Trap</description>
+		<time>45</time>
+		<parts>15.25</parts>
+		<col1>
+			<primary>25.03</primary>
+			<addon>20.46</addon>
+		</col1>
+		<col2>
+			<primary>166.91</primary>
+			<addon>136.36</addon>
+		</col2>
+		<col3>
+			<primary>191.94</primary>
+			<addon>156.82</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR010</number>
+		<name>Kitchen Sink Strainer Replacement</name>
+		<description>New Premium Brass Kitchen Sink Basket Strainer</description>
+		<time>45</time>
+		<parts>29.46</parts>
+		<col1>
+			<primary>27.75</primary>
+			<addon>22.67</addon>
+		</col1>
+		<col2>
+			<primary>185</primary>
+			<addon>151.15</addon>
+		</col2>
+		<col3>
+			<primary>212.75</primary>
+			<addon>173.82</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR015</number>
+		<name>Kitchen Sink Tailpiece Replacement</name>
+		<description>Remove Tailpiece, Install New Brass 17 Gauge Tailpiece</description>
+		<time>45</time>
+		<parts>4.99</parts>
+		<col1>
+			<primary>23.07</primary>
+			<addon>18.86</addon>
+		</col1>
+		<col2>
+			<primary>153.84</primary>
+			<addon>125.68</addon>
+		</col2>
+		<col3>
+			<primary>176.91</primary>
+			<addon>144.54</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR017</number>
+		<name>Dishwasher Tailpiece Replacement</name>
+		<description>Remove Tailpiece, Install Brass Tubular Tailpiece</description>
+		<time>60</time>
+		<parts>8.58</parts>
+		<col1>
+			<primary>31.14</primary>
+			<addon>25.44</addon>
+		</col1>
+		<col2>
+			<primary>207.56</primary>
+			<addon>169.58</addon>
+		</col2>
+		<col3>
+			<primary>238.7</primary>
+			<addon>195.02</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR019</number>
+		<name>Dishwasher Disposer Connector Replacement</name>
+		<description>Install New Dishwasher Disposer Connector</description>
+		<time>45</time>
+		<parts>3.59</parts>
+		<col1>
+			<primary>22.81</primary>
+			<addon>18.64</addon>
+		</col1>
+		<col2>
+			<primary>152.06</primary>
+			<addon>124.23</addon>
+		</col2>
+		<col3>
+			<primary>174.87</primary>
+			<addon>142.87</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR020</number>
+		<name>Double Bowl Center Outlet Waste Replacement</name>
+		<description>Remove Old, Install New Continuous Waste Piping (Double Sink)</description>
+		<time>60</time>
+		<parts>20.6</parts>
+		<col1>
+			<primary>33.43</primary>
+			<addon>27.31</addon>
+		</col1>
+		<col2>
+			<primary>222.87</primary>
+			<addon>182.09</addon>
+		</col2>
+		<col3>
+			<primary>256.3</primary>
+			<addon>209.4</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR022</number>
+		<name>Double Bowl End Outlet Waste Replacement</name>
+		<description>Remove Old, Install New Continuous Waste Piping (Double Sink)</description>
+		<time>60</time>
+		<parts>19.83</parts>
+		<col1>
+			<primary>33.29</primary>
+			<addon>27.19</addon>
+		</col1>
+		<col2>
+			<primary>221.89</primary>
+			<addon>181.29</addon>
+		</col2>
+		<col3>
+			<primary>255.18</primary>
+			<addon>208.48</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR023</number>
+		<name>Lavatory Sink Drain Repair (MINOR)</name>
+		<description>Replace tailpiece &amp; plastic trap</description>
+		<time>45</time>
+		<parts>10.32</parts>
+		<col1>
+			<primary>24.1</primary>
+			<addon>19.68</addon>
+		</col1>
+		<col2>
+			<primary>160.62</primary>
+			<addon>131.23</addon>
+		</col2>
+		<col3>
+			<primary>184.72</primary>
+			<addon>150.91</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR024</number>
+		<name>Lavatory Sink Drain Repair (MAJOR)</name>
+		<description>Install new Pop-up, tail piece, and plastic p-trap</description>
+		<time>45</time>
+		<parts>21.62</parts>
+		<col1>
+			<primary>26.25</primary>
+			<addon>21.45</addon>
+		</col1>
+		<col2>
+			<primary>175.01</primary>
+			<addon>142.98</addon>
+		</col2>
+		<col3>
+			<primary>201.26</primary>
+			<addon>164.43</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR025</number>
+		<name>Service Stop Valve (Sink/Toilet) Chrome</name>
+		<description>Close Main Water, Remove Old Valve, Install New Chrome Emergency Stop Valve</description>
+		<time>45</time>
+		<parts>12.57</parts>
+		<col1>
+			<primary>24.53</primary>
+			<addon>20.04</addon>
+		</col1>
+		<col2>
+			<primary>163.49</primary>
+			<addon>133.57</addon>
+		</col2>
+		<col3>
+			<primary>188.02</primary>
+			<addon>153.61</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR026</number>
+		<name>Service Stop Valve 3-way valve</name>
+		<description>Install new 3-way angle stop</description>
+		<time>45</time>
+		<parts>26.55</parts>
+		<col1>
+			<primary>27.2</primary>
+			<addon>22.21</addon>
+		</col1>
+		<col2>
+			<primary>181.29</primary>
+			<addon>148.12</addon>
+		</col2>
+		<col3>
+			<primary>208.49</primary>
+			<addon>170.33</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR027</number>
+		<name>Lav/Kit Water Riser Tubes Chrome</name>
+		<description>Close Water, Remove Existing Supply Tubes, Install New Chrome Hot &amp; Cold Supplies</description>
+		<time>45</time>
+		<parts>6.58</parts>
+		<col1>
+			<primary>23.38</primary>
+			<addon>19.1</addon>
+		</col1>
+		<col2>
+			<primary>155.86</primary>
+			<addon>127.34</addon>
+		</col2>
+		<col3>
+			<primary>179.24</primary>
+			<addon>146.44</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR030</number>
+		<name>Lavatory Tailpiece Replacement</name>
+		<description>Install New 1-1/4-IN 17 Gauge Threaded Tailpiece</description>
+		<time>60</time>
+		<parts>10.24</parts>
+		<col1>
+			<primary>31.45</primary>
+			<addon>25.7</addon>
+		</col1>
+		<col2>
+			<primary>209.67</primary>
+			<addon>171.3</addon>
+		</col2>
+		<col3>
+			<primary>241.12</primary>
+			<addon>197</addon>
+		</col3>
+	</task>
+	<task>
+		<number>USR035</number>
+		<name>Lavatory Pop Up Drain</name>
+		<description>Remove Existing, Install New Chrome Pop Up Drain</description>
+		<time>60</time>
+		<parts>24.54</parts>
+		<col1>
+			<primary>34.18</primary>
+			<addon>27.93</addon>
+		</col1>
+		<col2>
+			<primary>227.88</primary>
+			<addon>186.18</addon>
+		</col2>
+		<col3>
+			<primary>262.06</primary>
+			<addon>214.11</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WFI007</number>
+		<name>Good Drinking Water Filter System (Under Sink)</name>
+		<description>Install New Premium Drinking Water System Single Stage</description>
+		<time>75</time>
+		<parts>151.9</parts>
+		<col1>
+			<primary>65.88</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>439.24</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>505.12</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WFI110</number>
+		<name>New Quality Ice Maker Filter (Great Tasting Ice)</name>
+		<description>Enjoy Great Tasting Ice &amp; Water, Install Gac Carbon Filter</description>
+		<time>60</time>
+		<parts>34.33</parts>
+		<col1>
+			<primary>36.06</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>240.35</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>276.41</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH006</number>
+		<name>Quality 40 Gallon Water Heater (Better)</name>
+		<description>New Quality 40 Gallon Water Heater 40,000-BTU Inc- Remove Old Tank.</description>
+		<time>120</time>
+		<parts>319.01</parts>
+		<col1>
+			<primary>107.31</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>715.38</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>822.69</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH007</number>
+		<name>Quality 50 Gallon Water Heater (Better)</name>
+		<description>New Quality 50 Gallon Water Heater 40,000-BTU Inc- Remove Old Tank.</description>
+		<time>120</time>
+		<parts>348.92</parts>
+		<col1>
+			<primary>112.42</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>749.46</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>861.88</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH008</number>
+		<name>Quality 75 Gallon Water Heater (Better)</name>
+		<description>New Quality 75 Gallon Water Heater 75,000-BTU Inc- Remove Old Tank.</description>
+		<time>150</time>
+		<parts>898.01</parts>
+		<col1>
+			<primary>231.66</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>1544.4</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>1776.06</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH024</number>
+		<name>Power Vent 40 Gallon Water Heater (Good)</name>
+		<description>Power Vent 40 Gallon Water Heater 40,000-BTU Inc- Remove Old Tank.</description>
+		<time>180</time>
+		<parts>888.58</parts>
+		<col1>
+			<primary>258.23</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>1721.54</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>1979.77</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH026</number>
+		<name>Power Vent 50 Gallon Water Heater (Good)</name>
+		<description>Power Vent 50 Gallon Water Heater 40,000-BTU Inc- Remove Old Tank.</description>
+		<time>180</time>
+		<parts>934.87</parts>
+		<col1>
+			<primary>267.08</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>1780.49</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>2047.57</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH280</number>
+		<name>Water Heater Vent Replacement 3-IN</name>
+		<description>Water Heater Vent Pipe Connection</description>
+		<time>60</time>
+		<parts>24.64</parts>
+		<col1>
+			<primary>34.2</primary>
+			<addon>27.94</addon>
+		</col1>
+		<col2>
+			<primary>228</primary>
+			<addon>186.28</addon>
+		</col2>
+		<col3>
+			<primary>262.2</primary>
+			<addon>214.22</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH281</number>
+		<name>Water Heater Vent Replacement 4-IN</name>
+		<description>Water Heater Vent Pipe Connection</description>
+		<time>60</time>
+		<parts>27.36</parts>
+		<col1>
+			<primary>34.72</primary>
+			<addon>28.37</addon>
+		</col1>
+		<col2>
+			<primary>231.47</primary>
+			<addon>189.11</addon>
+		</col2>
+		<col3>
+			<primary>266.19</primary>
+			<addon>217.48</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH295</number>
+		<name>Water Heater Expansion Tank Install (30-40 Gal)</name>
+		<description>Install Water Heater Expansion Tank 30-40 Gallon Tanks</description>
+		<time>60</time>
+		<parts>37.59</parts>
+		<col1>
+			<primary>36.67</primary>
+			<addon>29.97</addon>
+		</col1>
+		<col2>
+			<primary>244.51</primary>
+			<addon>199.76</addon>
+		</col2>
+		<col3>
+			<primary>281.18</primary>
+			<addon>229.73</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH296</number>
+		<name>Water Heater Expansion Tank Install (50 Gallon)</name>
+		<description>Install Water Heater Expansion Tank 50-75 Gallon Tanks</description>
+		<time>60</time>
+		<parts>55.09</parts>
+		<col1>
+			<primary>40.02</primary>
+			<addon>32.69</addon>
+		</col1>
+		<col2>
+			<primary>266.79</primary>
+			<addon>217.97</addon>
+		</col2>
+		<col3>
+			<primary>306.81</primary>
+			<addon>250.66</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH297</number>
+		<name>W/H Ex Tank Install (30-40 Gal) with W/H Install</name>
+		<description>W/H Ex Tank Install (30-40 Gal) with W/H Install</description>
+		<time>19.8</time>
+		<parts>37.59</parts>
+		<col1>
+			<primary>16.92</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>112.76</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>129.68</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH298</number>
+		<name>W/H Ex Tank Install (50 Gal) with W/H Install</name>
+		<description>W/H Ex Tank Install (50 Gal) with W/H Install</description>
+		<time>19.8</time>
+		<parts>55.09</parts>
+		<col1>
+			<primary>20.25</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>135.05</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>155.3</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH300</number>
+		<name>Water Heater Stand</name>
+		<description>Null</description>
+		<time>60</time>
+		<parts>48.79</parts>
+		<col1>
+			<primary>38.81</primary>
+			<addon>31.71</addon>
+		</col1>
+		<col2>
+			<primary>258.78</primary>
+			<addon>211.42</addon>
+		</col2>
+		<col3>
+			<primary>297.59</primary>
+			<addon>243.13</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH305</number>
+		<name>Gas Stop Valve Replacement 1/2-IN</name>
+		<description>Replace 1/2-IN Gas Stop Valve</description>
+		<time>60</time>
+		<parts>6.78</parts>
+		<col1>
+			<primary>30.79</primary>
+			<addon>25.15</addon>
+		</col1>
+		<col2>
+			<primary>205.27</primary>
+			<addon>167.71</addon>
+		</col2>
+		<col3>
+			<primary>236.06</primary>
+			<addon>192.86</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH340</number>
+		<name>Upgrade Water Heater Vent Piping From 3" To 4"</name>
+		<description>Remove Existing 3" Vent Piping Enlarge Chimney Hole Install 4" Pipe &amp; Seal</description>
+		<time>45</time>
+		<parts>35.11</parts>
+		<col1>
+			<primary>28.83</primary>
+			<addon>23.55</addon>
+		</col1>
+		<col2>
+			<primary>192.19</primary>
+			<addon>157.02</addon>
+		</col2>
+		<col3>
+			<primary>221.02</primary>
+			<addon>180.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH402</number>
+		<name>Standard 2 Gallon Electric Water Heater 110V</name>
+		<description>Standard 2 Gallon Electric Water Heater- Remove Old Tank.</description>
+		<time>90</time>
+		<parts>238.88</parts>
+		<col1>
+			<primary>89.88</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>599.19</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>689.07</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH405</number>
+		<name>Standard 6 Gallon Electric Water Heater 110V</name>
+		<description>Standard 6 Gallon Electric Water Heater- Remove Old Tank.</description>
+		<time>90</time>
+		<parts>302.82</parts>
+		<col1>
+			<primary>102.09</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>680.61</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>782.7</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH407</number>
+		<name>Standard 12 Gallon Electric Water Heater 110V</name>
+		<description>Standard 12 Gallon Electric Water Heater- Remove Old Tank.</description>
+		<time>90</time>
+		<parts>322.71</parts>
+		<col1>
+			<primary>105.89</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>705.94</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>811.83</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH415</number>
+		<name>Standard 30 Gallon Electric Water Heater 240V</name>
+		<description>Standard 30 Gallon Electric Water Heater- Remove Old Tank.</description>
+		<time>120</time>
+		<parts>336</parts>
+		<col1>
+			<primary>116.33</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>775.56</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>891.89</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH420</number>
+		<name>Standard 40 Gallon Electric Water Heater 240V</name>
+		<description>Standard 40 Gallon Electric Water Heater- Remove Old Tank.</description>
+		<time>120</time>
+		<parts>287.29</parts>
+		<col1>
+			<primary>101.89</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>679.23</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>781.12</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH425</number>
+		<name>Standard 50 Gallon Electric Water Heater 240V</name>
+		<description>Standard 50 Gallon Electric Water Heater- Remove Old Tank.</description>
+		<time>120</time>
+		<parts>297.98</parts>
+		<col1>
+			<primary>103.71</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>691.41</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>795.12</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH435</number>
+		<name>Standard 80 Gallon Electric Water Heater 240V</name>
+		<description>Standard 80 Gallon Electric Water Heater- Remove Old Tank.</description>
+		<time>150</time>
+		<parts>575.88</parts>
+		<col1>
+			<primary>173.55</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>1156.94</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>1330.49</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH470</number>
+		<name>Difficult Installation (Non-Standard)</name>
+		<description>Upgrade For Difficult Installation</description>
+		<time>90</time>
+		<parts>0</parts>
+		<col1>
+			<primary>44.25</primary>
+			<addon>36.14</addon>
+		</col1>
+		<col2>
+			<primary>294.96</primary>
+			<addon>240.99</addon>
+		</col2>
+		<col3>
+			<primary>339.21</primary>
+			<addon>277.13</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WH480</number>
+		<name>Owner Supplied Water Heater</name>
+		<description>Install Owner Supplied Water Heater</description>
+		<time>120</time>
+		<parts>57.84</parts>
+		<col1>
+			<primary>70.04</primary>
+			<addon>57.22</addon>
+		</col1>
+		<col2>
+			<primary>466.93</primary>
+			<addon>381.48</addon>
+		</col2>
+		<col3>
+			<primary>536.97</primary>
+			<addon>438.7</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR300</number>
+		<name>Water Heater Gas Valve Replacement</name>
+		<description>Close Fill Valve, Drain Tank, Remove Gas Valve, Install New Gas Valve and Thermocouple</description>
+		<time>60</time>
+		<parts>85.93</parts>
+		<col1>
+			<primary>45.91</primary>
+			<addon>37.51</addon>
+		</col1>
+		<col2>
+			<primary>306.07</primary>
+			<addon>250.06</addon>
+		</col2>
+		<col3>
+			<primary>351.98</primary>
+			<addon>287.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR305</number>
+		<name>Water Heater T&amp;P Safety Relief Valve</name>
+		<description>Install New Temperature &amp; Pressure Safety Relief Valve</description>
+		<time>45</time>
+		<parts>17.32</parts>
+		<col1>
+			<primary>25.43</primary>
+			<addon>20.77</addon>
+		</col1>
+		<col2>
+			<primary>169.54</primary>
+			<addon>138.52</addon>
+		</col2>
+		<col3>
+			<primary>194.97</primary>
+			<addon>159.29</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR312</number>
+		<name>Water Heater Stop Valve Replacement 3/4-IN</name>
+		<description>Close Main Water, Install 3/4-IN Full Port Ball Valve</description>
+		<time>60</time>
+		<parts>12.31</parts>
+		<col1>
+			<primary>31.85</primary>
+			<addon>26.02</addon>
+		</col1>
+		<col2>
+			<primary>212.32</primary>
+			<addon>173.46</addon>
+		</col2>
+		<col3>
+			<primary>244.17</primary>
+			<addon>199.48</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR315</number>
+		<name>Replace Water Flex/Unions at Water Heater</name>
+		<description>Replace 2 Water Flex/Unions at Water Heater Supplies</description>
+		<time>45</time>
+		<parts>22.98</parts>
+		<col1>
+			<primary>26.52</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>176.75</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>203.27</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR320</number>
+		<name>Water Heater Drain Valve Replacement</name>
+		<description>Remove Old Valve Install 3/4-IN Nipple, 3/4-INFull Port Ball Vlv &amp; Hose Adapter (no Water Heater Drain)</description>
+		<time>45</time>
+		<parts>18.63</parts>
+		<col1>
+			<primary>25.68</primary>
+			<addon>20.98</addon>
+		</col1>
+		<col2>
+			<primary>171.21</primary>
+			<addon>139.88</addon>
+		</col2>
+		<col3>
+			<primary>196.89</primary>
+			<addon>160.86</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR322</number>
+		<name>Water Heater Test &amp; Light Pilot</name>
+		<description>Test &amp; Light Pilot</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR325</number>
+		<name>Water Heater Safety Sensor Replacement</name>
+		<description>Test Old Thermocouple Safety Sensor, Remove &amp; Install New Thermocouple 1 Year Warranty</description>
+		<time>45</time>
+		<parts>9.56</parts>
+		<col1>
+			<primary>23.95</primary>
+			<addon>19.57</addon>
+		</col1>
+		<col2>
+			<primary>159.66</primary>
+			<addon>130.44</addon>
+		</col2>
+		<col3>
+			<primary>183.61</primary>
+			<addon>150.01</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR328</number>
+		<name>Water Heater Burner Service</name>
+		<description>Pull Clean, Service &amp; Replace Pilot Safety Sensor</description>
+		<time>60</time>
+		<parts>9.56</parts>
+		<col1>
+			<primary>31.32</primary>
+			<addon>25.59</addon>
+		</col1>
+		<col2>
+			<primary>208.81</primary>
+			<addon>170.6</addon>
+		</col2>
+		<col3>
+			<primary>240.13</primary>
+			<addon>196.19</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR335</number>
+		<name>Water Heater Vent Replacement 3-IN</name>
+		<description>Water Heater Vent Pipe Connection</description>
+		<time>60</time>
+		<parts>30.66</parts>
+		<col1>
+			<primary>35.35</primary>
+			<addon>28.88</addon>
+		</col1>
+		<col2>
+			<primary>235.67</primary>
+			<addon>192.54</addon>
+		</col2>
+		<col3>
+			<primary>271.02</primary>
+			<addon>221.42</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR336</number>
+		<name>Water Heater Vent Replacement 4-IN</name>
+		<description>Water Heater Vent Pipe Connection</description>
+		<time>60</time>
+		<parts>35.38</parts>
+		<col1>
+			<primary>36.25</primary>
+			<addon>29.62</addon>
+		</col1>
+		<col2>
+			<primary>241.68</primary>
+			<addon>197.45</addon>
+		</col2>
+		<col3>
+			<primary>277.93</primary>
+			<addon>227.07</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR340</number>
+		<name>Water Heater Expansion Tank Install (30-40 Gal)</name>
+		<description>Install Water Heater Expansion Tank 30-40 Gallon Tanks</description>
+		<time>60</time>
+		<parts>37.59</parts>
+		<col1>
+			<primary>36.67</primary>
+			<addon>29.97</addon>
+		</col1>
+		<col2>
+			<primary>244.51</primary>
+			<addon>199.76</addon>
+		</col2>
+		<col3>
+			<primary>281.18</primary>
+			<addon>229.73</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR341</number>
+		<name>Water Heater Expansion Tank Install (50 Gallon)</name>
+		<description>Install Water Heater Expansion Tank 50-75 Gallon Tanks</description>
+		<time>60</time>
+		<parts>55.09</parts>
+		<col1>
+			<primary>40.02</primary>
+			<addon>32.69</addon>
+		</col1>
+		<col2>
+			<primary>266.79</primary>
+			<addon>217.97</addon>
+		</col2>
+		<col3>
+			<primary>306.81</primary>
+			<addon>250.66</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR352</number>
+		<name>Gas Water Heater Service (MINOR)</name>
+		<description>Service Water Heater, Install New Anode Rod,  Full Port Drain Valve</description>
+		<time>60</time>
+		<parts>41.7</parts>
+		<col1>
+			<primary>37.46</primary>
+			<addon>30.6</addon>
+		</col1>
+		<col2>
+			<primary>249.74</primary>
+			<addon>204.04</addon>
+		</col2>
+		<col3>
+			<primary>287.2</primary>
+			<addon>234.64</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR354</number>
+		<name>Water Heater Anode Replacement</name>
+		<description>Remove Old &amp; Install New Anode Rod</description>
+		<time>60</time>
+		<parts>25.49</parts>
+		<col1>
+			<primary>34.37</primary>
+			<addon>28.08</addon>
+		</col1>
+		<col2>
+			<primary>229.09</primary>
+			<addon>187.17</addon>
+		</col2>
+		<col3>
+			<primary>263.46</primary>
+			<addon>215.25</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR500</number>
+		<name>Electric Water Heater Diagnostic Service</name>
+		<description>Locate heater problem with electronic tester</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>29.49</primary>
+			<addon>24.1</addon>
+		</col1>
+		<col2>
+			<primary>196.64</primary>
+			<addon>160.65</addon>
+		</col2>
+		<col3>
+			<primary>226.13</primary>
+			<addon>184.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR536</number>
+		<name>Standard Electric Water Service (MINOR)</name>
+		<description>Replace Upper &amp; Lower Heating Elements</description>
+		<time>75</time>
+		<parts>25.34</parts>
+		<col1>
+			<primary>41.71</primary>
+			<addon>34.08</addon>
+		</col1>
+		<col2>
+			<primary>278.06</primary>
+			<addon>227.17</addon>
+		</col2>
+		<col3>
+			<primary>319.77</primary>
+			<addon>261.25</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR544</number>
+		<name>Standard Upper Element Replacement</name>
+		<description>Replace Upper Heating Element With Premium</description>
+		<time>45</time>
+		<parts>12.67</parts>
+		<col1>
+			<primary>24.55</primary>
+			<addon>20.05</addon>
+		</col1>
+		<col2>
+			<primary>163.62</primary>
+			<addon>133.68</addon>
+		</col2>
+		<col3>
+			<primary>188.17</primary>
+			<addon>153.73</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR546</number>
+		<name>Standard Lower Element Replacement</name>
+		<description>Replace Lower Heating Element With Premium</description>
+		<time>60</time>
+		<parts>12.67</parts>
+		<col1>
+			<primary>31.91</primary>
+			<addon>26.07</addon>
+		</col1>
+		<col2>
+			<primary>212.78</primary>
+			<addon>173.84</addon>
+		</col2>
+		<col3>
+			<primary>244.69</primary>
+			<addon>199.91</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR548</number>
+		<name>Install Water Alarm at W/H with W/H install</name>
+		<description>Install water alarm at time of water heater installation</description>
+		<time>6.6</time>
+		<parts>23.07</parts>
+		<col1>
+			<primary>7.22</primary>
+			<addon>5.91</addon>
+		</col1>
+		<col2>
+			<primary>48.18</primary>
+			<addon>39.36</addon>
+		</col2>
+		<col3>
+			<primary>55.4</primary>
+			<addon>45.27</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR565</number>
+		<name>Install WAGS valve at water heater</name>
+		<description>Install WAGS valve at water heater</description>
+		<time>60</time>
+		<parts>40.76</parts>
+		<col1>
+			<primary>37.28</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>248.54</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>285.82</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR567</number>
+		<name>Grundfos Comfort Recirc Pump w/one valve</name>
+		<description>Grundfos Comfort Recirc Pump w/one valve</description>
+		<time>75</time>
+		<parts>290.69</parts>
+		<col1>
+			<primary>92.4</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>615.99</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>708.39</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WHR568</number>
+		<name>Grundfos add on valve to Comfort Recirc system</name>
+		<description>Grundfos add on valve to Comfort Recirc system</description>
+		<time>30</time>
+		<parts>48.99</parts>
+		<col1>
+			<primary>24.11</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>160.72</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>184.83</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WMI005</number>
+		<name>Premium Washer Machine Hoses (Pair)</name>
+		<description>Install Premium Stainless Steel No-Burst Hot &amp; Cold Washer Machine Hoses, Tighten Packing</description>
+		<time>30</time>
+		<parts>25.56</parts>
+		<col1>
+			<primary>19.63</primary>
+			<addon>16.04</addon>
+		</col1>
+		<col2>
+			<primary>130.88</primary>
+			<addon>106.93</addon>
+		</col2>
+		<col3>
+			<primary>150.51</primary>
+			<addon>122.97</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WMI006</number>
+		<name>Standard Washer Machine Hoses (Pair)</name>
+		<description>Remove Old Hot &amp; Cold Washer Machine Hoses, Tighten Packing</description>
+		<time>30</time>
+		<parts>9.2</parts>
+		<col1>
+			<primary>16.5</primary>
+			<addon>13.48</addon>
+		</col1>
+		<col2>
+			<primary>110.05</primary>
+			<addon>89.91</addon>
+		</col2>
+		<col3>
+			<primary>126.55</primary>
+			<addon>103.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WMI018</number>
+		<name>Replace Laundry Boiler Drains (Pair)</name>
+		<description>Replace hot &amp; cold valves</description>
+		<time>60</time>
+		<parts>6.36</parts>
+		<col1>
+			<primary>30.71</primary>
+			<addon>25.09</addon>
+		</col1>
+		<col2>
+			<primary>204.73</primary>
+			<addon>167.26</addon>
+		</col2>
+		<col3>
+			<primary>235.44</primary>
+			<addon>192.35</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WMI020</number>
+		<name>Install Washer Machine (Supplied by Owner)</name>
+		<description>Disconnect Existing, Install New Washer Machine</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WMI022</number>
+		<name>Trap &amp; Standpipe For Washing Machine</name>
+		<description>Replace Trap &amp; Standpipe For Washing Machine</description>
+		<time>75</time>
+		<parts>10.55</parts>
+		<col1>
+			<primary>38.89</primary>
+			<addon>31.76</addon>
+		</col1>
+		<col2>
+			<primary>259.22</primary>
+			<addon>211.79</addon>
+		</col2>
+		<col3>
+			<primary>298.11</primary>
+			<addon>243.55</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WOR050</number>
+		<name>Tub W &amp; O kit replace (standard) chrome</name>
+		<description>remove existing trim and replace with new chrome tip toe. Includes new piping under tub</description>
+		<time>90</time>
+		<parts>44.51</parts>
+		<col1>
+			<primary>52.74</primary>
+			<addon>43.09</addon>
+		</col1>
+		<col2>
+			<primary>351.65</primary>
+			<addon>287.3</addon>
+		</col2>
+		<col3>
+			<primary>404.39</primary>
+			<addon>330.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WOR053</number>
+		<name>Tub Drain Repair Standard (Minor) Chrome</name>
+		<description>New trim kit for tub.  Tip toe style.  Nothing behind the wall.</description>
+		<time>45</time>
+		<parts>28.23</parts>
+		<col1>
+			<primary>27.51</primary>
+			<addon>22.48</addon>
+		</col1>
+		<col2>
+			<primary>183.44</primary>
+			<addon>149.87</addon>
+		</col2>
+		<col3>
+			<primary>210.95</primary>
+			<addon>172.35</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WOR060</number>
+		<name>Tub Face Plate Replacement</name>
+		<description>Remove Existing, Install New Chrome Tub Face Plate</description>
+		<time>30</time>
+		<parts>8.88</parts>
+		<col1>
+			<primary>16.44</primary>
+			<addon>13.44</addon>
+		</col1>
+		<col2>
+			<primary>109.64</primary>
+			<addon>89.57</addon>
+		</col2>
+		<col3>
+			<primary>126.08</primary>
+			<addon>103.01</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WOR066</number>
+		<name>Tub Trap Replacement Plastic PVC/ABS (Exposed)</name>
+		<description>Remove Existing, Install New Tub Trap (Exposed)</description>
+		<time>60</time>
+		<parts>13.34</parts>
+		<col1>
+			<primary>32.05</primary>
+			<addon>26.18</addon>
+		</col1>
+		<col2>
+			<primary>213.62</primary>
+			<addon>174.53</addon>
+		</col2>
+		<col3>
+			<primary>245.67</primary>
+			<addon>200.71</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WOR070</number>
+		<name>Gerber Tub Trip Lever Plate &amp; Cotter Pin</name>
+		<description>Null</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WOR080</number>
+		<name>Open Ceiling To Expose Pipe/Trap/Leak</name>
+		<description>Open Sheetrock Ceiling &amp; Expose Tub Trap</description>
+		<time>19.8000007867813</time>
+		<parts>0</parts>
+		<col1>
+			<primary>9.74</primary>
+			<addon>7.95</addon>
+		</col1>
+		<col2>
+			<primary>64.89</primary>
+			<addon>53.02</addon>
+		</col2>
+		<col3>
+			<primary>74.63</primary>
+			<addon>60.97</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WOR292</number>
+		<name>Access Panel Ceiling/Wall</name>
+		<description>Install Access Panel In Hole</description>
+		<time>30</time>
+		<parts>22</parts>
+		<col1>
+			<primary>18.96</primary>
+			<addon>15.48</addon>
+		</col1>
+		<col2>
+			<primary>126.35</primary>
+			<addon>103.23</addon>
+		</col2>
+		<col3>
+			<primary>145.31</primary>
+			<addon>118.71</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR001</number>
+		<name>Leak Search (Minor)</name>
+		<description>Locate Leak Visual Inspection To Diagnose Leak Source</description>
+		<time>30</time>
+		<parts>0</parts>
+		<col1>
+			<primary>14.75</primary>
+			<addon>12.05</addon>
+		</col1>
+		<col2>
+			<primary>98.33</primary>
+			<addon>80.34</addon>
+		</col2>
+		<col3>
+			<primary>113.08</primary>
+			<addon>92.39</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR002</number>
+		<name>Leak Search (Major)</name>
+		<description>Locate Leak Visual Inspection, Cap Shower Head, Test Diverter &amp; Pan</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>29.49</primary>
+			<addon>24.1</addon>
+		</col1>
+		<col2>
+			<primary>196.64</primary>
+			<addon>160.65</addon>
+		</col2>
+		<col3>
+			<primary>226.13</primary>
+			<addon>184.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR003</number>
+		<name>Expose Leak In Wall</name>
+		<description>Cut Open Wall To Expose Leak For Repair Access</description>
+		<time>45</time>
+		<parts>0</parts>
+		<col1>
+			<primary>22.12</primary>
+			<addon>18.08</addon>
+		</col1>
+		<col2>
+			<primary>147.48</primary>
+			<addon>120.49</addon>
+		</col2>
+		<col3>
+			<primary>169.6</primary>
+			<addon>138.57</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR004</number>
+		<name>Expose Leak In Ceiling</name>
+		<description>Cut Open Ceiling To Expose Leak For Repair Access</description>
+		<time>60</time>
+		<parts>0</parts>
+		<col1>
+			<primary>29.49</primary>
+			<addon>24.1</addon>
+		</col1>
+		<col2>
+			<primary>196.64</primary>
+			<addon>160.65</addon>
+		</col2>
+		<col3>
+			<primary>226.13</primary>
+			<addon>184.75</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR005</number>
+		<name>Access Panel</name>
+		<description>Install Access Panel In Hole Cut 14-INx14-IN</description>
+		<time>30</time>
+		<parts>22</parts>
+		<col1>
+			<primary>18.96</primary>
+			<addon>15.48</addon>
+		</col1>
+		<col2>
+			<primary>126.35</primary>
+			<addon>103.23</addon>
+		</col2>
+		<col3>
+			<primary>145.31</primary>
+			<addon>118.71</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR009</number>
+		<name>Repair Leak Exposed 1/2 To 1-IN Copper Water Pipe</name>
+		<description>Remove Leaking Pipe/Fitting, Install New Copper Pipe/Fitting</description>
+		<time>75</time>
+		<parts>33.09</parts>
+		<col1>
+			<primary>43.19</primary>
+			<addon>35.28</addon>
+		</col1>
+		<col2>
+			<primary>287.93</primary>
+			<addon>235.24</addon>
+		</col2>
+		<col3>
+			<primary>331.12</primary>
+			<addon>270.52</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR010</number>
+		<name>Repair Leak Exposed 1-1/2- 2-IN Copper Water Pipe</name>
+		<description>Remove Leaking Pipe/Fitting, Install New Copper Pipe/Fitting</description>
+		<time>90</time>
+		<parts>70.34</parts>
+		<col1>
+			<primary>57.68</primary>
+			<addon>47.13</addon>
+		</col1>
+		<col2>
+			<primary>384.54</primary>
+			<addon>314.17</addon>
+		</col2>
+		<col3>
+			<primary>442.22</primary>
+			<addon>361.3</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR013</number>
+		<name>Repair Leak In Attic Water Pipe</name>
+		<description>Remove Leaking Pipe/Fitting, Install New Copper Pipe/Fitting</description>
+		<time>120</time>
+		<parts>10.24</parts>
+		<col1>
+			<primary>60.94</primary>
+			<addon>49.79</addon>
+		</col1>
+		<col2>
+			<primary>406.31</primary>
+			<addon>331.95</addon>
+		</col2>
+		<col3>
+			<primary>467.25</primary>
+			<addon>381.74</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR014</number>
+		<name>Repair Leak In Crawl Space</name>
+		<description>Remove Leaking Pipe/Fitting, Install New Copper Pipe/Fitting</description>
+		<time>135</time>
+		<parts>10.24</parts>
+		<col1>
+			<primary>68.32</primary>
+			<addon>55.82</addon>
+		</col1>
+		<col2>
+			<primary>455.46</primary>
+			<addon>372.11</addon>
+		</col2>
+		<col3>
+			<primary>523.78</primary>
+			<addon>427.93</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR020</number>
+		<name>Wall Hydrant Replacement (FROST-FREE)Open Access</name>
+		<description>Install New Frost Free Wall Hydrant 10-12-IN (Open Access)</description>
+		<time>60</time>
+		<parts>31.41</parts>
+		<col1>
+			<primary>35.49</primary>
+			<addon>29</addon>
+		</col1>
+		<col2>
+			<primary>236.64</primary>
+			<addon>193.33</addon>
+		</col2>
+		<col3>
+			<primary>272.13</primary>
+			<addon>222.33</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR021</number>
+		<name>Wall Hydrant Replacement (STANDARD)</name>
+		<description>(GOOD) Install New  Wall Hydrant</description>
+		<time>60</time>
+		<parts>8.4</parts>
+		<col1>
+			<primary>31.1</primary>
+			<addon>25.41</addon>
+		</col1>
+		<col2>
+			<primary>207.33</primary>
+			<addon>169.39</addon>
+		</col2>
+		<col3>
+			<primary>238.43</primary>
+			<addon>194.8</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR023</number>
+		<name>Wall Hydrant Replace (FROST-FREE) Limited Access</name>
+		<description>Install new Frost Free Hose Bib 10-12" limited access</description>
+		<time>75</time>
+		<parts>30.68</parts>
+		<col1>
+			<primary>42.73</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>284.86</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>327.59</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR025</number>
+		<name>Service Stop Valve (Sink/Toilet) Chrome</name>
+		<description>Close Main Water, Remove Old Valve, Install New Chrome Emergency Stop Valve</description>
+		<time>45</time>
+		<parts>12.57</parts>
+		<col1>
+			<primary>24.53</primary>
+			<addon>20.04</addon>
+		</col1>
+		<col2>
+			<primary>163.49</primary>
+			<addon>133.57</addon>
+		</col2>
+		<col3>
+			<primary>188.02</primary>
+			<addon>153.61</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR027</number>
+		<name>Lav/Kit/Toilet Water Riser Tubes Chrome</name>
+		<description>Close Water, Remove Existing Supply Tubes, Install New Chrome Hot &amp; Cold Supplies</description>
+		<time>45</time>
+		<parts>8.16</parts>
+		<col1>
+			<primary>23.68</primary>
+			<addon>19.35</addon>
+		</col1>
+		<col2>
+			<primary>157.87</primary>
+			<addon>128.98</addon>
+		</col2>
+		<col3>
+			<primary>181.55</primary>
+			<addon>148.33</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR037</number>
+		<name>House Main Service Valve Replacement 1/2 to 1-IN</name>
+		<description>Close Main Water, Remove Existing, Install New 1/2 up to 1-IN Full Port Ball Valve</description>
+		<time>60</time>
+		<parts>19.92</parts>
+		<col1>
+			<primary>33.3</primary>
+			<addon>27.21</addon>
+		</col1>
+		<col2>
+			<primary>222</primary>
+			<addon>181.37</addon>
+		</col2>
+		<col3>
+			<primary>255.3</primary>
+			<addon>208.58</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR040</number>
+		<name>House Main Service Valve Replacement 1-1/4 to 2-IN</name>
+		<description>Close Main Water, Remove Existing, Install New 1-1/4 up to 2-IN Full Port Ball Valve</description>
+		<time>90</time>
+		<parts>76.57</parts>
+		<col1>
+			<primary>58.87</primary>
+			<addon>48.1</addon>
+		</col1>
+		<col2>
+			<primary>392.48</primary>
+			<addon>320.66</addon>
+		</col2>
+		<col3>
+			<primary>451.35</primary>
+			<addon>368.76</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR047</number>
+		<name>Qest Service Stop Valve (Sink/Toilet)</name>
+		<description>Install New QestPex Service Stop For Sink Or Toilet</description>
+		<time>45</time>
+		<parts>10.34</parts>
+		<col1>
+			<primary>24.09</primary>
+			<addon>19.69</addon>
+		</col1>
+		<col2>
+			<primary>160.65</primary>
+			<addon>131.25</addon>
+		</col2>
+		<col3>
+			<primary>184.74</primary>
+			<addon>150.94</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR049</number>
+		<name>Qest Service Stop Ball Valve 1/2 to 3/4-IN</name>
+		<description>Install New QestPex Service Stop Ball Valve</description>
+		<time>60</time>
+		<parts>13.6</parts>
+		<col1>
+			<primary>32.1</primary>
+			<addon>26.22</addon>
+		</col1>
+		<col2>
+			<primary>213.95</primary>
+			<addon>174.8</addon>
+		</col2>
+		<col3>
+			<primary>246.05</primary>
+			<addon>201.02</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR051</number>
+		<name>Repair 1/2 To 3/4-IN Qest Water Pipe</name>
+		<description>Null</description>
+		<time>45</time>
+		<parts>14.32</parts>
+		<col1>
+			<primary>24.86</primary>
+			<addon>20.31</addon>
+		</col1>
+		<col2>
+			<primary>165.72</primary>
+			<addon>135.39</addon>
+		</col2>
+		<col3>
+			<primary>190.58</primary>
+			<addon>155.7</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR056</number>
+		<name>Repair Plastic Water Pipe 1/2 To 3/4-IN Exposed</name>
+		<description>Remove Leaking Pipe/Fitting, Repair With CPVC Pipe/Fitting</description>
+		<time>60</time>
+		<parts>15.14</parts>
+		<col1>
+			<primary>32.39</primary>
+			<addon>26.47</addon>
+		</col1>
+		<col2>
+			<primary>215.92</primary>
+			<addon>176.4</addon>
+		</col2>
+		<col3>
+			<primary>248.31</primary>
+			<addon>202.87</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR057</number>
+		<name>Repair Plastic Water Pipe 1-IN Exposed</name>
+		<description>Remove Leaking Pipe/Fitting, Repair With CPVC Pipe/Fitting</description>
+		<time>60</time>
+		<parts>37.47</parts>
+		<col1>
+			<primary>36.66</primary>
+			<addon>29.94</addon>
+		</col1>
+		<col2>
+			<primary>244.35</primary>
+			<addon>199.64</addon>
+		</col2>
+		<col3>
+			<primary>281.01</primary>
+			<addon>229.58</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR060</number>
+		<name>Shark Bite pipe repair 1/2 includes 3 fittings</name>
+		<description>Shark Bite pipe repair 1/2 includes 3 fittings, includes 5' of pipe</description>
+		<time>60</time>
+		<parts>32.15</parts>
+		<col1>
+			<primary>35.63</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>237.58</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>273.21</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR062</number>
+		<name>Shark Bite pipe repair 3/4 includes 3 fittings</name>
+		<description>Shark Bite pipe repair 3/4 includes 3 fittings,  includes 5' of pipe</description>
+		<time>60</time>
+		<parts>40.95</parts>
+		<col1>
+			<primary>37.32</primary>
+			<addon></addon>
+		</col1>
+		<col2>
+			<primary>248.79</primary>
+			<addon></addon>
+		</col2>
+		<col3>
+			<primary>286.11</primary>
+			<addon></addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR100</number>
+		<name>Water Piping 1/2-IN Copper Up To 10-FT Exposed</name>
+		<description>Close Water, Remove Existing Pipe, Install New Copper 1/2-IN Pipe (Exposed)</description>
+		<time>60</time>
+		<parts>29.68</parts>
+		<col1>
+			<primary>35.16</primary>
+			<addon>28.73</addon>
+		</col1>
+		<col2>
+			<primary>234.44</primary>
+			<addon>191.53</addon>
+		</col2>
+		<col3>
+			<primary>269.6</primary>
+			<addon>220.26</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR102</number>
+		<name>Water Piping 3/4-IN Copper Up To 10-FT Exposed</name>
+		<description>Close Water, Remove Existing Pipe, Install New Copper 3/4-IN Pipe (Exposed)</description>
+		<time>60</time>
+		<parts>63.92</parts>
+		<col1>
+			<primary>41.7</primary>
+			<addon>34.08</addon>
+		</col1>
+		<col2>
+			<primary>278.04</primary>
+			<addon>227.15</addon>
+		</col2>
+		<col3>
+			<primary>319.74</primary>
+			<addon>261.23</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR104</number>
+		<name>Water Piping 1-IN Copper Up To 10-FT Exposed</name>
+		<description>Close Water, Remove Existing Pipe, Install New Copper 1-IN Pipe (Exposed)</description>
+		<time>75</time>
+		<parts>108.4</parts>
+		<col1>
+			<primary>57.57</primary>
+			<addon>47.04</addon>
+		</col1>
+		<col2>
+			<primary>383.84</primary>
+			<addon>313.59</addon>
+		</col2>
+		<col3>
+			<primary>441.41</primary>
+			<addon>360.63</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR121</number>
+		<name>Water Piping Copper Additional Per/FT 1/2 &amp; 3/4-IN</name>
+		<description>Additional Install New Copper 3/4-IN Pipe (Exposed) Per Foot Price</description>
+		<time>15</time>
+		<parts>24.88</parts>
+		<col1>
+			<primary>12.12</primary>
+			<addon>9.91</addon>
+		</col1>
+		<col2>
+			<primary>80.84</primary>
+			<addon>66.04</addon>
+		</col2>
+		<col3>
+			<primary>92.96</primary>
+			<addon>75.95</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WPR122</number>
+		<name>Water Piping Copper Additional Per/FT 1-IN</name>
+		<description>Additional Install New Copper 1-IN Pipe (Exposed) Per Foot Price</description>
+		<time>15</time>
+		<parts>47.8</parts>
+		<col1>
+			<primary>16.51</primary>
+			<addon>13.48</addon>
+		</col1>
+		<col2>
+			<primary>110.02</primary>
+			<addon>89.89</addon>
+		</col2>
+		<col3>
+			<primary>126.53</primary>
+			<addon>103.37</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WSI150</number>
+		<name>Copper Water Service Repair 3/4-IN To 1-IN</name>
+		<description>Excavate Repair Leak In 3/4-In To 1-IN Copper Water Service</description>
+		<time>120</time>
+		<parts>220.4</parts>
+		<col1>
+			<primary>101.1</primary>
+			<addon>82.59</addon>
+		</col1>
+		<col2>
+			<primary>673.95</primary>
+			<addon>550.62</addon>
+		</col2>
+		<col3>
+			<primary>775.05</primary>
+			<addon>633.21</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WSI152</number>
+		<name>Copper Water Service Repair 1-1/4-IN</name>
+		<description>Excavate Repair Leak In 1-1/4-IN Copper Water Service</description>
+		<time>180</time>
+		<parts>408.3</parts>
+		<col1>
+			<primary>166.48</primary>
+			<addon>136.02</addon>
+		</col1>
+		<col2>
+			<primary>1109.88</primary>
+			<addon>906.77</addon>
+		</col2>
+		<col3>
+			<primary>1276.36</primary>
+			<addon>1042.79</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WSI160</number>
+		<name>Plastic Water Service Repair 3/4-IN To 1-IN</name>
+		<description>Excavate Repair Leak In 3/4-IN To 1-IN Plastic Water Service</description>
+		<time>120</time>
+		<parts>15.69</parts>
+		<col1>
+			<primary>61.98</primary>
+			<addon>50.65</addon>
+		</col1>
+		<col2>
+			<primary>413.25</primary>
+			<addon>337.62</addon>
+		</col2>
+		<col3>
+			<primary>475.23</primary>
+			<addon>388.27</addon>
+		</col3>
+	</task>
+	<task>
+		<number>WSI162</number>
+		<name>Plastic Water Service Repair 1-IN</name>
+		<description>Excavate Repair Leak In 1-IN Plastic Water Service</description>
+		<time>120</time>
+		<parts>15.69</parts>
+		<col1>
+			<primary>61.98</primary>
+			<addon>50.65</addon>
+		</col1>
+		<col2>
+			<primary>413.25</primary>
+			<addon>337.62</addon>
+		</col2>
+		<col3>
+			<primary>475.23</primary>
+			<addon>388.27</addon>
+		</col3>
+	</task>
+</tasks>

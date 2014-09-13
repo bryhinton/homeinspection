@@ -1,0 +1,21 @@
+<div class='section' id='company-info'>
+	<div class="actions"></div>
+
+	<div class="file">
+		<form action='../logo-upload' enctype='multipart/form-data' method='POST'>
+			<input type='hidden' name='companyid' value='{{user.companyID}}'>
+			<label>Logo:</label><input type='file' name='logo-file'>
+			<div ng-show="company.logo != ''" class='file-message'><label/>You uploaded <b>{{company.logo}}</b></div>
+			<div ng-show="company.logo == ''" class='file-message'><label/>You have not yet uploaded a logo.</div>
+			<label/><button type='submit'>Upload</button>
+		</form>
+	</div>
+
+	<div class='field'><label>Name:</label><input type='text' id='company-name' ng-model="company.name" value='{{company.name}}'></div>
+	<div class='field'><label>Email:</label><input type='text' id='company-email' ng-model="company.email" value='{{company.email}}'></div>
+	<div class='field'><label>Phone:</label><input type='text' id='company-phone' ng-model="company.phone" value='{{company.phone}}'></div>
+
+	<div class='buttons'>
+		<label/></label.><button type='button' ng-click="submitCompanyInfo()">Save</button>
+	</div>
+</div>

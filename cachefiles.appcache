@@ -1,0 +1,27 @@
+CACHE MANIFEST
+
+# Offline cache v1.8.4
+# jsp files
+
+#xml files
+schema.xml
+
+# css files
+stylesheets/main.css
+
+# js files
+scripts/jquery-1.7.1.min.js
+scripts/inspection.js
+scripts/utils.js
+scripts/database.js
+scripts/jSignature.min.js
+scripts/flashcanvas.js
+
+# images
+
+NETWORK:
+login
+company-info
+pricing
+inspection
+company-login.jsp
