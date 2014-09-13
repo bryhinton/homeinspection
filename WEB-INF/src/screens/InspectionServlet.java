@@ -44,7 +44,6 @@ public class InspectionServlet extends HttpServlet {
 		long startTime = System.currentTimeMillis();
 
 		System.out.println("Starting request: " + requestID);
-		System.out.println("SOMETHING!!");
 		writer.println("<?xml version='1.0' encoding='UTF-8'?>");
 		writer.println("<result>");
 		int companyID = Utils.parseInt(req.getParameter("inspection[company]"), 0);
