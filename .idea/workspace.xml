@@ -63,7 +63,7 @@
       <file leaf-file-name="InspectionServlet.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="259" column="56" selection-start="9938" selection-end="9938" vertical-scroll-proportion="0.41016108">
+            <state line="259" column="70" selection-start="9952" selection-end="9952" vertical-scroll-proportion="0.41016108">
               <folding />
             </state>
           </provider>
@@ -1211,7 +1211,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="259" column="56" selection-start="9938" selection-end="9938" vertical-scroll-proportion="0.41016108">
+        <state line="259" column="70" selection-start="9952" selection-end="9952" vertical-scroll-proportion="0.41016108">
           <folding />
         </state>
       </provider>
