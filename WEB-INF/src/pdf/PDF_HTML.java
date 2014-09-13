@@ -21,6 +21,7 @@ import java.util.List;
 public class PDF_HTML extends HttpServlet {
 	@Override
 	public void doGet(HttpServletRequest req, HttpServletResponse rsp) throws ServletException, IOException {
+		System.out.println("Trying to serve PDF HTML");
 		PrintWriter writer = Utils.getWriter(rsp);
 
 		//if("inspectionResult".equals(req.getParameter("request"))) {

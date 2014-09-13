@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1ed6da5-adc3-4655-9553-a436736637cd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" afterPath="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java" afterPath="$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java" />
     </list>
     <ignored path="HomeInspection.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,10 +61,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="InspectionServlet.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="InspectionServlet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="42" selection-start="1363" selection-end="1363" vertical-scroll-proportion="0.3370508">
+            <state line="253" column="34" selection-start="9789" selection-end="9789" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -123,10 +124,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PDF_HTML.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PDF_HTML.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="0" selection-start="2997" selection-end="2997" vertical-scroll-proportion="0.0">
+            <state line="23" column="52" selection-start="632" selection-end="632" vertical-scroll-proportion="0.21065675">
               <folding />
             </state>
           </provider>
@@ -243,7 +244,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="22.95">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="45.9">
               <folding />
             </state>
           </provider>
@@ -275,9 +276,9 @@
         <option value="$PROJECT_DIR$/scripts/inspection/directives.js" />
         <option value="$PROJECT_DIR$/partials/inspection/pricing.html" />
         <option value="$PROJECT_DIR$/scripts/control-center/control-center.js" />
-        <option value="$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java" />
         <option value="$PROJECT_DIR$/WEB-INF/src/pdf/GeneratePDF.java" />
         <option value="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java" />
       </list>
     </option>
   </component>
@@ -1109,13 +1110,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="0" selection-start="2997" selection-end="2997" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partials/inspection/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
@@ -1193,6 +1187,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="253" column="34" selection-start="9789" selection-end="9789" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WEB-INF/web.xml">
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
@@ -1204,14 +1205,14 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="22.95">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="45.9">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="42" selection-start="1363" selection-end="1363" vertical-scroll-proportion="0.3370508">
+        <state line="23" column="52" selection-start="632" selection-end="632" vertical-scroll-proportion="0.21065675">
           <folding />
         </state>
       </provider>
