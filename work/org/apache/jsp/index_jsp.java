@@ -57,7 +57,7 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t<script type=\"text/javascript\" src=\"scripts/jquery-1.7.1.min.js\"></script>\r\n");
       out.write("\t\t<script type=\"text/javascript\" src=\"scripts/database.js\"></script>\r\n");
       out.write("\t\t<script type=\"text/javascript\" src=\"scripts/inspection.js\"></script>\r\n");
-      out.write("\t\t<script type=\"text/javascript\" src=\"scripts/utils.js\"></script>\r\n");
+      out.write("\t\t<script type=\"text/javascript\" src=\"scripts/utils/utils.js\"></script>\r\n");
       out.write("\t\t<!--[if lt IE 9]>\r\n");
       out.write("\t\t<script type=\"text/javascript\" src=\"scripts/flashcanvas.js\"></script>\r\n");
       out.write("\t\t<![endif]-->\r\n");

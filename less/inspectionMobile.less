@@ -546,17 +546,40 @@ html {
 									}
 								}
 
-								.tasks {
-									color:white;
-									max-height:0px;
-									transition:max-height 250ms;
+								.task {
 									z-index:1;
 									position:relative;
-									padding-left:5%;
+									padding:1% 1% 1% 5%;
+									margin-bottom:4%;
 
-									&.show {
-										max-height:9999px;
-										color:black;
+									.bottom-row {
+										font-size:12px;
+										color:#cccccc;
+										text-align:right;
+
+										.time {
+											position:absolute;
+											right:15%;
+										}
+									}
+
+									.task-name {
+										font-size:12px;
+										margin-bottom:2%;
+									}
+
+									.task-description {
+										font-size:11px;
+										color:#666666;
+										margin-bottom:2%;
+									}
+								}
+
+								.task.selected {
+									background-color:@mainBlue;
+
+									.task-name, .task-description, .bottom-row {
+										color:white;
 									}
 								}
 							}

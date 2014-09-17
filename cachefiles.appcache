@@ -1,6 +1,6 @@
 CACHE MANIFEST
 
-# Offline cache v1.8.4
+# Offline cache v1.8.5
 # jsp files
 
 #xml files
@@ -12,8 +12,8 @@ stylesheets/main.css
 # js files
 scripts/jquery-1.7.1.min.js
 scripts/inspection.js
-scripts/utils.js
 scripts/database.js
+scripts/utils.js
 scripts/jSignature.min.js
 scripts/flashcanvas.js
 

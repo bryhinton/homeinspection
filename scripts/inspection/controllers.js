@@ -105,9 +105,14 @@ inspection.controller('InspectionCtrl',
 
 		$scope.deleteInspection = function() {
 			if(confirm("Are you sure you want to delete this inspection?")) {
-				inspectionFactory.deleteInspection($scope.inspection.id, function() {
+				if($scope.inspection) {
+					inspectionFactory.deleteInspection($scope.inspection.id, function() {
+						window.location.reload();
+					});
+				}
+				else {
 					window.location.reload();
-				});
+				}
 			}
 		}
 	}

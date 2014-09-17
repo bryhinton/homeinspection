@@ -187,7 +187,7 @@
 	</servlet-mapping>
 	<servlet-mapping>
 		<servlet-name>pdf-generator</servlet-name>
-		<url-pattern>/pdf-generator</url-pattern>
+		<url-pattern>/pdf-generator/*</url-pattern>
 	</servlet-mapping>
 	<servlet-mapping>
 		<servlet-name>field-info</servlet-name>

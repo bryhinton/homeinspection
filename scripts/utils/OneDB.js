@@ -44,6 +44,7 @@ Database.prototype.saveObjects = function(objects, success, error) {
 
 Database.prototype.getObjects = function(table, params, success, error) {
 	this.get(table, params, function(objects, table) {
+		alert("Got objects");
 		var OneDBObjects = {};
 
 		for(var j = 0; j < objects.length; j++) {
@@ -676,6 +677,10 @@ IndexedDB.prototype.get = function(table, params, success, error) {
 
 			cursor.continue();
 		}.bind(this);
+
+		request.onerror = function(e) {
+			alert("Transaction unsuccessful");
+		}
 	}.bind(this));
 };
 
@@ -715,6 +720,12 @@ IndexedDB.prototype.delete = function(table, id, success, error) {
 	request.onsuccess = function(event) {
 		success(table, id);
 	}.bind(this);
+
+	request.onerror = function(event) {
+		if(error) {
+			error();
+		}
+	}
 };
 
 // ************* HELPER METHODS ***************
