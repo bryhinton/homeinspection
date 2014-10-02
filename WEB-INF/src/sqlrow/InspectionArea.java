@@ -123,6 +123,11 @@ public class InspectionArea extends SQLRow
 		return inspectionAreaLineItems;
 	}
 
+	public List<CustomLineItem> getCustomLineItems() {
+		loadNestedObjects();
+		return customLineItems;
+	}
+
 	public Area getArea() {
 		loadNestedObjects();
 		return area;

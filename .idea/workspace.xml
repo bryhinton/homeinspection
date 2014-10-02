@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1ed6da5-adc3-4655-9553-a436736637cd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/src/sqlrow/CustomLineItems.java" afterPath="$PROJECT_DIR$/WEB-INF/src/sqlrow/CustomLineItems.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java" afterPath="$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java" />
     </list>
     <ignored path="HomeInspection.iws" />
@@ -214,19 +213,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InspectionArea.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="InspectionArea.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="40" selection-start="2369" selection-end="2369" vertical-scroll-proportion="-20.4">
+            <state line="125" column="30" selection-start="2627" selection-end="2627" vertical-scroll-proportion="0.7719512">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomLineItems.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CustomLineItems.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/CustomLineItems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="176" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.6060976">
+            <state line="75" column="9" selection-start="2117" selection-end="2117" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#1412#1428#0" expanded="true" />
               </folding>
@@ -279,8 +278,8 @@
         <option value="$PROJECT_DIR$/scripts/inspection.js" />
         <option value="$PROJECT_DIR$/cachefiles.appcache" />
         <option value="$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java" />
-        <option value="$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java" />
         <option value="$PROJECT_DIR$/WEB-INF/src/sqlrow/CustomLineItems.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java" />
       </list>
     </option>
   </component>
@@ -1213,13 +1212,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="40" selection-start="2369" selection-end="2369" vertical-scroll-proportion="-20.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/inspection/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
@@ -1236,10 +1228,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/CustomLineItems.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="176" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.6060976">
+        <state line="75" column="9" selection-start="2117" selection-end="2117" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#1412#1428#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="30" selection-start="2627" selection-end="2627" vertical-scroll-proportion="0.7719512">
+          <folding />
         </state>
       </provider>
     </entry>
