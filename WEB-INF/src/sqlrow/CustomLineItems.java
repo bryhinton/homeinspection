@@ -47,4 +47,38 @@ public class CustomLineItems {
 
 		return customLineItems;
 	}
+
+	public static List<CustomLineItem> getAllForArea(int inspectionAreaID)
+	{
+		List<CustomLineItem> customLineItems = new ArrayList<CustomLineItem>();
+
+		Connection db = null;
+		ResultSet results = null;
+
+		try
+		{
+			db = Utils.openConnection(Utils.HOME_INSPECTION);
+			StringBuilder query = new StringBuilder();
+			query.append("SELECT * FROM customlineitem ");
+			query.append("WHERE inspectionarea = " + inspectionAreaID);
+			PreparedStatement stmt = db.prepareStatement(query.toString());
+			results = stmt.executeQuery();
+
+			while (results.next())
+			{
+				customLineItems.add(new CustomLineItem(results.getInt(1), results.getString(2), results.getInt(3), results.getInt(4), results.getString(5), results.getString(6)));
+			}
+		}
+		catch (Exception e)
+		{
+			Utils.rollbackAndClose(db);
+			System.out.println(e.getMessage());
+		}
+		finally
+		{
+			Utils.commitAndClose(db);
+		}
+
+		return customLineItems;
+	}
 }

@@ -9,6 +9,7 @@ public class InspectionArea extends SQLRow
 	protected String name = "";
 
 	protected List<InspectionAreaLineItem> inspectionAreaLineItems = null;
+	protected List<CustomLineItem> customLineItems = null;
 	protected Area area = null;
 
 	public InspectionArea()
@@ -64,6 +65,7 @@ public class InspectionArea extends SQLRow
 			{ String.class }));
 
 			nestedObjects.put("inspectionAreaLineItems", this.getClass().getMethod("getInspectionAreaLineItems", new Class[]{}));
+			nestedObjects.put("customLineItems", this.getClass().getMethod("getCustomLineItems", new Class[]{}));
 			nestedObjects.put("area", this.getClass().getMethod("getArea", new Class[]{}));
 		}
 		catch (Exception e)
@@ -105,6 +107,10 @@ public class InspectionArea extends SQLRow
 	public void loadNestedObjects() {
 		if(inspectionAreaLineItems == null) {
 			inspectionAreaLineItems = InspectionAreaLineItems.getAllForArea(getID());
+		}
+
+		if(customLineItems == null) {
+			customLineItems = CustomLineItems.getAllForArea(getID());
 		}
 
 		if(area == null) {
