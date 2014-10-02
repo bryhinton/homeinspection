@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1ed6da5-adc3-4655-9553-a436736637cd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java" afterPath="$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java" />
-    </list>
+    <list default="true" id="f1ed6da5-adc3-4655-9553-a436736637cd" name="Default" comment="" />
     <ignored path="HomeInspection.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -216,7 +214,7 @@
       <file leaf-file-name="InspectionArea.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="30" selection-start="2627" selection-end="2627" vertical-scroll-proportion="0.7719512">
+            <state line="109" column="9" selection-start="2304" selection-end="2304" vertical-scroll-proportion="0.4402439">
               <folding />
             </state>
           </provider>
@@ -1237,7 +1235,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="30" selection-start="2627" selection-end="2627" vertical-scroll-proportion="0.7719512">
+        <state line="109" column="9" selection-start="2304" selection-end="2304" vertical-scroll-proportion="0.4402439">
           <folding />
         </state>
       </provider>
