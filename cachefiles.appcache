@@ -13,7 +13,7 @@ stylesheets/main.css
 scripts/inspection.js
 scripts/jquery-1.7.1.min.js
 scripts/database.js
-scripts/utils.js
+scripts/utils/utils.js
 scripts/jSignature.min.js
 scripts/flashcanvas.js
 
