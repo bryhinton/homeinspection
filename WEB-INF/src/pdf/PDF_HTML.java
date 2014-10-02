@@ -134,7 +134,7 @@ public class PDF_HTML extends HttpServlet {
 
 									String comment = customLineItem.getComment();
 
-									if(Utils.notEmpty(comment)) {
+									if(Utils.notEmpty(comment) && !comment.equals("null")) {
 										writer.println("<td style='font-size:18px; padding-left:10px;'>" + comment + "</td>");
 									}
 									else {
