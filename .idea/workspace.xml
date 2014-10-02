@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1ed6da5-adc3-4655-9553-a436736637cd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java" afterPath="$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cachefiles.appcache" afterPath="$PROJECT_DIR$/cachefiles.appcache" />
     </list>
     <ignored path="HomeInspection.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -236,7 +234,7 @@
       <file leaf-file-name="PDF_HTML.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="87" selection-start="6823" selection-end="6823" vertical-scroll-proportion="0.7583643">
+            <state line="136" column="81" selection-start="6817" selection-end="6817" vertical-scroll-proportion="0.6319703">
               <folding />
             </state>
           </provider>
@@ -1213,7 +1211,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="87" selection-start="6823" selection-end="6823" vertical-scroll-proportion="0.7583643">
+        <state line="136" column="81" selection-start="6817" selection-end="6817" vertical-scroll-proportion="0.6319703">
           <folding />
         </state>
       </provider>
