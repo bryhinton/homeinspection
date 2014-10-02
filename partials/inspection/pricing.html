@@ -6,7 +6,7 @@
 				<div class="category-name" ng-click="expandCategory(category.id)">{{category.fields.name}}</div>
 				<div ng-repeat="(id,subCategory) in categories[category.id].fields.subCategories" class="sub-category">
 					<div class="sub-category-name" ng-class="{show:expandedCategories[category.id]}" ng-click="expandSubCategory(subCategory.id)">{{subCategory.fields.name}}</div>
-					<div ng-repeat="(id,task) in categories[category.id].fields.subCategories[subCategory.id].fields.tasks" class="task" ng-show="expandedSubCategories[subCategory.id]">
+					<div ng-repeat="(id,task) in categories[category.id].fields.subCategories[subCategory.id].fields.tasks" class="task" ng-show="expandedSubCategories[subCategory.id]" ng-click="addTask(id)">
 						<div class="task-name">{{task.fields.name}}</div>
 						<div class="task-description">{{task.fields.description}}</div>
 						<div class="bottom-row">

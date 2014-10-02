@@ -691,13 +691,6 @@ function addLineItemButtons(lineItem, isCustom) {
 
 			if(failTextDiv.css("display") != "block") {
 				failTextDiv.addClass("comment");
-
-				var failText = failTextDiv.find("textarea");
-
-				if(failText.text() == "") {
-					failText.text("Leave a comment...");
-				}
-
 				showFailText(failTextDiv);
 			}
 			else {
@@ -711,6 +704,7 @@ function addLineItemButtons(lineItem, isCustom) {
 		var failTextDiv = $("<div></div>");
 		failTextDiv.addClass("fail-text-div");
 
+
 		var failText = $("<textarea></textarea>");
 		failText.addClass("fail-text");
 
@@ -720,7 +714,7 @@ function addLineItemButtons(lineItem, isCustom) {
 			failText.css("fontStyle", "normal");
 		}
 		else {
-			failText.text("Leave a comment...");
+			failText.attr("placeholder", "Leave a comment...");
 		}
 		failTextDiv.append(failText);
 
@@ -766,10 +760,6 @@ function completeLineItem(e) {
 	var dataID = $(e.target).parents("li").attr("data-id");
 	var failTextDiv = $("li[data-id='" + dataID + "']").find(".fail-text-div");
 	if(target.hasClass("fail")) {
-		var failText = failTextDiv.find("textarea");
-
-		failText.text("Leave a comment...");
-
 		showFailText(failTextDiv);
 	}
 	else if(!failTextDiv.hasClass("comment")) {
@@ -799,14 +789,12 @@ function showFailText(failTextDiv) {
 	failTextDiv.css("display", "block");
 
 	var failText = failTextDiv.find(".fail-text");
-	failText.bind("keypress", startFailTextEntry);
 	failText.focus();
 
 	failTextDiv.animate({height:'70px'}, 100);
 }
 
 function hideFailText(failTextDiv) {
-	failTextDiv.find(".fail-text").unbind("click", startFailTextEntry);
 	failTextDiv.animate({height:'0px'}, 100, function() {
 		failTextDiv.css("display", "none");
 	});
@@ -815,9 +803,6 @@ function hideFailText(failTextDiv) {
 function startFailTextEntry(e) {
 	var dataID = $(e.target).parents("li").attr("data-id");
 	var failText = $("li[data-id='" + dataID + "']").find(".fail-text");
-	failText.unbind("keypress", startFailTextEntry);
-	failText.css("color", "black");
-	failText.css("fontStyle", "normal");
 	failText.val("");
 	failText.bind("blur", failTextBlur);
 }
@@ -827,13 +812,7 @@ function failTextBlur(e) {
 	var failText = $("li[data-id='" + dataID + "']").find(".fail-text");
 	failText.unbind("blur", failTextBlur);
 
-	if(failText.val() == "") {
-		failText.val("Leave a comment...");
-		failText.css("color", "#999999");
-		failText.css("fontStyle", "italic");
-		failText.bind("click", startFailTextEntry);
-	}
-	else {
+	if(failText.val() != "") {
 		if($(e.target).parents(".line-item.custom").length > 0) {
 			updateRecord("customlineitem", {"comment": failText.val()}, {"id": dataID});
 		}

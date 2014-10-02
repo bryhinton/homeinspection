@@ -44,7 +44,6 @@ Database.prototype.saveObjects = function(objects, success, error) {
 
 Database.prototype.getObjects = function(table, params, success, error) {
 	this.get(table, params, function(objects, table) {
-		alert("Got objects");
 		var OneDBObjects = {};
 
 		for(var j = 0; j < objects.length; j++) {
@@ -637,49 +636,55 @@ IndexedDB.prototype.updateSchema = function() {
 
 IndexedDB.prototype.get = function(table, params, success, error) {
 	this.openCurrentDatabase(function() {
-		var transaction = this.database.transaction([table]);
-		var store = transaction.objectStore(table);
-		var request;
+		try {
+			var transaction = this.database.transaction([table]);
+			var store = transaction.objectStore(table);
+			var request;
 
-		if(params && params.id) {
-			var keyRange = IDBKeyRange.only(params.id);
-			request = store.openCursor(keyRange);
-		}
-		else {
-			request = store.openCursor();
-		}
+			if(params && params.id) {
+				var keyRange = IDBKeyRange.only(params.id);
+				request = store.openCursor(keyRange);
+			}
+			else {
+				request = store.openCursor();
+			}
 
-		var allObjects = []
-		var returnObjects = [];
+			var allObjects = []
+			var returnObjects = [];
 
-		request.onsuccess = function(e) {
-			var cursor = e.target.result;
+			request.onsuccess = function(e) {
+				var cursor = e.target.result;
 
-			if(cursor == null) {
-				for(var object in allObjects) {
-					if(!allObjects[object].__NO_MATCH) {
-						returnObjects.push(allObjects[object]);
+				if(cursor == null) {
+					for(var object in allObjects) {
+						if(!allObjects[object].__NO_MATCH) {
+							returnObjects.push(allObjects[object]);
+						}
+					}
+
+					success(returnObjects, table, params);
+					return;
+				}
+
+				var object = [cursor.value][0];
+				allObjects.push(object);
+
+				for(var param in params) {
+					if(!object.__NO_MATCH && object[param] != params[param]) {
+						object.__NO_MATCH = true;
 					}
 				}
 
-				success(returnObjects, table, params);
-				return;
+				cursor.continue();
+			}.bind(this);
+
+			request.onerror = function(e) {
+				alert("Transaction unsuccessful");
 			}
-
-			var object = [cursor.value][0];
-			allObjects.push(object);
-
-			for(var param in params) {
-				if(!object.__NO_MATCH && object[param] != params[param]) {
-					object.__NO_MATCH = true;
-				}
-			}
-
-			cursor.continue();
-		}.bind(this);
-
-		request.onerror = function(e) {
-			alert("Transaction unsuccessful");
+		}
+		catch (e) {
+			alert(e);
+			alert(table);
 		}
 	}.bind(this));
 };

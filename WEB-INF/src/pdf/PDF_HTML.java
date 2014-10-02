@@ -90,7 +90,7 @@ public class PDF_HTML extends HttpServlet {
 									writer.println("<td style='width:20%; color:white; font-size:20px; text-align:center; background-color:#" + result.getColor() + ";'>" + result.getLabel() + "</td>");
 
 									String comment = inspectionAreaLineItem.getComment();
-									if(Utils.notEmpty(comment)) {
+									if(Utils.notEmpty(comment) && !comment.equals("null")) {
 										writer.println("<tr><td colspan='2' style='font-size:16px; padding-left:10px; padding-left:5%;'>" + comment + "</td></tr>");
 									}
 									else {

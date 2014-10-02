@@ -24,8 +24,8 @@ var inspection = angular.module('inspection', [])
 		var ready = false;
 
 		var database = getDatabase("inspections", "Inspections", "1.0", (1024*1024*5), function(db) {
+			db.updateSchema();
 			db.getObjects("inspection", {"finished": false}, function(inspections) {
-				alert("Got inspections");
 				if($.isEmptyObject(inspections)) {
 					db.updateSchema();
 				}

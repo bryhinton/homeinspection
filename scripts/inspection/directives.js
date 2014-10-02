@@ -282,7 +282,7 @@ inspection.directive("review", ['inspectionFactory', '$location', function(inspe
 				$location.path("/customer");
 			}
 			else {
-				$scope.selectInspectionArea($scope.inspection.fields.inspectionAreas[Object.keys($scope.inspection.fields.inspectionAreas)[0]].id)
+				$scope.selectInspectionArea($scope.inspection.fields.inspectionAreas[Object.keys($scope.inspection.fields.inspectionAreas)[0]].id);
 
 				$scope.failedLineItems = {};
 
@@ -310,12 +310,13 @@ inspection.directive("review", ['inspectionFactory', '$location', function(inspe
 					}
 				};
 
-				$scope.togglePricing = function(failedLineItemID) {
+				$scope.togglePricing = function(failedLineItemID, inspectionAreaID) {
 					if(!$scope["showPricing"]) {
 						$scope.showPricing = true;
 						$scope.showChangeArea = false;
 
 						$scope.pricingLineItem = failedLineItemID;
+						$scope.pricingInspectionArea = inspectionAreaID;
 					}
 					else {
 						$scope.showPricing = false;
@@ -369,21 +370,33 @@ inspection.directive("pricing", ['inspectionFactory', function(inspectionFactory
 			});
 
 			$scope.expandCategory = function(categoryID) {
-				if($scope.expandedCategories[categoryID]) {
-					$scope.expandedCategories[categoryID] = false;
-				}
-				else {
-					$scope.expandedCategories[categoryID] = true;
-				}
+				$scope.expandedCategories[categoryID] = !$scope.expandedCategories[categoryID];
 			};
 
 			$scope.expandSubCategory = function(subCategoryID) {
-				if($scope.expandedSubCategories[subCategoryID]) {
-					$scope.expandedSubCategories[subCategoryID] = false;
-				}
-				else {
-					$scope.expandedSubCategories[subCategoryID] = true;
-				}
+				$scope.expandedSubCategories[subCategoryID] = !$scope.expandedSubCategories[subCategoryID];
+			};
+
+			$scope.addTask = function(taskID) {
+				inspectionFactory.getCurrentInspection(function(inspection) {
+					var fields = {};
+					fields.inspectionarealineitem = $scope.$parent.pricingLineItem;
+					fields.task = taskID;
+					fields.inspection = inspection.fields.id;
+
+					var quoteItem = new OneDBObject(fields, "quoteitem", inspectionFactory.getDatabase());
+					quoteItem.save(function() {
+						$scope.$apply(function() {
+							var inspectionAreaLineItem = inspection.fields.inspectionAreas[$scope.$parent.pricingInspectionArea].fields.inspectionAreaLineItems[$scope.$parent.pricingLineItem];
+
+							if(!inspectionAreaLineItem.fields.quoteItems) {
+								inspectionAreaLineItem.fields.quoteItems = {};
+							}
+
+							inspectionAreaLineItem.fields.quoteItems[quoteItem.id] = quoteItem;
+						});
+					});
+				});
 			};
 		}
 	}
