@@ -7,8 +7,10 @@ CACHE MANIFEST
 schema.xml
 
 # css files
+stylesheets/main.css
 
 # js files
+scripts/inspection.js
 scripts/jquery-1.7.1.min.js
 scripts/database.js
 scripts/utils.js
@@ -18,8 +20,6 @@ scripts/flashcanvas.js
 # images
 
 NETWORK:
-stylesheets/main.css
-scripts/inspection.js
 login
 company-info
 pricing
