@@ -257,7 +257,7 @@ public class InspectionServlet extends HttpServlet {
 				fullURL = fullURL.substring(0, fullURL.lastIndexOf("/"));
 
 				GeneratePDF generatePDF = new GeneratePDF();
-				generatePDF.genrateCmd("http://localhost/pdf-generator/index.html?inspectionID=" + inspectionID, "inspections", String.valueOf(company.getID()), fileName);
+				generatePDF.genrateCmd("http://localhost:8080/HomeInspection/pdf-generator/index.html?inspectionID=" + inspectionID, "inspections", String.valueOf(company.getID()), fileName);
 
 				try{
 					Thread.sleep(3000); //Give the PDF Generator a little time to wrap up.

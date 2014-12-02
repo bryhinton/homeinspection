@@ -790,6 +790,7 @@ function showFailText(failTextDiv) {
 
 	var failText = failTextDiv.find(".fail-text");
 	failText.focus();
+	failText.bind("blur", failTextBlur);
 
 	failTextDiv.animate({height:'70px'}, 100);
 }
@@ -798,13 +799,6 @@ function hideFailText(failTextDiv) {
 	failTextDiv.animate({height:'0px'}, 100, function() {
 		failTextDiv.css("display", "none");
 	});
-}
-
-function startFailTextEntry(e) {
-	var dataID = $(e.target).parents("li").attr("data-id");
-	var failText = $("li[data-id='" + dataID + "']").find(".fail-text");
-	failText.val("");
-	failText.bind("blur", failTextBlur);
 }
 
 function failTextBlur(e) {

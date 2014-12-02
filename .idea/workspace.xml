@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1ed6da5-adc3-4655-9553-a436736637cd" name="Default" comment="" />
+    <list default="true" id="f1ed6da5-adc3-4655-9553-a436736637cd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/classes/screens/InspectionServlet$1.class" afterPath="$PROJECT_DIR$/WEB-INF/classes/screens/InspectionServlet$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" afterPath="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cachefiles.appcache" afterPath="$PROJECT_DIR$/cachefiles.appcache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/inspection.js" afterPath="$PROJECT_DIR$/scripts/inspection.js" />
+    </list>
     <ignored path="HomeInspection.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,7 +67,16 @@
       <file leaf-file-name="inspection.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/inspection.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1264" column="56" selection-start="38122" selection-end="38138" vertical-scroll-proportion="-10.4">
+            <state line="801" column="1" selection-start="22822" selection-end="22822" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cachefiles.appcache" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cachefiles.appcache">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.041463416">
               <folding />
             </state>
           </provider>
@@ -76,19 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cachefiles.appcache" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cachefiles.appcache">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pricing.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partials/inspection/pricing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="6" selection-start="1312" selection-end="1312" vertical-scroll-proportion="-13.730769">
+            <state line="21" column="6" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -168,17 +174,8 @@
       </file>
       <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEB-INF/web.xml">
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="185" column="56" selection-start="5699" selection-end="5699" vertical-scroll-proportion="-84.2">
+            <state line="185" column="56" selection-start="5699" selection-end="5699" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -196,7 +193,7 @@
       <file leaf-file-name="InspectionServlet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="280" column="25" selection-start="10727" selection-end="10727" vertical-scroll-proportion="0.0">
+            <state line="104" column="0" selection-start="4335" selection-end="4335" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -205,16 +202,16 @@
       <file leaf-file-name="PDF_HTML.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="119" selection-start="6475" selection-end="6475" vertical-scroll-proportion="-10.4">
+            <state line="96" column="68" selection-start="4712" selection-end="4712" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InspectionArea.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="InspectionArea.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="9" selection-start="2304" selection-end="2304" vertical-scroll-proportion="0.4402439">
+            <state line="110" column="0" selection-start="2305" selection-end="2305" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -224,9 +221,7 @@
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/CustomLineItems.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="75" column="9" selection-start="2117" selection-end="2117" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#1412#1428#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -263,7 +258,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" />
         <option value="$PROJECT_DIR$/scripts/inspection/controllers.js" />
         <option value="$PROJECT_DIR$/main.html" />
         <option value="$PROJECT_DIR$/scripts/utils/OneDB.js" />
@@ -273,11 +267,12 @@
         <option value="$PROJECT_DIR$/partials/inspection/review.html" />
         <option value="$PROJECT_DIR$/scripts/inspection/directives.js" />
         <option value="$PROJECT_DIR$/stylesheets/main.css" />
-        <option value="$PROJECT_DIR$/scripts/inspection.js" />
-        <option value="$PROJECT_DIR$/cachefiles.appcache" />
         <option value="$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java" />
         <option value="$PROJECT_DIR$/WEB-INF/src/sqlrow/CustomLineItems.java" />
         <option value="$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java" />
+        <option value="$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java" />
+        <option value="$PROJECT_DIR$/scripts/inspection.js" />
+        <option value="$PROJECT_DIR$/cachefiles.appcache" />
       </list>
     </option>
   </component>
@@ -673,8 +668,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -714,24 +709,6 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -765,6 +742,24 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -782,6 +777,17 @@
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -808,17 +814,6 @@
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -1003,7 +998,7 @@
       <window_info id="JetGradle" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1679" y="0" width="1135" height="1013" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1678" y="0" width="1137" height="1013" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947975" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1015,7 +1010,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14302957" sideWeight="0.6820809" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14302957" sideWeight="0.67052025" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32947975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1680" y="-1" width="1032" height="1013" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1117,46 +1112,35 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/GeneratePDF.java">
+    <entry file="file://$PROJECT_DIR$/schema.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="92" selection-start="1207" selection-end="1213" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/control-center/inspectionsList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="62" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/Categories.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="280" column="25" selection-start="10727" selection-end="10727" vertical-scroll-proportion="0.0">
+        <state line="82" column="78" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/inspection/inspection.js">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/Category.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="54" selection-start="1074" selection-end="1074" vertical-scroll-proportion="0.0">
+        <state line="53" column="27" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cachefiles.appcache">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/api/SQLRowAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="56" selection-start="5699" selection-end="5699" vertical-scroll-proportion="-84.2">
+        <state line="73" column="58" selection-start="2142" selection-end="2142" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1168,37 +1152,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/utils/OneDB.js">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="686" column="25" selection-start="17136" selection-end="17136" vertical-scroll-proportion="0.0">
+        <state line="185" column="56" selection-start="5699" selection-end="5699" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/Utils.java">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/GeneratePDF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="254" column="26" selection-start="4859" selection-end="4859" vertical-scroll-proportion="0.33292684">
+        <state line="39" column="92" selection-start="1207" selection-end="1213" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/Inspection.java">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/CustomLineItems.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="288" column="50" selection-start="7078" selection-end="7096" vertical-scroll-proportion="0.33248082">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="119" selection-start="6475" selection-end="6475" vertical-scroll-proportion="-10.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/inspectionMobile.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="556" column="53" selection-start="8538" selection-end="8538" vertical-scroll-proportion="0.0">
+        <state line="75" column="9" selection-start="2117" selection-end="2117" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1210,32 +1180,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/inspection/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/schema.json">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/CustomLineItems.java">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="9" selection-start="2117" selection-end="2117" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#1412#1428#0" expanded="true" />
-          </folding>
+        <state line="110" column="0" selection-start="2305" selection-end="2305" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/src/sqlrow/InspectionArea.java">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/pdf/PDF_HTML.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="9" selection-start="2304" selection-end="2304" vertical-scroll-proportion="0.4402439">
+        <state line="96" column="68" selection-start="4712" selection-end="4712" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/src/screens/InspectionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="0" selection-start="4335" selection-end="4335" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/inspection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="801" column="1" selection-start="22822" selection-end="22822" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cachefiles.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="22" selection-start="38" selection-end="38" vertical-scroll-proportion="0.041463416">
           <folding />
         </state>
       </provider>
