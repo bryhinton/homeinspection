@@ -271,7 +271,7 @@ public class InspectionServlet extends HttpServlet {
 
 					Email email = new Email();
 					email.setTo(emailAddress);
-					email.setFrom(company.getEmail());
+					email.setFrom("info@servicetechapps.com");
 					email.setSubject(company.getName() + " Home Inspection Results");
 
 					email.setContent("For questions about your inspection results, or to schedule service for failed items please call " + company.getPhone() + ". Your technician was " + technician.getFirstName() + ".");
