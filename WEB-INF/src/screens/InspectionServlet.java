@@ -278,8 +278,6 @@ public class InspectionServlet extends HttpServlet {
 
 					email.setFileName(fullFilePath);
 
-					System.out.println("Sending customer email as " + email.getFrom());
-
 					try {
 						email.send();
 					}
@@ -299,13 +297,11 @@ public class InspectionServlet extends HttpServlet {
 				}
 
 				Email companyNotification = new Email();
-				companyNotification.setFrom("DO_NOT_REPLY@servicetechapps.com");
+				companyNotification.setFrom("info@servicetechapps.com");
 				companyNotification.setTo(company.getEmail());
 				companyNotification.setSubject("New Inspection");
 				companyNotification.setContent("A new inspection has been completed by " + technician.getFirstName() + " " + technician.getLastName() + ". Go to your <a href='http://67.186.221.39:8080/HomeInspection/company-login.jsp'>Control Panel</a> to see the results.");
 				companyNotification.setFileName(fullFilePath);
-
-				System.out.println("Sending company notification as " + companyNotification.getFrom());
 
 				try {
 					companyNotification.send();
