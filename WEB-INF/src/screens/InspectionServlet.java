@@ -279,6 +279,7 @@ public class InspectionServlet extends HttpServlet {
 					email.setFileName(fullFilePath);
 
 					try {
+						System.out.println("Sending email to " + email.getTo());
 						email.send();
 					}
 					catch(Exception e) {
