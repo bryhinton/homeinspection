@@ -2,87 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1ed6da5-adc3-4655-9553-a436736637cd" name="Default" comment="">
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\annotations\APIAnnotation.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\api\AreaService.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\api\CompanyService.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\api\SQLRowAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\api\Service.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\api\TechnicianService.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\email\DummyTrustManager.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\email\Email$1.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\email\Email$SMTPAuthenticator.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\email\Email.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\email\HotmailSSLSocketFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\org\apache\jsp\admin_002dlogin_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\org\apache\jsp\company_002dlogin_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\org\apache\jsp\index_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\org\apache\jsp\inspection_002dreview_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\org\apache\jsp\inspection_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\org\apache\jsp\pdftest_jsp.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\pdf\GeneratePDF.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\pdf\PDF_HTML.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\Admin.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\CompanyInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\CompanyLogin.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\ControlPanel.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\EditArea.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\EditCompany.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\EditCompanyLicense.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\EditField.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\EditLineItem.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\EditTechnician.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\FieldInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\InspectionInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\InspectionResultServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\InspectionServlet$1.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\InspectionServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\Login.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\LogoFileUpload.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\NewInspection.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\PricingFileUpload.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\PricingServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\PushableTest.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\screens\ScreenUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Area.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Areas.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Categories.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Category.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Companies.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Company.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\CompanyApp.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\CompanyApps.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\CompanyLicense.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\CompanyLicenses.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\CustomLineItem.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\CustomLineItems.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\DateUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Field.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\FieldType.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\FieldValue.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Fields.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Inspection.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\InspectionArea.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\InspectionAreaLineItem.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\InspectionAreaLineItems.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\InspectionAreas.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\InspectionResult.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Inspections.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\LineItem.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\LineItems.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\QuoteItem.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\QuoteItems.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\SQLRow.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Task.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Tasks.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Technician.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Technicians.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Utils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="H:\Eclipse Projects\HomeInspection\WEB-INF\classes\sqlrow\Utils.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/classes/email/Email.class" afterPath="$PROJECT_DIR$/WEB-INF/classes/email/Email.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEB-INF/src/email/Email.java" afterPath="$PROJECT_DIR$/WEB-INF/src/email/Email.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HomeInspection.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -163,8 +84,8 @@
       <file leaf-file-name="Email.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEB-INF/src/email/Email.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17447247">
-              <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.16623777">
+              <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -1374,16 +1295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEB-INF/classes/email/Email.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.36573705">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#4105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.classpath">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1392,10 +1303,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/classes/email/Email.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WEB-INF/src/email/Email.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17447247">
-          <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.16623777">
+          <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
           <folding />
         </state>
       </provider>

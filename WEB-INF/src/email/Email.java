@@ -27,7 +27,7 @@ public class Email
 	public void send() throws Exception
 	{
 		// Assuming you are sending email from localhost
-		String host = "smtpout.secureserver.net";
+		String host = "smtp.office365.com";//"smtpout.secureserver.net";
 
 		// Get system properties
 		Properties properties = System.getProperties();
@@ -36,7 +36,7 @@ public class Email
 		properties.setProperty("mail.smtp.host", host);
 		properties.setProperty("mail.smtp.starttls.enable", "true");
 		properties.setProperty("mail.smtp.auth", "true");
-		properties.setProperty("mail.smtp.port", "80");
+		properties.setProperty("mail.smtp.port", "587"); //80
 		//properties.setProperty("mail.smtp.user", "bryhinton@hotmail.com");
 		//properties.setProperty("mail.smtp.socketFactory.port", "465");
 		//properties.setProperty("mail.smtp.socketFactory.class",	"javax.net.ssl.SSLSocketFactory");
